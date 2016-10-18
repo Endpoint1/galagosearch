@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Access control list - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Access_control_list","wgTitle":"Access control list","wgCurRevisionId":741792223,"wgRevisionId":741792223,"wgArticleId":61589,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Computer access control"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Access_control_list","wgRelevantArticleId":61589,"wgRequestId":"WAUXvApAAEMAAfAoSAMAAACE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikibaseItemId":"Q338966","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Access_control_list"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Access_control_list&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Access_control_list&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Access_control_list"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Access_control_list rootpage-Access_control_list skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Access control list</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the computer permissions list. For the ligament, see <a href="/wiki/Anterior_cruciate_ligament" title="Anterior cruciate ligament">Anterior cruciate ligament</a>.</div>
+<p>An <b>access control list</b> (<b>ACL</b>), with respect to a <a href="/wiki/Computer" title="Computer">computer</a> <a href="/wiki/File_system" title="File system">file system</a>, is a list of <a href="/wiki/File_system_permissions" title="File system permissions">permissions</a> attached to an <a href="/wiki/Computer_file" title="Computer file">object</a>. An ACL specifies which users or system processes are granted access to objects, as well as what operations are allowed on given objects.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Each entry in a typical ACL specifies a subject and an operation. For instance, if a file object has an ACL that contains <tt>(Alice: read,write; Bob: read)</tt>, this would give Alice permission to read and write the file and Bob to only read it.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Implementations"><span class="tocnumber">1</span> <span class="toctext">Implementations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Filesystem_ACLs"><span class="tocnumber">1.1</span> <span class="toctext">Filesystem ACLs</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Networking_ACLs"><span class="tocnumber">1.2</span> <span class="toctext">Networking ACLs</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#SQL_implementations"><span class="tocnumber">1.3</span> <span class="toctext">SQL implementations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Comparing_with_RBAC"><span class="tocnumber">2</span> <span class="toctext">Comparing with RBAC</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Implementations">Implementations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Access_control_list&amp;action=edit&amp;section=1" title="Edit section: Implementations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many kinds of systems implement ACL, or have a historical implementation.</p>
+<h3><span class="mw-headline" id="Filesystem_ACLs">Filesystem ACLs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Access_control_list&amp;action=edit&amp;section=2" title="Edit section: Filesystem ACLs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the 1990s the ACL and <a href="/wiki/Role-based_access_control" title="Role-based access control">RBAC</a> models were extensively tested and used to administrate file permissions. A <a href="/wiki/Filesystem" class="mw-redirect" title="Filesystem">filesystem</a> ACL is a data structure (usually a table) containing entries that specify individual user or group rights to specific system objects such as programs, processes, or files. These entries are known as access control entries (ACEs) in the <a href="/wiki/Microsoft_Windows_NT" class="mw-redirect" title="Microsoft Windows NT">Microsoft Windows NT</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <a href="/wiki/OpenVMS" title="OpenVMS">OpenVMS</a>, <a href="/wiki/Unix-like" title="Unix-like">Unix-like</a>, and <a href="/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a> <a href="/wiki/Operating_system" title="Operating system">operating systems</a>. Each accessible object contains an identifier to its ACL. The privileges or permissions determine specific access rights, such as whether a user can read from, write to, or <a href="/wiki/Execution_(computing)" title="Execution (computing)">execute</a> an object. In some implementations, an ACE can control whether or not a user, or group of users, may alter the ACL on an object.</p>
+<p>Most of the Unix and Unix-like operating systems (e.g. <a href="/wiki/Linux" title="Linux">Linux</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <a href="/wiki/BSD" class="mw-redirect" title="BSD">BSD</a>, or <a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a>) support POSIX.1e ACLs, based on an early <a href="/wiki/POSIX" title="POSIX">POSIX</a> draft that was withdrawn in 1997. Many of them, for example <a href="/wiki/AIX" class="mw-redirect" title="AIX">AIX</a>, <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <a href="/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a> beginning with version 10.4 ("<a href="/wiki/Mac_OS_X_Tiger" title="Mac OS X Tiger">Tiger</a>"), or <a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a> with <a href="/wiki/ZFS" title="ZFS">ZFS</a> filesystem,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> support <a href="/wiki/NFSv4" class="mw-redirect" title="NFSv4">NFSv4</a> ACLs, which are part of the NFSv4 standard. There are two experimental implementations of NFSv4 ACLs for Linux: NFSv4 ACLs support for <a href="/wiki/Ext3" title="Ext3">Ext3</a> filesystem<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> and recent <a href="/wiki/Richacls" title="Richacls">Richacls</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> which brings NFSv4 ACLs support for <a href="/wiki/Ext4" title="Ext4">Ext4</a> filesystem.</p>
+<h3><span class="mw-headline" id="Networking_ACLs">Networking ACLs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Access_control_list&amp;action=edit&amp;section=3" title="Edit section: Networking ACLs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On some types of proprietary computer hardware (in particular <a href="/wiki/Router_(computing)" title="Router (computing)">routers</a> and <a href="/wiki/Network_switch" title="Network switch">switches</a>), an access control list refers to rules that are applied to <a href="/wiki/TCP_and_UDP_port" class="mw-redirect" title="TCP and UDP port">port numbers</a> or <a href="/wiki/Ip_address" class="mw-redirect" title="Ip address">IP addresses</a> that are available on a <a href="/wiki/Server_(computing)" title="Server (computing)">host</a> or other <a href="/wiki/Network_Layer" class="mw-redirect" title="Network Layer">layer 3</a>, each with a list of hosts and/or networks permitted to use the service. Although it is additionally possible to configure access control lists based on network domain names, this is generally a questionable idea because individual TCP, UDP, and ICMP headers do not contain domain names. Consequently, the device enforcing the access control list must separately resolve names to numeric addresses. This presents an additional attack surface for an attacker who is seeking to compromise security of the system which the access control list is protecting. Both individual <a href="/wiki/Server_(computing)" title="Server (computing)">servers</a> as well as <a href="/wiki/Router_(computing)" title="Router (computing)">routers</a> can have network ACLs. Access control lists can generally be configured to control both inbound and outbound traffic, and in this context they are similar to <a href="/wiki/Firewall_(networking)" class="mw-redirect" title="Firewall (networking)">firewalls</a>. Like firewalls, ACLs could be subject to security regulations and standards such as <a href="/wiki/PCI_DSS" class="mw-redirect" title="PCI DSS">PCI DSS</a>.</p>
+<h3><span class="mw-headline" id="SQL_implementations">SQL implementations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Access_control_list&amp;action=edit&amp;section=4" title="Edit section: SQL implementations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ACL algorithms have been ported to <a href="/wiki/SQL" title="SQL">SQL</a> and <a href="/wiki/Relational_database_management_system" title="Relational database management system">relational database systems</a>. Many "modern" (2000's and 2010's) <a href="/wiki/SQL" title="SQL">SQL</a> based systems, like <a href="/wiki/Enterprise_resource_planning" title="Enterprise resource planning">enterprise resource planning</a> and <a href="/wiki/Content_management_system" title="Content management system">content management</a> systems, have used ACL model in their administration modules.</p>
+<h2><span class="mw-headline" id="Comparing_with_RBAC">Comparing with RBAC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Access_control_list&amp;action=edit&amp;section=5" title="Edit section: Comparing with RBAC">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main alternative to the ACL model is the <a href="/wiki/Role-based_access_control" title="Role-based access control">Role-based access control</a> (RBAC) model. A "minimal RBAC Model", <i>RBACm</i>, can be compared with an ACL mechanism, <i>ACLg</i>, where only groups are permitted as entries in the ACL. Barkley (1997)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> showed that <i>RBACm</i> and <i>ACLg</i> are equivalent.</p>
+<p>In modern SQL implementations, ACL also manage groups and inheritance in a hierarchy of groups. So "modern ACLs" can express all that RBAC express, and are notably powerful (compared to "old ACLs") in their ability to express access control policy in terms of the way in which administrators view organizations.</p>
+<p>For data interchange, and for "high level comparisons", ACL data can be translated to <a href="/wiki/XACML" title="XACML">XACML</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Access_control_list&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Cacls" title="Cacls">Cacls</a></li>
+<li><a href="/wiki/Capability-based_security" title="Capability-based security">Capability-based security</a></li>
+<li><a href="/wiki/Confused_deputy_problem" title="Confused deputy problem">Confused deputy problem</a></li>
+<li><a href="/wiki/DACL" class="mw-redirect" title="DACL">DACL</a></li>
+<li><a href="/wiki/Role-based_access_control" title="Role-based access control">Role-based access control</a> (RBAC)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Access_control_list&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc4949">RFC 4949</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://technet.microsoft.com/en-us/library/bb457115.aspx">"Managing Authorization and Access Control"</a>. <a href="/wiki/Microsoft_Technet" class="mw-redirect" title="Microsoft Technet">Microsoft Technet</a>. 2005-11-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.btitle=Managing+Authorization+and+Access+Control&amp;rft.date=2005-11-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftechnet.microsoft.com%2Fen-us%2Flibrary%2Fbb457115.aspx&amp;rft.pub=Microsoft+Technet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/3/html/Release_Notes/as-x86/index.html">"Red Hat Enterprise Linux AS 3 Release Notes (x86 Edition)"</a>. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>. 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>. <q>EA (Extended Attributes) and ACL (Access Control Lists) functionality is now available for ext3 file systems. In addition, ACL functionality is available for NFS.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.btitle=Red+Hat+Enterprise+Linux+AS+3+Release+Notes+%28x86+Edition%29&amp;rft.date=2003&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Faccess.redhat.com%2Fsite%2Fdocumentation%2Fen-US%2FRed_Hat_Enterprise_Linux%2F3%2Fhtml%2FRelease_Notes%2Fas-x86%2Findex.html&amp;rft.pub=Red+Hat&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://wiki.freebsd.org/NFSv4_ACLs">"NFSv4 ACLs"</a>. <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>. 2011-09-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.btitle=NFSv4+ACLs&amp;rft.date=2011-09-12&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwiki.freebsd.org%2FNFSv4_ACLs&amp;rft.pub=FreeBSD&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://docs.oracle.com/cd/E19082-01/817-2271/ftyxi/index.html">"Chapter 8 Using ACLs and Attributes to Protect ZFS Files"</a>. <a href="/wiki/Oracle_Corporation" title="Oracle Corporation">Oracle Corporation</a>. 2009-10-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.btitle=Chapter+8+Using+ACLs+and+Attributes+to+Protect+ZFS+Files&amp;rft.date=2009-10-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdocs.oracle.com%2Fcd%2FE19082-01%2F817-2271%2Fftyxi%2Findex.html&amp;rft.pub=Oracle+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">GrÃ¼nbacher, Andreas (May 2008). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130620012339/http://users.suse.com/~agruen/nfs4acl/">"Native NFSv4 ACLs on Linux"</a>. <a href="/wiki/SUSE" title="SUSE">SUSE</a>. Archived from <a rel="nofollow" class="external text" href="http://users.suse.com/~agruen/nfs4acl/">the original</a> on 2013-06-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.aufirst=Andreas&amp;rft.aulast=Gr%C3%BCnbacher&amp;rft.btitle=Native+NFSv4+ACLs+on+Linux&amp;rft.date=2008-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fusers.suse.com%2F~agruen%2Fnfs4acl%2F&amp;rft.pub=SUSE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">GrÃ¼nbacher, Andreas (JulyâSeptember 2010). <a rel="nofollow" class="external text" href="http://www.bestbits.at/richacl/">"Richacls - Native NFSv4 ACLs on Linux"</a>. bestbits.at<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.aufirst=Andreas&amp;rft.aulast=Gr%C3%BCnbacher&amp;rft.btitle=Richacls+-+Native+NFSv4+ACLs+on+Linux&amp;rft.date=2010-07%2F2010-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bestbits.at%2Frichacl%2F&amp;rft.pub=bestbits.at&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">J. Barkley (1997) "<a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.107.6366">Comparing simple role based access control models and access control lists</a>", In "Proceedings of the second ACM workshop on Role-based access control", pages 127-132.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">G. Karjoth, A. Schade and E. Van Herreweghen (2008) "<a rel="nofollow" class="external text" href="http://www.acsac.org/openconf2008/modules/request.php?module=oc_program&amp;action=view.php&amp;id=73">Implementing ACL-based Policies in XACML</a>", In "2008 Annual Computer Security Applications Conference".</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Access_control_list&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation web">Rhodes, Tom. <a rel="nofollow" class="external text" href="https://www.freebsd.org/doc/en/books/handbook/fs-acl.html">"File System Access Control Lists (ACLs)"</a>. <i>FreeBSD Handbook</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.atitle=File+System+Access+Control+Lists+%28ACLs%29&amp;rft.aufirst=Tom&amp;rft.aulast=Rhodes&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.freebsd.org%2Fdoc%2Fen%2Fbooks%2Fhandbook%2Ffs-acl.html&amp;rft.jtitle=FreeBSD+Handbook&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web">Michael Fox; John Giordano; Lori Stotler; Arun Thomas (2005-08-24). <a rel="nofollow" class="external text" href="https://www.cs.virginia.edu/~jcg8f/GrsecuritySELinuxCaseStudy.pdf">"SELinux and grsecurity: A Case Study Comparing Linux Security Kernel Enhancements"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/University_of_Virginia" title="University of Virginia">University of Virginia</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.au=Arun+Thomas&amp;rft.au=John+Giordano&amp;rft.au=Lori+Stotler&amp;rft.au=Michael+Fox&amp;rft.btitle=SELinux+and+grsecurity%3A+A+Case+Study+Comparing+Linux+Security+Kernel+Enhancements&amp;rft.date=2005-08-24&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.cs.virginia.edu%2F~jcg8f%2FGrsecuritySELinuxCaseStudy.pdf&amp;rft.pub=University+of+Virginia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web">Hinrichs, Susan (2005). <a rel="nofollow" class="external text" href="http://www.cs.uiuc.edu/class/fa05/cs498sh/seclab/slides/OSNotes.ppt">"Operating System Security"</a>. <i>CyberSecurity Spring 2005</i>. <a href="/wiki/University_of_Illinois" class="mw-redirect" title="University of Illinois">University of Illinois</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.atitle=Operating+System+Security&amp;rft.aufirst=Susan&amp;rft.aulast=Hinrichs&amp;rft.date=2005&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cs.uiuc.edu%2Fclass%2Ffa05%2Fcs498sh%2Fseclab%2Fslides%2FOSNotes.ppt&amp;rft.jtitle=CyberSecurity+Spring+2005&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web">Mitchell, John. <a rel="nofollow" class="external text" href="https://crypto.stanford.edu/cs155old/cs155-spring03/lecture9.pdf">"Access Control and Operating System Security"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.aufirst=John&amp;rft.aulast=Mitchell&amp;rft.btitle=Access+Control+and+Operating+System+Security&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fcrypto.stanford.edu%2Fcs155old%2Fcs155-spring03%2Flecture9.pdf&amp;rft.pub=Stanford+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web">Clarkson, Michael. <a rel="nofollow" class="external text" href="https://www.cs.cornell.edu/courses/cs513/2007fa/NL.accessControl.html">"Access Control"</a>. <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.aufirst=Michael&amp;rft.aulast=Clarkson&amp;rft.btitle=Access+Control&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.cs.cornell.edu%2Fcourses%2Fcs513%2F2007fa%2FNL.accessControl.html&amp;rft.pub=Cornell+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web">Klein, Helge (2009-03-12). <a rel="nofollow" class="external text" href="http://helgeklein.com/blog/2009/03/permissions-a-primer-or-dacl-sacl-owner-sid-and-ace-explained/">"Permissions: A Primer, or: DACL, SACL, Owner, SID and ACE Explained"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.aufirst=Helge&amp;rft.aulast=Klein&amp;rft.btitle=Permissions%3A+A+Primer%2C+or%3A+DACL%2C+SACL%2C+Owner%2C+SID+and+ACE+Explained&amp;rft.date=2009-03-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhelgeklein.com%2Fblog%2F2009%2F03%2Fpermissions-a-primer-or-dacl-sacl-owner-sid-and-ace-explained%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://msdn.microsoft.com/en-us/library/aa374872(VS.85).aspx">"Access Control Lists"</a>. <a href="/wiki/MSDN_Library" class="mw-redirect" title="MSDN Library">MSDN Library</a>. 2012-10-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.btitle=Access+Control+Lists&amp;rft.date=2012-10-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Faa374872%28VS.85%29.aspx&amp;rft.pub=MSDN+Library&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://technet.microsoft.com/en-us/library/cc783530(WS.10).aspx">"How Permissions Work"</a>. <a href="/wiki/Microsoft_Technet" class="mw-redirect" title="Microsoft Technet">Microsoft Technet</a>. 2003-03-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccess+control+list&amp;rft.btitle=How+Permissions+Work&amp;rft.date=2003-03-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftechnet.microsoft.com%2Fen-us%2Flibrary%2Fcc783530%28WS.10%29.aspx&amp;rft.pub=Microsoft+Technet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:61589-0!*!0!!en!*!* and timestamp 20161013124902 and revision id 741792223
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Access_control_list&amp;oldid=741792223">https://en.wikipedia.org/w/index.php?title=Access_control_list&amp;oldid=741792223</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_access_control" title="Category:Computer access control">Computer access control</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Access+control+list" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Access+control+list" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Access_control_list"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Access_control_list"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Access_control_list" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Access_control_list&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Access_control_list&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content â the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Access_control_list" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Access_control_list" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Access_control_list&amp;oldid=741792223" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Access_control_list&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q338966" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Access_control_list&amp;id=741792223" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Access+control+list">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Access+control+list&amp;returnto=Access+control+list&amp;oldid=741792223&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Access_control_list&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85_%D8%A8%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84" title="ÙØ§Ø¦ÙØ© Ø§ÙØªØ­ÙÙ Ø¨Ø§ÙÙØµÙÙ â Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">Ø§ÙØ¹Ø±Ø¨ÙØ©</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%B5%D0%BD_%D1%81%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%B7%D0%B0_%D0%B4%D0%BE%D1%81%D1%82%D1%8A%D0%BF" title="ÐÐ¾Ð½ÑÑÐ¾Ð»ÐµÐ½ ÑÐ¿Ð¸ÑÑÐº Ð·Ð° Ð´Ð¾ÑÑÑÐ¿ â Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Llista_de_control_d%27acc%C3%A9s" title="Llista de control d'accÃ©s â Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">CatalÃ </a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Access_control_list" title="Access control list â Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">ÄeÅ¡tina</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Access_Control_List" title="Access Control List â German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/P%C3%A4%C3%A4suloend" title="PÃ¤Ã¤suloend â Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Access_control_list" title="Access control list â Greek" lang="el" hreflang="el" class="interlanguage-link-target">ÎÎ»Î»Î·Î½Î¹ÎºÎ¬</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Lista_de_control_de_acceso" title="Lista de control de acceso â Spanish" lang="es" hreflang="es" class="interlanguage-link-target">EspaÃ±ol</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%DA%A9%D9%86%D8%AA%D8%B1%D9%84_%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C" title="ÙÙØ±Ø³Øª Ú©ÙØªØ±Ù Ø¯Ø³ØªØ±Ø³Û â Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">ÙØ§Ø±Ø³Û</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Access_Control_List" title="Access Control List â French" lang="fr" hreflang="fr" class="interlanguage-link-target">FranÃ§ais</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A0%91%EA%B7%BC_%EC%A0%9C%EC%96%B4_%EB%AA%A9%EB%A1%9D" title="ì ê·¼ ì ì´ ëª©ë¡ â Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">íêµ­ì´</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Lista_di_controllo_degli_accessi" title="Lista di controllo degli accessi â Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA_%D7%91%D7%A7%D7%A8%D7%AA_%D7%92%D7%99%D7%A9%D7%94" title="×¨×©×××ª ××§×¨×ª ×××©× â Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">×¢××¨××ª</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/Access_Control_List_(ACL)" title="Access Control List (ACL) â Burmese" lang="my" hreflang="my" class="interlanguage-link-target">áá¼ááºáá¬áá¬áá¬</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E5%88%B6%E5%BE%A1%E3%83%AA%E3%82%B9%E3%83%88" title="ã¢ã¯ã»ã¹å¶å¾¡ãªã¹ã â Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">æ¥æ¬èª</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Aksesskontrolliste" title="Aksesskontrolliste â Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmÃ¥l</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Access_Control_List" title="Access Control List â Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Lista_de_controle_de_acesso" title="Lista de controle de acesso â Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">PortuguÃªs</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/ACL" title="ACL â Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Ð ÑÑÑÐºÐ¸Ð¹</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Access_Control_List" title="Access Control List â Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Access_control_list" title="Access control list â Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%DB%8C%DA%A9%D8%B3%DB%8C%D8%B3_%DA%A9%D9%86%D9%B9%D8%B1%D9%88%D9%84_%D9%84%D8%B3%D9%B9" title="Ø§ÛÚ©Ø³ÛØ³ Ú©ÙÙ¹Ø±ÙÙ ÙØ³Ù¹ â Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">Ø§Ø±Ø¯Ù</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AD%98%E5%8F%96%E6%8E%A7%E5%88%B6%E4%B8%B2%E5%88%97" title="å­åæ§å¶ä¸²å â Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">ä¸­æ</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q338966#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 September 2016, at 18:13.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. WikipediaÂ® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Access_control_list&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.100",
+            "walltime": "0.124",
+            "ppvisitednodes": {
+                "value": 574,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 21324,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 32,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 7,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  105.382      1 -total",
+                " 63.27%   66.673     14 Template:Cite_web",
+                " 51.30%   54.058      1 Template:Reflist",
+                " 18.98%   20.005      1 Template:About",
+                "  1.64%    1.725      1 Template:Refbegin",
+                "  0.95%    0.998      1 Template:Column-width",
+                "  0.93%    0.984      1 Template:Refend"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.053",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3194969,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1265",
+            "timestamp": "20161013124902",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>
+

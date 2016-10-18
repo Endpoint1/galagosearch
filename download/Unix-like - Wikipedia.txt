@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Unix-like - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Unix-like","wgTitle":"Unix-like","wgCurRevisionId":744180683,"wgRevisionId":744180683,"wgArticleId":21347057,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from March 2014","Articles needing additional references from April 2010","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from July 2012","Articles with Wayback Machine links","Unix","Unix variants"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Unix-like","wgRelevantArticleId":21347057,"wgRequestId":"WAVF3ApAMFAAAJbEU7YAAABO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"Unix-like_operating_system","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgInternalRedirectTargetUrl":"/wiki/Unix-like","wgWikibaseItemId":"Q14656","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Unix-like"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Unix-like&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Unix-like&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Unix-like"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Unix-like rootpage-Unix-like skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Unix-like</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">Â Â (Redirected from <a href="/w/index.php?title=Unix-like_operating_system&amp;redirect=no" class="mw-redirect" title="Unix-like operating system">Unix-like operating system</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:Unix_history-simple.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unix_history-simple.svg/350px-Unix_history-simple.svg.png" width="350" height="233" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unix_history-simple.svg/525px-Unix_history-simple.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unix_history-simple.svg/700px-Unix_history-simple.svg.png 2x" data-file-width="1959" data-file-height="1306" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Unix_history-simple.svg" class="internal" title="Enlarge"></a></div>
+Evolution of Unix and Unix-like systems, starting in 1969</div>
+</div>
+</div>
+<p>A <b>Unix-like</b> (sometimes referred to as <b>UN*X</b> or <b>*nix</b>) <a href="/wiki/Operating_system" title="Operating system">operating system</a> is one that behaves in a manner similar to a <a href="/wiki/Unix" title="Unix">Unix</a> system, while not necessarily conforming to or being certified to any version of the <a href="/wiki/Single_UNIX_Specification" title="Single UNIX Specification">Single UNIX Specification</a>. A Unix-like <a href="/wiki/Application_software" title="Application software">application</a> is one that behaves like the corresponding <a href="/wiki/List_of_Unix_commands" title="List of Unix commands">Unix command</a> or <a href="/wiki/Unix_shell" title="Unix shell">shell</a>. There is no <a href="/wiki/Technical_standard" title="Technical standard">standard</a> for defining the term, and some difference of opinion is possible as to the degree to which a given operating system or application is "Unix-like".</p>
+<p>The term can include <a href="/wiki/Free_and_open-source_software" title="Free and open-source software">free and open-source</a> operating systems inspired by <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a>' Unix or designed to emulate its features, commercial and proprietary work-alikes, and even versions based on the <a href="/wiki/Software_license" title="Software license">licensed</a> UNIX source code (which may be sufficiently "Unix-like" to pass certification and bear the "UNIX" trademark).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Categories"><span class="tocnumber">3</span> <span class="toctext">Categories</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Compatibility_layers"><span class="tocnumber">4</span> <span class="toctext">Compatibility layers</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unix-like&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/The_Open_Group" title="The Open Group">The Open Group</a> owns the <a href="/wiki/UNIX" class="mw-redirect" title="UNIX">UNIX</a> <a href="/wiki/Trademark" title="Trademark">trademark</a> and administers the Single UNIX Specification, with the "UNIX" name being used as a <a href="/wiki/Certification_mark" title="Certification mark">certification mark</a>. They do not approve of the construction "Unix-like", and consider it a misuse of their trademark. Their guidelines require "UNIX" to be presented in uppercase or otherwise distinguished from the surrounding text, strongly encourage using it as a branding adjective for a generic word such as "system", and discourage its use in hyphenated phrases.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Other parties frequently treat "Unix" as a <a href="/wiki/Genericized_trademark" class="mw-redirect" title="Genericized trademark">genericized trademark</a>. Some add a <a href="/wiki/Wildcard_character" title="Wildcard character">wildcard character</a> to the name to make an abbreviation like "Un*x"<sup id="cite_ref-jargonfile_UNasteriskX_2-0" class="reference"><a href="#cite_note-jargonfile_UNasteriskX-2">[2]</a></sup> or "*nix", since Unix-like systems often have Unix-like names such as <a href="/wiki/AIX_operating_system" class="mw-redirect" title="AIX operating system">AIX</a>, <a href="/wiki/A/UX" title="A/UX">A/UX</a>, <a href="/wiki/HP-UX" title="HP-UX">HP-UX</a>, <a href="/wiki/IRIX" title="IRIX">IRIX</a>, <a href="/wiki/Linux" title="Linux">Linux</a>, <a href="/wiki/Minix" class="mw-redirect" title="Minix">Minix</a>, <a href="/wiki/Ultrix" title="Ultrix">Ultrix</a>, <a href="/wiki/Xenix" title="Xenix">Xenix</a>, <a href="/wiki/Xinu" title="Xinu">Xinu</a>, and <a href="/wiki/XNU" title="XNU">XNU</a>. These patterns do not literally match many system names, but are still generally recognized to refer to any UNIX descendant or work-alike system, even those with completely dissimilar names such as <a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a>/<a href="/wiki/MacOS" title="MacOS">macOS</a>, <a href="/wiki/Illumos" title="Illumos">illumos</a>/<a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a> or <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>.</p>
+<p>In 2007, Wayne R. Gray sued to dispute the status of UNIX as a trademark, but lost his case, and lost again on appeal, with the court upholding the trademark and its ownership.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unix-like&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Unix-like&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;"><a href="/wiki/File:Unix_timeline.en.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Unix_timeline.en.svg/500px-Unix_timeline.en.svg.png" width="500" height="359" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Unix_timeline.en.svg/750px-Unix_timeline.en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Unix_timeline.en.svg/1000px-Unix_timeline.en.svg.png 2x" data-file-width="850" data-file-height="610" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Unix_timeline.en.svg" class="internal" title="Enlarge"></a></div>
+Simplified history of Unix-like operating systems.</div>
+</div>
+</div>
+<p>"Unix-like" systems started to appear in the late 1970s and early 1980s. Many <a href="/wiki/Proprietary_software" title="Proprietary software">proprietary</a> versions, such as <a href="/wiki/Idris_(operating_system)" title="Idris (operating system)">Idris</a> (1978), <a href="/wiki/UNOS_(operating_system)" title="UNOS (operating system)">UNOS</a> (1982), <a href="/wiki/Coherent_(operating_system)" title="Coherent (operating system)">Coherent</a> (1983), and <a href="/wiki/UniFlex" class="mw-redirect" title="UniFlex">UniFlex</a> (1985), aimed to provide businesses with the functionality available to academic users of UNIX.</p>
+<p>When <a href="/wiki/AT%26T_Corporation" title="AT&amp;T Corporation">AT&amp;T</a> allowed relatively inexpensive commercial binary sub-licensing of UNIX in 1979, a variety of proprietary systems were developed based on it, including <a href="/wiki/AIX_operating_system" class="mw-redirect" title="AIX operating system">AIX</a>, <a href="/wiki/HP-UX" title="HP-UX">HP-UX</a>, <a href="/wiki/IRIX" title="IRIX">IRIX</a>, <a href="/wiki/SunOS" title="SunOS">SunOS</a>, <a href="/wiki/Tru64" class="mw-redirect" title="Tru64">Tru64</a>, <a href="/wiki/Ultrix" title="Ultrix">Ultrix</a>, and <a href="/wiki/Xenix" title="Xenix">Xenix</a>. These largely displaced the proprietary clones. Growing incompatibility among these systems led to the creation of interoperability standards, including <a href="/wiki/POSIX" title="POSIX">POSIX</a> and the <a href="/wiki/Single_UNIX_Specification" title="Single UNIX Specification">Single UNIX Specification</a>.</p>
+<p>Various free, low-cost, and unrestricted substitutes for UNIX emerged in the 1980s and 1990s, including <a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">4.4BSD</a>, <a href="/wiki/Linux" title="Linux">Linux</a>, and <a href="/wiki/Minix" class="mw-redirect" title="Minix">Minix</a>. Some of these have in turn been the basis for commercial "Unix-like" systems, such as <a href="/wiki/BSD/OS" title="BSD/OS">BSD/OS</a> and <span class="nowrap"><a href="/wiki/OS_X" class="mw-redirect" title="OS X">OS X</a></span>. Notably, <span class="nowrap"><a href="/wiki/Mac_OS_X_Leopard" title="Mac OS X Leopard">Mac OS X Leopard</a></span> (10.5),<sup id="cite_ref-leopard_unix_cert_5-0" class="reference"><a href="#cite_note-leopard_unix_cert-5">[5]</a></sup> <span class="nowrap"><a href="/wiki/Mac_OS_X_Snow_Leopard" title="Mac OS X Snow Leopard">Mac OS X Snow Leopard</a></span> (10.6),<sup id="cite_ref-snow_leopard_unix_cert_6-0" class="reference"><a href="#cite_note-snow_leopard_unix_cert-6">[6]</a></sup> <span class="nowrap"><a href="/wiki/OS_X_Mountain_Lion" title="OS X Mountain Lion">OS X Mountain Lion</a></span> (10.8),<sup id="cite_ref-mountain_lion_unix_cert_7-0" class="reference"><a href="#cite_note-mountain_lion_unix_cert-7">[7]</a></sup> <span class="nowrap"><a href="/wiki/OS_X_Mavericks" title="OS X Mavericks">OS X Mavericks</a></span> (10.9),<sup id="cite_ref-mavericks_unix_cert_8-0" class="reference"><a href="#cite_note-mavericks_unix_cert-8">[8]</a></sup> <span class="nowrap"><a href="/wiki/OS_X_Yosemite" title="OS X Yosemite">OS X Yosemite</a></span> (10.10),<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> <span class="nowrap"><a href="/wiki/OS_X_El_Capitan" title="OS X El Capitan">OS X El Capitan</a></span> (10.11),<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> and <span class="nowrap"><a href="/wiki/MacOS_Sierra" title="MacOS Sierra">macOS Sierra</a></span> (10.12),<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> running on Intel Macs are certified under the <a href="/wiki/Single_UNIX_Specification" title="Single UNIX Specification">Single UNIX Specification</a>.</p>
+<p>The various BSD variants are notable in that they are in fact descendants of UNIX, developed by the University of California at Berkeley with UNIX source code from Bell Labs. However, the BSD code base has evolved since then, replacing all of the AT&amp;T code. Since the <a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">BSD</a> variants are not certified as compliant with the <a href="/wiki/Single_UNIX_Specification" title="Single UNIX Specification">Single UNIX Specification</a> (except for <span class="nowrap">Mac OS X</span> 10.5 Leopard and later), they are referred to as "UNIX-like".</p>
+<h2><span class="mw-headline" id="Categories">Categories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unix-like&amp;action=edit&amp;section=3" title="Edit section: Categories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a>, one of the original creators of Unix, expressed his opinion that Unix-like systems such as <a href="/wiki/Linux" title="Linux">Linux</a> are <i><a href="/wiki/De_facto" title="De facto">de facto</a></i> Unix systems.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> <a href="/wiki/Eric_S._Raymond" title="Eric S. Raymond">Eric S. Raymond</a> and Rob Landley have suggested that there are three kinds of Unix-like systems:<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<dl>
+<dt>Genetic UNIX</dt>
+<dd>Those systems with a historical connection to the <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a> codebase. Most (but not all) commercial UNIX systems fall into this category. So do the <a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">BSD</a> systems, which are descendants of work done at the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> in the late 1970s and early 1980s. Some of these systems have no original AT&amp;T code but can still trace their ancestry to AT&amp;T designs.</dd>
+</dl>
+<dl>
+<dt>Trademark or branded UNIX</dt>
+<dd>These systemsâ<wbr />ââlargely commercial in natureâ<wbr />ââhave been determined by the <a href="/wiki/Open_Group" class="mw-redirect" title="Open Group">Open Group</a> to meet the <a href="/wiki/Single_UNIX_Specification" title="Single UNIX Specification">Single UNIX Specification</a> and are allowed to carry the UNIX name. Most such systems are commercial derivatives of the <a href="/wiki/System_V" class="mw-redirect" title="System V">System V</a> code base in one form or another, although Apple <a href="/wiki/MacOS" title="MacOS">macOS</a> <a href="/wiki/Mac_OS_X_Leopard" title="Mac OS X Leopard">10.5</a> and later is a <a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">BSD</a> variant that has been certified, and a few other systems (such as IBM <a href="/wiki/Z/OS" title="Z/OS">z/OS</a>) earned the trademark through a <a href="/wiki/POSIX" title="POSIX">POSIX</a> <a href="/wiki/Compatibility_layer" title="Compatibility layer">compatibility layer</a> and are not otherwise inherently Unix systems. Many <a href="/wiki/Ancient_UNIX" title="Ancient UNIX">ancient UNIX</a> systems no longer meet this definition.</dd>
+</dl>
+<dl>
+<dt>Functional UNIX</dt>
+<dd>Broadly, any Unix-like system that behaves in a manner roughly consistent with the UNIX specification, including having a "<a href="/wiki/Shell_(computing)" title="Shell (computing)">program</a> which manages your login and <a href="/wiki/Command_line_interpreter" class="mw-redirect" title="Command line interpreter">command line sessions</a>";<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> more specifically, this can refer to systems such as <a href="/wiki/Linux" title="Linux">Linux</a> or <a href="/wiki/Minix" class="mw-redirect" title="Minix">Minix</a> that behave similarly to a UNIX system but have no genetic or trademark connection to the AT&amp;T code base. Most free/open-source implementations of the UNIX design, whether genetic UNIX or not, fall into the restricted definition of this third category due to the expense of obtaining Open Group certification, which costs thousands of dollars<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup> for commercial closed source systems.</dd>
+<dd>Around 2001, Linux was given the opportunity to get a certification including free help from the POSIX chair Andrew Josey for the symbolic price of one dollar.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup> There have been some activities to make Linux POSIX-compliant, with Josey having prepared a list of differences between the POSIX standard and the <a href="/wiki/Linux_Standard_Base" title="Linux Standard Base">Linux Standard Base</a> specification,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> but in August 2005, this project was shut down because of missing interest at the LSB work group.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup></dd>
+</dl>
+<h2><span class="mw-headline" id="Compatibility_layers">Compatibility layers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unix-like&amp;action=edit&amp;section=4" title="Edit section: Compatibility layers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some non-Unix-like operating systems provide a Unix-like <a href="/wiki/Compatibility_layer" title="Compatibility layer">compatibility layer</a>, with variable degrees of Unix-like functionality.</p>
+<ul>
+<li>IBM <a href="/wiki/Z/OS" title="Z/OS">z/OS</a>'s <a href="/wiki/UNIX_System_Services" title="UNIX System Services">UNIX System Services</a> is sufficiently complete to be certified as trademark UNIX.</li>
+<li><a href="/wiki/Cygwin" title="Cygwin">Cygwin</a> and <a href="/wiki/MSYS" class="mw-redirect" title="MSYS">MSYS</a> both provide a <a href="/wiki/GNU" title="GNU">GNU</a> environment on top of the <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> <a href="/wiki/Windows_API" title="Windows API">user API</a>, sufficient for most common <a href="/wiki/Open_source" class="mw-redirect" title="Open source">open source</a> software to be compiled and run.</li>
+<li><a href="/wiki/Subsystem_for_Unix-based_Applications" class="mw-redirect" title="Subsystem for Unix-based Applications">Subsystem for Unix-based Applications</a> (previously <a href="/wiki/Interix" title="Interix">Interix</a>) provides Unix-like functionality as a <a href="/wiki/Windows_NT" title="Windows NT">Windows NT</a> <a href="/wiki/Architecture_of_Windows_NT" title="Architecture of Windows NT">subsystem</a> (Discontinued).</li>
+<li><a href="/wiki/Windows_Subsystem_for_Linux" title="Windows Subsystem for Linux">Windows Subsystem for Linux</a> provides a <a href="/wiki/Linux" title="Linux">Linux</a>-compatible kernel interface developed by Microsoft and containing no Linux code, with <a href="/wiki/Ubuntu_(operating_system)" title="Ubuntu (operating system)">Ubuntu</a> user-mode <a href="/wiki/Executable_and_Linkable_Format" title="Executable and Linkable Format">binaries</a> running on top of it.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unix-like&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/32px-Desktop_computer_clipart_-_Yellow_theme.svg.png" width="32" height="23" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/48px-Desktop_computer_clipart_-_Yellow_theme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/64px-Desktop_computer_clipart_-_Yellow_theme.svg.png 2x" data-file-width="281" data-file-height="203" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Information_technology" title="Portal:Information technology">Information technology portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">Berkeley Software Distribution</a></li>
+<li><a href="/wiki/Linux_distribution" title="Linux distribution">Linux distribution</a></li>
+<li><a href="/wiki/List_of_Linux_distributions" title="List of Linux distributions">List of Linux distributions</a></li>
+<li><a href="/wiki/List_of_Unix_utilities" class="mw-redirect" title="List of Unix utilities">List of Unix utilities</a></li>
+<li><a href="/wiki/List_of_operating_systems" title="List of operating systems">List of operating systems</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unix-like&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengroup.org/content/legal-trademark-guidelines">"Legal: Trademark Guidelines"</a>. The Open Group. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131002190823/http://www.opengroup.org/content/legal-trademark-guidelines">Archived</a> from the original on October 2, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">November 4,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.btitle=Legal%3A+Trademark+Guidelines&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.opengroup.org%2Fcontent%2Flegal-trademark-guidelines&amp;rft.pub=The+Open+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-jargonfile_UNasteriskX-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-jargonfile_UNasteriskX_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Eric_S._Raymond" title="Eric S. Raymond">Eric S. Raymond</a>; <a href="/wiki/Guy_L._Steele_Jr." title="Guy L. Steele Jr.">Guy L. Steele Jr.</a> <a rel="nofollow" class="external text" href="http://catb.org/jargon/html/U/UN-asterisk-X.html">"UN*X"</a>. <i><a href="/wiki/The_Jargon_File" class="mw-redirect" title="The Jargon File">The Jargon File</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 22,</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.atitle=UN%2AX&amp;rft.au=Eric+S.+Raymond&amp;rft.au=Guy+L.+Steele+Jr.&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcatb.org%2Fjargon%2Fhtml%2FU%2FUN-asterisk-X.html&amp;rft.jtitle=The+Jargon+File&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite><i>Gray v. Novell, X/Open Company, The SCO Group</i></cite> (11th Cir. January 7, 2011). <a rel="nofollow" class="external text" href="http://media.ca11.uscourts.gov/opinions/unpub/files/200911374.pdf">Text</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.groklaw.net/articlebasic.php?story=20110422153653630">"More Wayne Gray. No! Again? Still?! Yes. He Wants to Reopen Discovery in the USPTO Dispute"</a>. <i><a href="/wiki/Groklaw" title="Groklaw">Groklaw</a></i>. April 22, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">February 5,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.atitle=More+Wayne+Gray.+No%21+Again%3F+Still%3F%21+Yes.+He+Wants+to+Reopen+Discovery+in+the+USPTO+Dispute&amp;rft.date=2011-04-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.groklaw.net%2Farticlebasic.php%3Fstory%3D20110422153653630&amp;rft.jtitle=Groklaw&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-leopard_unix_cert-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-leopard_unix_cert_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengroup.org/openbrand/register/brand3555.htm">"Mac OS X Version 10.5 on Intel-based Macintosh computers"</a>. The Open Group<span class="reference-accessdate">. Retrieved <span class="nowrap">December 4,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.btitle=Mac+OS+X+Version+10.5+on+Intel-based+Macintosh+computers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.opengroup.org%2Fopenbrand%2Fregister%2Fbrand3555.htm&amp;rft.pub=The+Open+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-snow_leopard_unix_cert-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-snow_leopard_unix_cert_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengroup.org/openbrand/register/brand3581.htm">"Mac OS X Version 10.6 on Intel-based Macintosh computers"</a>. The Open Group<span class="reference-accessdate">. Retrieved <span class="nowrap">December 4,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.btitle=Mac+OS+X+Version+10.6+on+Intel-based+Macintosh+computers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.opengroup.org%2Fopenbrand%2Fregister%2Fbrand3581.htm&amp;rft.pub=The+Open+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mountain_lion_unix_cert-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-mountain_lion_unix_cert_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengroup.org/openbrand/register/brand3591.htm">"Mac OS X Version 10.8 on Intel-based Macintosh computers"</a>. The Open Group<span class="reference-accessdate">. Retrieved <span class="nowrap">December 4,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.btitle=Mac+OS+X+Version+10.8+on+Intel-based+Macintosh+computers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.opengroup.org%2Fopenbrand%2Fregister%2Fbrand3591.htm&amp;rft.pub=The+Open+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mavericks_unix_cert-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-mavericks_unix_cert_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengroup.org/openbrand/register/brand3602.htm">"OS X Version 10.9 on Intel-based Macintosh computers"</a>. The Open Group<span class="reference-accessdate">. Retrieved <span class="nowrap">December 4,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.btitle=OS+X+Version+10.9+on+Intel-based+Macintosh+computers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.opengroup.org%2Fopenbrand%2Fregister%2Fbrand3602.htm&amp;rft.pub=The+Open+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengroup.org/openbrand/register/brand3607.htm">"OS X version 10.10 Yosemite on Intel-based Mac computers"</a>. The Open Group<span class="reference-accessdate">. Retrieved <span class="nowrap">October 23,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.btitle=OS+X+version+10.10+Yosemite+on+Intel-based+Mac+computers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.opengroup.org%2Fopenbrand%2Fregister%2Fbrand3607.htm&amp;rft.pub=The+Open+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengroup.org/openbrand/register/brand3612.htm">"OS X version 10.11 El Capitan on Intel-based Mac computers"</a>. The Open Group<span class="reference-accessdate">. Retrieved <span class="nowrap">October 23,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.btitle=OS+X+version+10.11+El+Capitan+on+Intel-based+Mac+computers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.opengroup.org%2Fopenbrand%2Fregister%2Fbrand3612.htm&amp;rft.pub=The+Open+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opengroup.org/openbrand/register/brand3627.htm">"macOS version 10.12 Sierra on Intel-based Mac computers"</a>. The Open Group<span class="reference-accessdate">. Retrieved <span class="nowrap">October 13,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.btitle=macOS+version+10.12+Sierra+on+Intel-based+Mac+computers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.opengroup.org%2Fopenbrand%2Fregister%2Fbrand3627.htm&amp;rft.pub=The+Open+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.linuxfocus.org/English/July1999/article79.html">Interview with Dennis M. Ritchie</a> Manuel Benet, <i>LinuxFocus</i>, July 1999</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://catb.org/~esr/hackerlore/sco-vs-ibm.html#id305450">The meaning of 'Unix'</a> Eric Raymond and Rob Landley, <i>OSI Position Paper on the SCO-vs.-IBM Complaint</i></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://structbio.vanderbilt.edu/comp/unix/part01.php">"Introduction to UNIX - Part 1: Basic Concepts"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 4,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.btitle=Introduction+to+UNIX+-+Part+1%3A+Basic+Concepts&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fstructbio.vanderbilt.edu%2Fcomp%2Funix%2Fpart01.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Andrew Josey (August 20, 2005). <a rel="nofollow" class="external text" href="http://www.opengroup.org/personal/ajosey/tr20-08-2005.txt">"Conflicts between ISO/IEC 9945 (POSIX) and the Linux Standard Base"</a>. The Open Group<span class="reference-accessdate">. Retrieved <span class="nowrap">July 23,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnix-like&amp;rft.au=Andrew+Josey&amp;rft.btitle=Conflicts+between+ISO%2FIEC+9945+%28POSIX%29+and+the+Linux+Standard+Base&amp;rft.date=2005-08-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.opengroup.org%2Fpersonal%2Fajosey%2Ftr20-08-2005.txt&amp;rft.pub=The+Open+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://msdn.microsoft.com/en-us/commandline/wsl/about">BASH Running in Ubuntu on Windows - MSDN</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unix-like&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.linfo.org/unix-like.html">Unix-like Definition</a>, by The Linux Information Project (LINFO)</li>
+<li><a rel="nofollow" class="external text" href="http://www.levenez.com/unix/">UNIX history</a>&#160;â  a history time line graph of most UNIX and Unix-like systems by Ãric LÃ©vÃ©nez</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20040622001238/http://www.grokline.net:80/">Grokline's UNIX Ownership History Project&#160;â  a project to map out the technical history of UNIX and Unix-like systems</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived June 22, 2004)</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Unix_and_Unix-like_operating_systems" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Unix" title="Template:Unix"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Unix" title="Template talk:Unix"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Unix&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Unix_and_Unix-like_operating_systems" style="font-size:114%"><a href="/wiki/Unix" title="Unix">Unix</a> and <strong class="selflink">Unix-like</strong> <a href="/wiki/Operating_system" title="Operating system">operating systems</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><b><a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">BSD</a></b></i>
+<ul>
+<li><i><a href="/wiki/386BSD" title="386BSD">386BSD</a></i>
+<ul>
+<li><a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a></li>
+<li><a href="/wiki/NetBSD" title="NetBSD">NetBSD</a></li>
+<li><a href="/wiki/OpenBSD" title="OpenBSD">OpenBSD</a></li>
+<li><a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/NeXTSTEP" title="NeXTSTEP">NeXTSTEP</a></i></li>
+<li><a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a>
+<ul>
+<li><a href="/wiki/MacOS" title="MacOS">macOS</a></li>
+<li><a href="/wiki/IOS" title="IOS">iOS</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SunOS" title="SunOS">SunOS</a></i></li>
+<li><i><a href="/wiki/Ultrix" title="Ultrix">Ultrix</a></i></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Coherent_(operating_system)" title="Coherent (operating system)">Coherent</a></i></li>
+<li><a href="/wiki/GNU" title="GNU">GNU</a></li>
+<li><b><a href="/wiki/Linux" title="Linux">Linux</a></b>
+<ul>
+<li><a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a></li>
+<li><a href="/wiki/Chrome_OS" title="Chrome OS">Chrome OS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/LynxOS" title="LynxOS">LynxOS</a></li>
+<li><a href="/wiki/MINIX" title="MINIX">MINIX</a></li>
+<li><a href="/wiki/Plan_9_from_Bell_Labs" title="Plan 9 from Bell Labs">Plan 9</a></li>
+<li><a href="/wiki/QNX" title="QNX">QNX</a>
+<ul>
+<li><a href="/wiki/BlackBerry_10" title="BlackBerry 10">BlackBerry 10</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Research_Unix" title="Research Unix">Research Unix</a></i></li>
+<li><i><b><a href="/wiki/UNIX_System_V" title="UNIX System V">System V</a></b></i>
+<ul>
+<li><i><a href="/wiki/A/UX" title="A/UX">A/UX</a></i></li>
+<li><a href="/wiki/IBM_AIX" title="IBM AIX">AIX</a></li>
+<li><a href="/wiki/HP-UX" title="HP-UX">HP-UX</a></li>
+<li><a href="/wiki/Illumos" title="Illumos">illumos</a></li>
+<li><i><a href="/wiki/IRIX" title="IRIX">IRIX</a></i></li>
+<li><a href="/wiki/OpenServer" title="OpenServer">OpenServer</a></li>
+<li><a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a></li>
+<li><i><a href="/wiki/Tru64_UNIX" title="Tru64 UNIX">Tru64 UNIX</a></i></li>
+<li><i><a href="/wiki/UnixWare" title="UnixWare">UnixWare</a></i></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Xenix" title="Xenix">Xenix</a></i></li>
+<li><i><a href="/wiki/List_of_Unix_systems" title="List of Unix systems">more...</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Unix" title="Category:Unix">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Unix" class="extiw" title="commons:Unix">Commons</a></b></li>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="https://en.wikibooks.org/wiki/Unix" class="extiw" title="b:Unix">Book</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Operating_systems" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Operating_system" title="Template:Operating system"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Operating_system" title="Template talk:Operating system"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Operating_system&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Operating_systems" style="font-size:114%"><a href="/wiki/Operating_system" title="Operating system">Operating systems</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Operating_system_advocacy" title="Operating system advocacy">Advocacy</a></li>
+<li><a href="/wiki/Comparison_of_operating_systems" title="Comparison of operating systems">Comparison</a></li>
+<li><a href="/wiki/Forensic_software_engineering" title="Forensic software engineering">Forensic engineering</a></li>
+<li><a href="/wiki/History_of_operating_systems" title="History of operating systems">History</a></li>
+<li><a href="/wiki/Hobbyist_operating_system_development" title="Hobbyist operating system development">Hobbyist development</a></li>
+<li><a href="/wiki/List_of_operating_systems" title="List of operating systems">List</a></li>
+<li><a href="/wiki/Timeline_of_operating_systems" title="Timeline of operating systems">Timeline</a></li>
+<li><a href="/wiki/Usage_share_of_operating_systems" title="Usage share of operating systems">Usage share</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Kernel_(operating_system)" title="Kernel (operating system)">Kernel</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 9em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Computer_architecture" title="Computer architecture">Architectures</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Exokernel" title="Exokernel">Exokernel</a></li>
+<li><a href="/wiki/Hybrid_kernel" title="Hybrid kernel">Hybrid</a></li>
+<li><a href="/wiki/Microkernel" title="Microkernel">Microkernel</a></li>
+<li><a href="/wiki/Monolithic_kernel" title="Monolithic kernel">Monolithic</a></li>
+<li><a href="/wiki/Rump_kernel" title="Rump kernel">Rump kernel</a></li>
+<li><a href="/wiki/Unikernel" title="Unikernel">Unikernel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 9em;">
+<div style="padding:0em 0.75em;">Components</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Device_driver" title="Device driver">Device driver</a></li>
+<li><a href="/wiki/Loadable_kernel_module" title="Loadable kernel module">Loadable kernel module</a></li>
+<li><a href="/wiki/Microkernel" title="Microkernel">Microkernel</a></li>
+<li><a href="/wiki/User_space" title="User space">User space</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Process_management_(computing)" title="Process management (computing)">Process management</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 9em;">
+<div style="padding:0em 0.75em;">Concepts</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Context_switch" title="Context switch">Context switch</a></li>
+<li><a href="/wiki/Interrupt" title="Interrupt">Interrupt</a></li>
+<li><a href="/wiki/Inter-process_communication" title="Inter-process communication">IPC</a></li>
+<li><a href="/wiki/Process_(computing)" title="Process (computing)">Process</a></li>
+<li><a href="/wiki/Process_control_block" title="Process control block">Process control block</a></li>
+<li><a href="/wiki/Thread_(computing)" title="Thread (computing)">Thread</a></li>
+<li><a href="/wiki/Time-sharing" title="Time-sharing">Time-sharing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 9em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Scheduling_(computing)" title="Scheduling (computing)">Scheduling<br />
+algorithms</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_multitasking" title="Computer multitasking">Computer multitasking</a></li>
+<li><a href="/wiki/Fixed-priority_pre-emptive_scheduling" title="Fixed-priority pre-emptive scheduling">Fixed-priority preemptive</a></li>
+<li><a href="/wiki/Multilevel_feedback_queue" title="Multilevel feedback queue">Multilevel feedback queue</a></li>
+<li><a href="/wiki/Preemption_(computing)" title="Preemption (computing)">Preemptive</a></li>
+<li><a href="/wiki/Round-robin_scheduling" title="Round-robin scheduling">Round-robin</a></li>
+<li><a href="/wiki/Shortest_job_next" title="Shortest job next">Shortest job next</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Memory_management" title="Memory management">Memory management</a> and<br />
+<a href="/wiki/System_resource" title="System resource">resource</a> protection</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bus_error" title="Bus error">Bus error</a></li>
+<li><a href="/wiki/General_protection_fault" title="General protection fault">General protection fault</a></li>
+<li><a href="/wiki/Memory_protection" title="Memory protection">Memory protection</a></li>
+<li><a href="/wiki/Paging" title="Paging">Paging</a></li>
+<li><a href="/wiki/Protection_ring" title="Protection ring">Protection ring</a></li>
+<li><a href="/wiki/Segmentation_fault" title="Segmentation fault">Segmentation fault</a></li>
+<li><a href="/wiki/Virtual_memory" title="Virtual memory">Virtual memory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Non-volatile_memory" title="Non-volatile memory">Storage</a> access and<br />
+<a href="/wiki/File_system" title="File system">file systems</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Booting#BOOT-LOADER" title="Booting">Boot loader</a></li>
+<li><a href="/wiki/Defragmentation" title="Defragmentation">Defragmentation</a></li>
+<li><a href="/wiki/Device_file" title="Device file">Device file</a></li>
+<li><a href="/wiki/File_attribute" title="File attribute">File attribute</a></li>
+<li><a href="/wiki/Inode" title="Inode">Inode</a></li>
+<li><a href="/wiki/Journaling_file_system" title="Journaling file system">Journal</a></li>
+<li><a href="/wiki/Disk_partitioning" title="Disk partitioning">Partition</a></li>
+<li><a href="/wiki/Virtual_file_system" title="Virtual file system">Virtual file system</a></li>
+<li><a href="/wiki/Virtual_tape_library" title="Virtual tape library">Virtual tape library</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_operating_systems" title="List of operating systems">List</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a></li>
+<li><a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a></li>
+<li><a href="/wiki/BeOS" title="BeOS">BeOS</a></li>
+<li><a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">BSD</a></li>
+<li><a href="/wiki/Chrome_OS" title="Chrome OS">Chrome OS</a></li>
+<li><a href="/wiki/CP/M" title="CP/M">CP/M</a></li>
+<li><a href="/wiki/DOS" title="DOS">DOS</a></li>
+<li><a href="/wiki/GNU_Hurd" title="GNU Hurd">Hurd</a></li>
+<li><a href="/wiki/Haiku_(operating_system)" title="Haiku (operating system)">Haiku</a></li>
+<li><a href="/wiki/Illumos" title="Illumos">illumos</a></li>
+<li><a href="/wiki/IOS" title="IOS">iOS</a></li>
+<li><a href="/wiki/Linux" title="Linux">Linux</a></li>
+<li><a href="/wiki/Macintosh_operating_systems" title="Macintosh operating systems">Macintosh</a>
+<ul>
+<li><a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a></li>
+<li><a href="/wiki/MacOS" title="MacOS">macOS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/MINIX" title="MINIX">MINIX</a></li>
+<li><a href="/wiki/MorphOS" title="MorphOS">MorphOS</a></li>
+<li><a href="/wiki/MUSIC/SP" title="MUSIC/SP">MUSIC/SP</a></li>
+<li><a href="/wiki/NOS_(software)" title="NOS (software)">NOS</a></li>
+<li><a href="/wiki/OpenVMS" title="OpenVMS">OpenVMS</a></li>
+<li><a href="/wiki/ORVYL_and_WYLBUR" title="ORVYL and WYLBUR">ORVYL</a></li>
+<li><a href="/wiki/OS/2" title="OS/2">OS/2</a></li>
+<li><a href="/wiki/OSv" title="OSv">OSv</a></li>
+<li><a href="/wiki/Pick_operating_system" title="Pick operating system">Pick</a></li>
+<li><a href="/wiki/QNX" title="QNX">QNX</a></li>
+<li><a href="/wiki/ReactOS" title="ReactOS">ReactOS</a></li>
+<li><a href="/wiki/RISC_OS" title="RISC OS">RISC OS</a></li>
+<li><a href="/wiki/RSTS/E" title="RSTS/E">RSTS/E</a></li>
+<li><a href="/wiki/RSX-11" title="RSX-11">RSX-11</a></li>
+<li><a href="/wiki/RT-11" title="RT-11">RT-11</a></li>
+<li><a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a></li>
+<li><a href="/wiki/TOPS-10" title="TOPS-10">TOPS-10</a>/<a href="/wiki/TOPS-20" title="TOPS-20">TOPS-20</a></li>
+<li><a href="/wiki/Transaction_Processing_Facility" title="Transaction Processing Facility">TPF</a></li>
+<li><a href="/wiki/Unix" title="Unix">Unix</a></li>
+<li><a href="/wiki/Visi_On" title="Visi On">Visi On</a></li>
+<li><a href="/wiki/VM_(operating_system)" title="VM (operating system)">VM/CMS</a></li>
+<li><a href="/wiki/VS/9" title="VS/9">VS/9</a></li>
+<li><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></li>
+<li><a href="/wiki/Xinu" title="Xinu">Xinu</a></li>
+<li><a href="/wiki/Z/OS" title="Z/OS">z/OS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Miscellaneous concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Application_programming_interface" title="Application programming interface">API</a></li>
+<li><a href="/wiki/Computer_network" title="Computer network">Computer network</a></li>
+<li><a href="/wiki/Hardware_abstraction" title="Hardware abstraction">HAL</a></li>
+<li><a href="/wiki/Live_CD" title="Live CD">Live CD</a></li>
+<li><a href="/wiki/Live_USB" title="Live USB">Live USB</a></li>
+<li><a href="/wiki/Shell_(computing)" title="Shell (computing)">OS shell</a>
+<ul>
+<li><a href="/wiki/Command-line_interface" title="Command-line interface">CLI</a></li>
+<li><a href="/wiki/Graphical_user_interface" title="Graphical user interface">GUI</a></li>
+<li><a href="/wiki/Text-based_user_interface" title="Text-based user interface">TUI</a></li>
+<li><a href="/wiki/Voice_user_interface" title="Voice user interface">VUI</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Preboot_Execution_Environment" title="Preboot Execution Environment">PXE</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21347057-0!*!0!!en!4!* and timestamp 20161013162927 and revision id 744180683
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Unix-like&amp;oldid=744180683">https://en.wikipedia.org/w/index.php?title=Unix-like&amp;oldid=744180683</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Unix" title="Category:Unix">Unix</a></li><li><a href="/wiki/Category:Unix_variants" title="Category:Unix variants">Unix variants</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_March_2014" title="Category:Use mdy dates from March 2014">Use mdy dates from March 2014</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2010" title="Category:Articles needing additional references from April 2010">Articles needing additional references from April 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2012" title="Category:Articles with unsourced statements from July 2012">Articles with unsourced statements from July 2012</a></li><li><a href="/wiki/Category:Articles_with_Wayback_Machine_links" title="Category:Articles with Wayback Machine links">Articles with Wayback Machine links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Unix-like" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Unix-like" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Unix-like"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Unix-like"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Unix-like" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Unix-like&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Unix-like&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content â the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Unix-like" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Unix-like" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Unix-like&amp;oldid=744180683" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Unix-like&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q14656" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Unix-like&amp;id=744180683" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Unix-like">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Unix-like&amp;returnto=Unix-like&amp;oldid=744180683&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Unix-like&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Unix" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D8%A8%D9%8A%D9%87_%D9%8A%D9%88%D9%86%D9%83%D8%B3" title="Ø´Ø¨ÙÙ ÙÙÙÙØ³ â Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">Ø§ÙØ¹Ø±Ø¨ÙØ©</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Unix_b%C9%99nz%C9%99ri" title="Unix bÉnzÉri â Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">AzÉrbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8-%E0%A6%B8%E0%A6%A6%E0%A7%83%E0%A6%B6" title="à¦à¦à¦¨à¦¿à¦à§à¦¸-à¦¸à¦¦à§à¦¶ â Bengali" lang="bn" hreflang="bn" class="interlanguage-link-target">à¦¬à¦¾à¦à¦²à¦¾</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/UNIX-%D0%BF%D0%B0%D0%B4%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%8B%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%96%D1%81%D1%82%D1%8D%D0%BC%D0%B0" title="UNIX-Ð¿Ð°Ð´Ð¾Ð±Ð½Ð°Ñ Ð°Ð¿ÐµÑÐ°ÑÑÐ¹Ð½Ð°Ñ ÑÑÑÑÑÐ¼Ð° â Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/Unix-%D0%B1%D0%B0%D0%B7%D0%B8%D1%80%D0%B0%D0%BD%D0%B8_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B8_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8" title="Unix-Ð±Ð°Ð·Ð¸ÑÐ°Ð½Ð¸ Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð¾Ð½Ð½Ð¸ ÑÐ¸ÑÑÐµÐ¼Ð¸ â Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Unix-like" title="Unix-like â Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">CatalÃ </a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/UN*X" title="UN*X â Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">ÄeÅ¡tina</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Unixoides_System" title="Unixoides System â German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/UNIXi-laadne_operatsioonis%C3%BCsteem" title="UNIXi-laadne operatsioonisÃ¼steem â Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Unix-like" title="Unix-like â Spanish" lang="es" hreflang="es" class="interlanguage-link-target">EspaÃ±ol</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/UNIX-moduko" title="UNIX-moduko â Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B4%D8%A8%D9%87%E2%80%8C%DB%8C%D9%88%D9%86%DB%8C%DA%A9%D8%B3" title="Ø´Ø¨ÙâÛÙÙÛÚ©Ø³ â Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">ÙØ§Ø±Ø³Û</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Type_Unix" title="Type Unix â French" lang="fr" hreflang="fr" class="interlanguage-link-target">FranÃ§ais</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Unix-like" title="Unix-like â Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%89%EC%8A%A4_%EA%B3%84%EC%97%B4" title="ì ëì¤ ê³ì´ â Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">íêµ­ì´</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Unix-atra" title="Unix-atra â Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Sistem_operasi_bertipe_Unix" title="Sistem operasi bertipe Unix â Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Unix-legt" title="Unix-legt â Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Ãslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Unix-like" title="Unix-like â Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%A4%D7%A2%D7%9C%D7%94_%D7%93%D7%9E%D7%95%D7%99%D7%AA_%D7%99%D7%95%D7%A0%D7%99%D7%A7%D7%A1" title="××¢×¨××ª ××¤×¢×× ×××××ª ××× ××§×¡ â Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">×¢××¨××ª</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/UNIX-%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A1%E1%83%92%E1%83%90%E1%83%95%E1%83%A1%E1%83%98_%E1%83%9D%E1%83%9E%E1%83%94%E1%83%A0%E1%83%90%E1%83%AA%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A1%E1%83%98%E1%83%A1%E1%83%A2%E1%83%94%E1%83%9B%E1%83%90" title="UNIX-áá¡ áá¡áááá¡á áááá ááªáá£áá á¡áá¡á¢ááá â Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">á¥áá áá£áá</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Unix-szer%C5%B1" title="Unix-szerÅ± â Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Ala_UNIX" title="Ala UNIX â Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Unix%E7%B3%BB" title="Unixç³» â Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">æ¥æ¬èª</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Unix-liknende" title="Unix-liknende â Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmÃ¥l</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Unix-variant" title="Unix-variant â Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Unix-like" title="Unix-like â Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/System_uniksopodobny" title="System uniksopodobny â Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Sistema_operacional_tipo_Unix" title="Sistema operacional tipo Unix â Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">PortuguÃªs</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Unix-like" title="Unix-like â Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">RomÃ¢nÄ</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/UNIX-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="UNIX-Ð¿Ð¾Ð´Ð¾Ð±Ð½Ð°Ñ Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð¾Ð½Ð½Ð°Ñ ÑÐ¸ÑÑÐµÐ¼Ð° â Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Ð ÑÑÑÐºÐ¸Ð¹</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/Unix-%D0%BA%D1%83%D1%80%D0%B4%D1%83%D0%BA" title="Unix-ÐºÑÑÐ´ÑÐº â Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Ð¡Ð°ÑÐ° ÑÑÐ»Ð°</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Unix-lik" title="Unix-lik â Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/UNIX-like_opera%C4%8Dn%C3%BD_syst%C3%A9m" title="UNIX-like operaÄnÃ½ systÃ©m â Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">SlovenÄina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Unixin_kaltainen_k%C3%A4ytt%C3%B6j%C3%A4rjestelm%C3%A4" title="Unixin kaltainen kÃ¤yttÃ¶jÃ¤rjestelmÃ¤ â Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Unixliknande" title="Unixliknande â Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A2%E0%B8%B9%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%8B%E0%B9%8C" title="à¸£à¸°à¸à¸à¸à¸à¸´à¸à¸±à¸à¸´à¸à¸²à¸£à¹à¸à¸à¸¢à¸¹à¸à¸´à¸à¸à¹ â Thai" lang="th" hreflang="th" class="interlanguage-link-target">à¹à¸à¸¢</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Unix_benzeri" title="Unix benzeri â Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">TÃ¼rkÃ§e</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/UNIX-%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D1%96_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D1%96_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8" title="UNIX-Ð¿Ð¾Ð´ÑÐ±Ð½Ñ Ð¾Ð¿ÐµÑÐ°ÑÑÐ¹Ð½Ñ ÑÐ¸ÑÑÐµÐ¼Ð¸ â Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/T%C6%B0%C6%A1ng_t%E1%BB%B1_Unix" title="TÆ°Æ¡ng tá»± Unix â Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiáº¿ng Viá»t</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E9%A1%9EUnix%E7%B3%BB%E7%B5%B1" title="é¡Unixç³»çµ± â Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">ç²µèª</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%B1%BBUnix%E7%B3%BB%E7%BB%9F" title="ç±»Unixç³»ç» â Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">ä¸­æ</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q14656#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 October 2016, at 16:29.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. WikipediaÂ® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Unix-like&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.388",
+            "walltime": "0.479",
+            "ppvisitednodes": {
+                "value": 2206,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 68626,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 3067,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 4,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  343.871      1 -total",
+                " 31.28%  107.576      1 Template:Reflist",
+                " 22.08%   75.922     12 Template:Cite_web",
+                " 16.89%   58.091      4 Template:Navbox",
+                " 16.13%   55.458      3 Template:Citation_needed",
+                " 14.97%   51.467      1 Template:Refimprove_section",
+                " 13.75%   47.278      3 Template:Fix",
+                " 13.72%   47.165      1 Template:Refimprove",
+                " 12.48%   42.908      1 Template:Ambox",
+                " 10.60%   36.451      1 Template:Use_mdy_dates"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.141",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4275641,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1204",
+            "timestamp": "20161013162744",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1245"});});</script>
+	</body>
+</html>
+

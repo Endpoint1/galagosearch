@@ -1,0 +1,1231 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hyphen - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hyphen","wgTitle":"Hyphen","wgCurRevisionId":742339164,"wgRevisionId":742339164,"wgArticleId":59347,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek-language text","All articles with dead external links","Articles with dead external links from June 2016","Articles with Wayback Machine links","Articles containing Greek-language text","Articles with Greek-language external links","Use dmy dates from April 2011","Articles needing additional references from February 2014","All articles needing additional references","Articles that may contain original research from January 2016","All articles that may contain original research","Articles needing additional references from January 2016","Articles containing Irish-language text","Articles containing Romanian-language text","All articles with unsourced statements","Articles with unsourced statements from April 2011","Articles with Portuguese-language external links","Articles with French-language external links","Articles with German-language external links","Articles with Russian-language external links","Articles with Spanish-language external links","Punctuation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hyphen","wgRelevantArticleId":59347,"wgRequestId":"WATAiwpAAEMAAW@p@FQAAAAM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikibaseItemId":"Q180309","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hyphen"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hyphen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hyphen&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hyphen"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hyphen rootpage-Hyphen skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hyphen</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the punctuation mark. For other uses, see <a href="/wiki/Hyphen_(disambiguation)" class="mw-disambig" title="Hyphen (disambiguation)">Hyphen (disambiguation)</a>.</div>
+<div role="note" class="hatnote">For similar characters, see <a href="/wiki/-_(disambiguation)" class="mw-disambig" title="- (disambiguation)">- (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Hyphen&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox" style="width:22em;width:18em; max-width:18em;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background:#ccc;font-size:500%;line-height:1.3;font-weight:normal;font-family:serif;">â</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="background:#ccc;font-size:125%;font-weight:bold; padding:0.1em 0.25em 0.2em;line-height:1.2em;">Hyphen</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="background:#ccc;padding:0 0 0.4em;line-height:1.2em;">
+<table align="center" style="padding:0;background:transparent;">
+<tr style="font-size:600%:;line-height:0.01;font-family:'Times New Roman',Times,'Nimbus Roman No9 L','Liberation Serif',serif;">
+<th style="padding:0.5em 0.1em;min-width:1.0em;">-</th>
+<th style="padding:0.5em 0.1em;min-width:1.0em;">â</th>
+</tr>
+<tr style="text-align:center;">
+<th style="padding:0 0.2em;">Hyphen-minus</th>
+<th style="padding:0 0.2em;">Non-breaking hyphen</th>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:center">
+<table style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.3em;">
+<tr>
+<th colspan="2" style="background:#e0e0e0;padding:0.15em;padding-left:0.3em;"><a href="/wiki/Punctuation" title="Punctuation">Punctuation</a></th>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Apostrophe" title="Apostrophe">apostrophe</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â<span class="nowrap">&#160;&#160;</span>'</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Bracket" title="Bracket">brackets</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">[&#160;]<span class="nowrap">&#160;&#160;</span>(&#160;)<span class="nowrap">&#160;&#160;</span>{&#160;}<span class="nowrap">&#160;&#160;</span>â¨&#160;â©</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Colon_(punctuation)" title="Colon (punctuation)">colon</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;"><small><b>:</b></small></td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Comma" title="Comma">comma</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">,<span class="nowrap">&#160;&#160;</span>Ø<span class="nowrap">&#160;&#160;</span>ã</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Dash" title="Dash">dash</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â&#160; â&#160; â&#160; â</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Ellipsis" title="Ellipsis">ellipsis</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â¦<span class="nowrap">&#160;&#160;</span>...<span class="nowrap">&#160;&#160;</span>. . .</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Exclamation_mark" title="Exclamation mark">exclamation mark</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">&#160;!</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Full_stop" title="Full stop">full stop, period</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;"><b>.</b></td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Guillemet" title="Guillemet">guillemets</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â¹&#160;âº<span class="nowrap">&#160;&#160;</span>Â«&#160;Â»</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><strong class="selflink">hyphen</strong></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Hyphen-minus" title="Hyphen-minus">hyphen-minus</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">-</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Question_mark" title="Question mark">question mark</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">&#160;?</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Quotation_mark" title="Quotation mark">quotation marks</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â&#160;â<span class="nowrap">&#160;&#160;</span>â&#160;â<span class="nowrap">&#160;&#160;</span>'&#160;'<span class="nowrap">&#160;&#160;</span>"&#160;"</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Semicolon" title="Semicolon">semicolon</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;"><small><b>;</b></small></td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Slash_(punctuation)" title="Slash (punctuation)">slash, stroke, solidus</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">/<span class="nowrap">&#160;&#160;</span>â</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:center">
+<table style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.3em;">
+<tr>
+<th colspan="2" style="background:#e0e0e0;padding:0.15em;padding-left:0.3em;"><a href="/wiki/Word_divider" title="Word divider">Word dividers</a></th>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Interpunct" title="Interpunct">interpunct</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;"><b>Â·</b></td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Space_(punctuation)" title="Space (punctuation)">space</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;"><span style="background-color: #CEEEF2">&#160;</span>&#160; <span style="background-color: #CEEEF2">â</span>&#160; <span style="background-color: #CEEEF2">â</span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:center">
+<table style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.3em;">
+<tr>
+<th colspan="2" style="background:#e0e0e0;padding:0.15em;padding-left:0.3em;">General <a href="/wiki/Typography" title="Typography">typography</a></th>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Ampersand" title="Ampersand">ampersand</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">&amp;</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Asterisk" title="Asterisk">asterisk</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">*</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/At_sign" title="At sign">at sign</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">@</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Backslash" title="Backslash">backslash</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">\</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Bullet_(typography)" title="Bullet (typography)">bullet</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â¢</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Caret" title="Caret">caret</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">^</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Dagger_(typography)" title="Dagger (typography)">dagger</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â  â¡</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Degree_symbol" title="Degree symbol">degree</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Â°</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Ditto_mark" title="Ditto mark">ditto mark</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â³</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Inverted_question_and_exclamation_marks" title="Inverted question and exclamation marks">inverted exclamation mark</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Â¡</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Inverted_question_and_exclamation_marks" title="Inverted question and exclamation marks">inverted question mark</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Â¿</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Note_(typography)" title="Note (typography)">note</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â»</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Number_sign" title="Number sign">number&#160;sign, pound, hash, octothorpe</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">#</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Numero_sign" title="Numero sign">numero sign</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Obelus" title="Obelus">obelus</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Ã·</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Multiplication_sign" title="Multiplication sign">multiplication sign</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Ã</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Ordinal_indicator" title="Ordinal indicator">ordinal indicator</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Âº Âª</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Percent_sign" title="Percent sign">percent</a>, <a href="/wiki/Per_mil" class="mw-redirect" title="Per mil">per mil</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">&#160;% â°</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Plus_and_minus_signs" title="Plus and minus signs">plus and minus</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">+ â</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Equals_sign" title="Equals sign">equals sign</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">=</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Basis_point" title="Basis point">basis point</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â±</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Pilcrow" title="Pilcrow">pilcrow</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Â¶</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Prime_(symbol)" title="Prime (symbol)">prime</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â²<span class="nowrap">&#160;&#160;</span>â³<span class="nowrap">&#160;&#160;</span>â´</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Section_sign" title="Section sign">section sign</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Â§</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Tilde" title="Tilde">tilde</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">~</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Underscore" title="Underscore">underscore, understrike</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;"><span style="position: relative; top: -0.25em;">_</span></td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Vertical_bar" title="Vertical bar">vertical bar, pipe, broken&#160;bar</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">|<span class="nowrap">&#160;&#160;</span>â<span class="nowrap">&#160;&#160;</span>Â¦</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:center">
+<table style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.3em;">
+<tr>
+<th colspan="2" style="background:#e0e0e0;padding:0.15em;padding-left:0.3em;"><a href="/wiki/Intellectual_property" title="Intellectual property">Intellectual property</a></th>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Copyright_symbol" title="Copyright symbol">copyright</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Â©</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Sound_recording_copyright_symbol" title="Sound recording copyright symbol">sound-recording copyright</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Registered_trademark_symbol" title="Registered trademark symbol">registered trademark</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Â®</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Service_mark_symbol" title="Service mark symbol">service mark</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â </td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Trademark_symbol" title="Trademark symbol">trademark</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â¢</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:center">
+<table style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.3em;">
+<tr>
+<th colspan="2" style="background:#e0e0e0;padding:0.15em;padding-left:0.3em;"><a href="/wiki/Currency" title="Currency">Currency</a></th>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Currency_sign_(typography)" title="Currency sign (typography)">currency sign</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">Â¤</td>
+</tr>
+</table>
+<div style="float: left;"><a href="/wiki/Currency_symbol" title="Currency symbol">currency symbols</a></div>
+<br />
+<div class="wrap nounderlines" style="max-width:17.5em; line-height:1.1em; padding-left:1em;">
+<p><a href="/wiki/Argentine_austral" title="Argentine austral">â³</a> â <a href="/wiki/Thai_baht" title="Thai baht">à¸¿</a> â <a href="/wiki/Ghana_cedi" class="mw-redirect" title="Ghana cedi">âµ</a> â<a href="/wiki/Cent_(currency)" title="Cent (currency)">Â¢</a> â<a href="/wiki/Costa_Rican_col%C3%B3n" title="Costa Rican colÃ³n">â¡</a> â<a href="/wiki/Brazilian_cruzeiro" title="Brazilian cruzeiro">â¢</a> â <a href="/wiki/Dollar_sign" title="Dollar sign">$</a> â<a href="/wiki/Vietnamese_dong" title="Vietnamese dong">â«</a> â<a href="/wiki/Greek_drachma" title="Greek drachma">â¯</a> â<a href="/wiki/Armenian_dram" title="Armenian dram">Ö</a> â <a href="/wiki/European_Currency_Unit" title="European Currency Unit">â </a> â<a href="/wiki/Euro_sign" title="Euro sign">â¬</a> â <a href="/wiki/Florin_sign" title="Florin sign">Æ</a> â<a href="/wiki/French_franc" title="French franc">â£</a> â <a href="/wiki/Paraguayan_guaran%C3%AD" title="Paraguayan guaranÃ­">â²</a> â <a href="/wiki/Hryvnia_sign" title="Hryvnia sign">â´</a> â <a href="/wiki/Lao_kip" title="Lao kip">â­</a> â <a href="/wiki/Turkish_lira_sign" title="Turkish lira sign">âº</a> â <a href="/wiki/German_gold_mark" title="German gold mark">â³</a> â<a href="/wiki/Mill_(currency)" title="Mill (currency)">â¥</a> â <a href="/wiki/Nigerian_naira" title="Nigerian naira">â¦</a> â <a href="/wiki/Spanish_peseta" class="mw-redirect" title="Spanish peseta">â§</a> â<a href="/wiki/Philippine_peso_sign" title="Philippine peso sign">â±</a> â<a href="/wiki/Pfennig" title="Pfennig">â°</a> â<a href="/wiki/Pound_sign" title="Pound sign">Â£</a> â <a href="/wiki/Cambodian_riel" title="Cambodian riel">á</a> â<a href="/wiki/Ruble_sign" title="Ruble sign">â½</a> â<a href="/wiki/Indian_rupee_sign" title="Indian rupee sign">â¹</a> <a href="/wiki/Rupee_sign" class="mw-redirect" title="Rupee sign">â¨</a> â <a href="/wiki/Shekel_sign" title="Shekel sign">âª</a> â <a href="/wiki/Bangladeshi_taka" title="Bangladeshi taka">à§³</a> â<a href="/wiki/Kazakhstani_tenge" title="Kazakhstani tenge">â¸</a> â<a href="/wiki/Mongolian_t%C3%B6gr%C3%B6g" title="Mongolian tÃ¶grÃ¶g">â®</a> â <a href="/wiki/Won_sign" title="Won sign">â©</a> â <a href="/wiki/%C2%A5" title="Â¥">Â¥</a></p>
+</div>
+</td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:center">
+<table style="width:100%;border-collapse:collapse;border-spacing:0px 0px;border:none;line-height:1.3em;">
+<tr>
+<th colspan="2" style="background:#e0e0e0;padding:0.15em;padding-left:0.3em;">Uncommon <a href="/wiki/Typography" title="Typography">typography</a></th>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Asterism_(typography)" title="Asterism (typography)">asterism</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Fleuron_(typography)" title="Fleuron (typography)">hedera</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â§</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Index_(typography)" title="Index (typography)">index, fist</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Interrobang" title="Interrobang">interrobang</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â½</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Irony_punctuation" title="Irony punctuation">irony punctuation</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â¸®</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Lozenge" title="Lozenge">lozenge</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;">â</td>
+</tr>
+<tr style="vertical-align:top">
+<td style="text-align:left;"><a href="/wiki/Tie_(typography)" title="Tie (typography)">tie</a></td>
+<td style="text-align:right;font-size:125%;line-height:0.8em;vertical-align:middle;white-space:nowrap;"><span style="position: relative; top: 0.25em;">â</span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="noprint">
+<th colspan="2" style="text-align:center;background:#e0e0e0;padding:0.15em;padding-left:0.3em;">Related</th>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:center">
+<div class="plainlist">
+<ul>
+<li>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Diacritic" title="Diacritic">Diacritics</a></li>
+<li><a href="/wiki/List_of_logic_symbols" title="List of logic symbols">Logic symbols</a></li>
+</ul>
+</div>
+</li>
+<li><a href="/wiki/Whitespace_character" title="Whitespace character">Whitespace characters</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr class="noprint">
+<th colspan="2" style="text-align:center;background:#e0e0e0;padding:0.15em;padding-left:0.3em;">In other <a href="/wiki/Writing_system" title="Writing system">scripts</a></th>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:center">
+<div class="hlist" style="line-height:1.3em;">
+<ul>
+<li><a href="/wiki/Chinese_punctuation" title="Chinese punctuation">Chinese</a></li>
+<li><a href="/wiki/Hebrew_punctuation" title="Hebrew punctuation">Hebrew</a></li>
+<li><a href="/wiki/Japanese_punctuation" title="Japanese punctuation">Japanese</a></li>
+<li><a href="/wiki/Korean_punctuation" title="Korean punctuation">Korean</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="hlist noprint" style="text-align:center;background:#e0e0e0;padding:0.25em 0.25em 0.4em;line-height:1.75em;font-weight:bold;">
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Typographical_symbols" title="Category:Typographical symbols">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Typography" title="Portal:Typography">Portal</a></li>
+</ul>
+<ul>
+<li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Typographical_symbols" title="Book:Typographical symbols">Book</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:right">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Punctuation_marks" title="Template:Punctuation marks"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Punctuation_marks" title="Template talk:Punctuation marks"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Punctuation_marks&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>hyphen</b> (<b>â</b>) is a <a href="/wiki/Punctuation" title="Punctuation">punctuation</a> mark used to join <a href="/wiki/Word" title="Word">words</a> and to separate <a href="/wiki/Syllable" title="Syllable">syllables</a> of a single word. The use of hyphens is called <b>hyphenation</b>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The hyphen should not be confused with <a href="/wiki/Dash" title="Dash">dashes</a> (<a href="/wiki/Figure_dash" class="mw-redirect" title="Figure dash">â</a>, <a href="/wiki/En_dash" class="mw-redirect" title="En dash">â</a>, <a href="/wiki/Em_dash" class="mw-redirect" title="Em dash">â</a>, <a href="/wiki/Horizontal_bar_(punctuation)" class="mw-redirect" title="Horizontal bar (punctuation)">â</a>), which are longer and have different uses, or with the <a href="/wiki/Minus_sign" class="mw-redirect" title="Minus sign">minus sign</a> (<a href="/wiki/%E2%88%92" class="mw-redirect" title="â">â</a>), which is also longer in some contexts.</p>
+<p>As an <a href="/wiki/Orthography" title="Orthography">orthographic</a> concept, the hyphen is a single entity. In terms of <a href="/wiki/Character_encoding" title="Character encoding">character encoding</a> and display, that entity is represented by any of several <a href="/wiki/Character_(computing)" title="Character (computing)">characters</a> and <a href="/wiki/Glyph" title="Glyph">glyphs</a> (including <b>hard hyphens</b>, <b>soft</b> or <b>optional hyphens</b>, and <b>nonbreaking hyphens</b>), depending on the context of use (<a href="#In_computing">discussed below</a>).</p>
+<p>Although, as mentioned above, hyphens are not to be confused with en dashes and minus signs, there are some overlaps in <a href="#Use_in_English">usage</a> (in which either a hyphen or an en dash may be acceptable, depending on user preference; <a href="#En_dash.2C_hyphen.2C_or_either_one">discussed below</a>) and in character encoding (which often uses the same character, called a "<a href="/wiki/Hyphen-minus" title="Hyphen-minus">hyphen-minus</a>", to represent both the hyphen and minus sign entities; <a href="#In_computing">discussed below</a>).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Use_in_English"><span class="tocnumber">2</span> <span class="toctext">Use in English</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Separating"><span class="tocnumber">2.1</span> <span class="toctext">Separating</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Justification_and_line-wrapping"><span class="tocnumber">2.1.1</span> <span class="toctext">Justification and line-wrapping</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Prefixes_and_suffixes"><span class="tocnumber">2.1.2</span> <span class="toctext">Prefixes and suffixes</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Syllabification_and_spelling"><span class="tocnumber">2.1.3</span> <span class="toctext">Syllabification and spelling</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Joining"><span class="tocnumber">2.2</span> <span class="toctext">Joining</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Compound_modifiers"><span class="tocnumber">2.2.1</span> <span class="toctext">Compound modifiers</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Object.E2.80.93verbal_noun_compounds"><span class="tocnumber">2.2.2</span> <span class="toctext">Objectâverbal noun compounds</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Other_compounds"><span class="tocnumber">2.2.3</span> <span class="toctext">Other compounds</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Suspended_hyphens"><span class="tocnumber">2.2.4</span> <span class="toctext">Suspended hyphens</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Other_uses"><span class="tocnumber">2.3</span> <span class="toctext">Other uses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Varied_meanings"><span class="tocnumber">3</span> <span class="toctext">Varied meanings</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Origin_and_history"><span class="tocnumber">4</span> <span class="toctext">Origin and history</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#In_computing"><span class="tocnumber">5</span> <span class="toctext">In computing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Hyphen-minus"><span class="tocnumber">5.1</span> <span class="toctext">Hyphen-minus</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Hard_and_soft_hyphens"><span class="tocnumber">5.2</span> <span class="toctext">Hard and soft hyphens</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Nonbreaking_hyphens"><span class="tocnumber">5.3</span> <span class="toctext">Nonbreaking hyphens</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Usage_in_date_notation"><span class="tocnumber">6</span> <span class="toctext">Usage in date notation</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Unicode"><span class="tocnumber">7</span> <span class="toctext">Unicode</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#The_hyphen_in_other_languages"><span class="tocnumber">8.1</span> <span class="toctext">The hyphen in other languages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term derives from <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a> <span lang="grc" xml:lang="grc">á½Ïá¾½ á¼Î½</span> (<i>hyphâ hÃ©n</i>), contracted from <span lang="grc" xml:lang="grc">á½ÏÏ á¼Î½</span> (<i>hypÃ³ hÃ©n</i>), "in one" (literally "under one").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>The term <span lang="grc" xml:lang="grc">(á¼¡) á½ÏÎ­Î½</span> ((<i>he</i>) <i>hyphÃ©n</i>), was used for a <a href="/wiki/Tie_(typography)#Papyrological_hyphen" title="Tie (typography)">tie-like</a> (â¿) sign written below two consecutive letters to indicate that they belong to the same word (when it was necessary to avoid ambiguity before the <a href="/wiki/Space_(punctuation)" title="Space (punctuation)">space</a> was in regular use).</p>
+<h2><span class="mw-headline" id="Use_in_English">Use in English</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=2" title="Edit section: Use in English">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote"><span class="plainlinks selfreference noprint">For Wikipedia's own standards for hyphen use, see <a href="/wiki/Wikipedia:Manual_of_Style#Hyphens" title="Wikipedia:Manual of Style">Wikipedia:Manual of Style#Hyphens</a></span></div>
+<table class="plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Hyphen&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span> <small><i>(January 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The <a href="/wiki/English_language" title="English language">English language</a> does not have definitive hyphenation rules,<sup id="cite_ref-Economist_intro_4-0" class="reference"><a href="#cite_note-Economist_intro-4">[4]</a></sup> though various <a href="/wiki/Style_guide" title="Style guide">style guides</a> provide detailed usage recommendations, and have a significant amount of overlap in what they advise. Hyphens are mostly used to break single words into parts, or to join ordinarily separate words into single words. Spaces are not placed between a hyphen and either of the elements it connects except when using a suspended or "hanging" hyphen that stands in for a repeated word (as in <i>nineteenth- and <span class="nowrap">twentieth-century</span> writers</i>). Style conventions that apply to hyphens (and dashes) have evolved to support ease of reading in complex constructions; editors often accept deviations if they aid rather than hinder easy comprehension.</p>
+<p>The use of the hyphen in <a href="/wiki/English_compound" title="English compound">English compound</a> nouns and verbs has, in general, been steadily declining. Compounds that might once have been hyphenated are increasingly left with spaces or are combined into one word. In 2007, the sixth edition of the <i>Shorter Oxford English Dictionary</i> removed the hyphens from 16,000&#160;entries, such as <i>fig-leaf</i> (now <i>fig leaf</i>), <i>pot-belly</i> (now <i>pot belly</i>) and <i>pigeon-hole</i> (now <i>pigeonhole</i>).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The increasing prevalence of computer technology and the advent of the Internet have given rise to a subset of common nouns that might have been hyphenated in the past (e.g. "<a href="/wiki/Toolbar" title="Toolbar">toolbar</a>", "<a href="/wiki/Hyperlink" title="Hyperlink">hyperlink</a>", "<a href="/wiki/Pastebin" title="Pastebin">pastebin</a>").</p>
+<p>Despite decreased use, hyphenation remains the norm in certain compound-modifier constructions and, amongst some authors, with certain prefixes (see below). Hyphenation is also routinely used as part of <a href="/wiki/Syllabification" title="Syllabification">syllabification</a> in <a href="/wiki/Typographic_alignment#Justified" title="Typographic alignment">justified</a> texts to avoid unsightly spacing (especially in <a href="/wiki/Column_(typography)" title="Column (typography)">columns</a> with narrow measure, such as in <a href="/wiki/Newspaper" title="Newspaper">newspapers</a>).</p>
+<h3><span class="mw-headline" id="Separating">Separating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=3" title="Edit section: Separating">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Justification_and_line-wrapping">Justification and line-wrapping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=4" title="Edit section: Justification and line-wrapping">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>When flowing text, it is sometimes preferable to break a word in half so that it continues on another line rather than moving the entire word to the next line. The word may be divided at the nearest break point between syllables (<a href="/wiki/Syllabification" title="Syllabification">syllabification</a>), and a hyphen inserted to indicate that the letters form a word fragment, rather than a full word. This allows more efficient use of paper, allows flush appearance of right-side margins (<a href="/wiki/Typographic_alignment#Justified" title="Typographic alignment">justification</a>) without oddly large word spaces, and decreases the problem of <a href="/wiki/River_(typography)" title="River (typography)">rivers</a>. This kind of hyphenation is most useful when the width of the <a href="/wiki/Column_(typography)" title="Column (typography)">column</a> (called the measure in typography) is very narrow. For example:</p>
+<table>
+<tr valign="top">
+<td><i>Justified text<br />
+without hyphenation</i></td>
+<td></td>
+<td><i>Justified text<br />
+with hyphenation</i></td>
+</tr>
+<tr valign="top">
+<td style="font-family: monospace; text-align: justify; font-size:85%;">
+<p>We,&#160;&#160;&#160;&#160;&#160;&#160;&#160;therefore,&#160;&#160;&#160;&#160;&#160;&#160;the<br />
+representatives of the United<br />
+States of America...</p>
+</td>
+<td style="width:3em;">&#160;&#160;</td>
+<td style="font-family: monospace; text-align: justify; font-size:85%;">
+<p>We,&#160;therefore,&#160;the&#160;represen-<br />
+tatives of&#160;the United States<br />
+of America...</p>
+</td>
+</tr>
+</table>
+<p>The details of doing this properly are complex and language-dependent, and can interact with other <a href="/wiki/Orthography" title="Orthography">orthographic</a> and <a href="/wiki/Typesetting" title="Typesetting">typesetting</a> practices. <a href="/wiki/Hyphenation_algorithm" title="Hyphenation algorithm">Hyphenation algorithms</a>, when employed in concert with dictionaries, are sufficient for all but the most formal texts. See also <a href="/wiki/Justification_(typesetting)" class="mw-redirect" title="Justification (typesetting)">justification</a>.</p>
+<p>It may be necessary to distinguish an incidental line-break hyphen from one integral to a word <a href="/wiki/Use%E2%80%93mention_distinction" title="Useâmention distinction">being mentioned</a> (e.g. in a <a href="/wiki/Dictionary" title="Dictionary">dictionary</a>) or present in an original text being quoted (e.g. in a <a href="/wiki/Critical_edition" class="mw-redirect" title="Critical edition">critical edition</a>)ânot only to control its <a href="/wiki/Word_wrap" class="mw-redirect" title="Word wrap">word wrap</a> behavior (which <a href="/wiki/Character_encoding" title="Character encoding">encoding</a> handles with <a href="#Hard_and_soft_hyphens">hard and soft hyphens</a> having the same <a href="/wiki/Glyph" title="Glyph">glyph</a>) but also to differentiate appearance (with a different glyph). <i><a href="/wiki/Merriam-Webster%27s_Third_New_International_Dictionary" class="mw-redirect" title="Merriam-Webster's Third New International Dictionary">Merriam-Webster's Third New International Dictionary</a></i><sup id="cite_ref-Gove1993_6-0" class="reference"><a href="#cite_note-Gove1993-6">[6]</a></sup> and the <i><a href="/wiki/Chambers_Dictionary" title="Chambers Dictionary">Chambers Dictionary</a></i><sup id="cite_ref-Chambers2006_7-0" class="reference"><a href="#cite_note-Chambers2006-7">[7]</a></sup> use a <a href="/wiki/Double_hyphen" title="Double hyphen">double hyphen</a> for integral hyphens and a single hyphen for line-breaks, whereas Kromhout's AfrikaansâEnglish dictionary uses the opposite convention.<sup id="cite_ref-Kromhout2001_8-0" class="reference"><a href="#cite_note-Kromhout2001-8">[8]</a></sup> The <i><a href="/wiki/Concise_Oxford_Dictionary" class="mw-redirect" title="Concise Oxford Dictionary">Concise Oxford Dictionary</a> (fifth edition)</i> repeated an integral hyphen at the start of the following line.<sup id="cite_ref-Hartmann1986_9-0" class="reference"><a href="#cite_note-Hartmann1986-9">[9]</a></sup></p>
+<h4><span class="mw-headline" id="Prefixes_and_suffixes">Prefixes and suffixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=5" title="Edit section: Prefixes and suffixes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Prefix" title="Prefix">Prefixes</a> (such as <i>de-</i>, <i>pre-</i>, <i>re-</i>, and <i>non-</i><sup id="cite_ref-footnote_prefix_list_10-0" class="reference"><a href="#cite_note-footnote_prefix_list-10">[10]</a></sup>) and <a href="/wiki/Suffix" title="Suffix">suffixes</a> (such as <i><span class="nowrap">-less</span></i>, <i><span class="nowrap">-like</span></i>, <i><span class="nowrap">-ness</span></i>, and <i><span class="nowrap">-hood</span></i>) may or may not be hyphenated. (The unhyphenated style is also called <i>closed up</i> or <i>solid</i>.) A <a href="/wiki/Rule_of_thumb" title="Rule of thumb">rule of thumb</a> is that they are not hyphenated unless the lack of a hyphen hurts clarityâspecifically, clarity at first glance rather than clarity upon a second look or a moment's pause. The clearâunclear distinction involves some <a href="/wiki/Subjectivity" title="Subjectivity">subjectivity</a>, because what is instantly clear to one reader may not be to another (depending on, for example, subject matter familiarity). Nonetheless, consensus among users of a language often reduces that subjectivity for many words. This is explained further below.</p>
+<p>Many long-established words, such as <i>disgusted</i>, <i>degrade</i>, and <i>refresh</i>, do not require a hyphen because they are fully fused to the point that their first syllable is barely even thought about as having a prefix function. Many other words, such as <i>prewashed</i> or <i>repainted</i>, may not be <i>quite</i> so fully fused (the prefix function may be slightly more prominent in consciousness), but nonetheless they require no hyphen, because (1) most readers recognize the closed-up word as a familiar one and thus have no trouble parsing the <a href="/wiki/Syllable" title="Syllable">syllables</a>, and (2) if all such words were hyphenated, the many hyphens throughout the text would seem superfluous.</p>
+<p>In contrast, for some other words, the closed-up style may not be as clear, and the hyphen can ensure clarity and avoid awkwardness, including "odd appearance" or misguided parsing of <a href="/wiki/Syllable" title="Syllable">syllables</a>. An example of avoiding misguided parsing would be to hyphenate the word <i><span class="nowrap">co-worker</span></i> (versus <i>coworker</i>) to prevent the reader's eye being caught automatically by the letter group <i>cow</i> (which might suggest <i><a href="/wiki/Cattle" title="Cattle">cow</a></i> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="'k' in 'kind'">k</span><span title="/aÊ/ 'ou' in 'pout'">aÊ</span></span>/</a></span></span>) before backtracking and reparsing occurred). In such cases, styling varies depending on individual preference, regional preference, occupational specialty, or <a href="/wiki/Style_guide" title="Style guide">style guide</a> preference, because the definition of "awkwardness" for any given word depends on who is judging it.</p>
+<p>Words for which prefix hyphenation is least subjective, to the point that closed-up style is widely rejected, are of several classes. One such class consists of a few words that require a hyphen to distinguish them from other words that would otherwise be <a href="/wiki/Homograph" title="Homograph">homographs</a>, such as <i><a href="/wiki/Recreation" title="Recreation">recreation</a></i> (fun or sport) versus <i><span class="nowrap">re-creation</span></i> (the act of creating again), <i>retreat</i> (turn back) versus <i><span class="nowrap">re-treat</span></i> (give <a href="/wiki/Therapy" title="Therapy">therapy</a> again), and <i><span class="nowrap">un-ionized</span></i> (not in <a href="/wiki/Ion" title="Ion">ion</a> form) versus <i>unionized</i> (organized into <a href="/wiki/Trade_union" title="Trade union">trade unions</a>). The other classes are those in which the prefix is applied to (1) a <a href="/wiki/Proper_noun" title="Proper noun">proper</a> (capitalized) noun or adjective (<i><span class="nowrap">un-American</span></i>, <i><span class="nowrap">de-Stalinisation</span></i>);<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-Grammar_book_12-0" class="reference"><a href="#cite_note-Grammar_book-12">[12]</a></sup> (2) an <a href="/wiki/Acronym" title="Acronym">acronym</a> (<i><span class="nowrap">anti-<a href="/wiki/Tumor_necrosis_factors" class="mw-redirect" title="Tumor necrosis factors">TNF</a> antibody</span></i>, <i><span class="nowrap">non-<a href="/wiki/International_System_of_Units" title="International System of Units">SI</a> units</span></i>); or (3) a number (<i><span class="nowrap">pre-1949 diplomacy</span></i>, <i><span class="nowrap">pre-1492 cartography</span></i>).</p>
+<p>Style guides codify rules to minimize inconsistency, the ultimate goal of which is to have the style unnoticed by the reader (that is, to avoid catching the reader's eye, either with trivial differences or with a lot of superfluous hyphens). The style guide rules allow exceptions to avoid awkwardness. For example, a guide will typically say to follow dictionary X's style for any word entered therein, and for words not entered, to close up by default and thus hyphenate only to avoid awkwardness. Such a rule successfully codifies almost all choices and thus leaves little to discretion except a few rare or neologistic words, which are safely hyphenated. This ensures high intradocument and interdocument consistency. Rules about avoiding doubled vowels or doubled consonants are often mentioned in style guides. These appropriately cascade only downstream, not upstream, of the "follow dictionary X" rule, because most dictionaries close up many well-established doubled-letter pairs. (For example, any style that follows <i><a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster's Collegiate Dictionary</a></i> thus closes up <i>preempt</i>, <i>reexamine</i>, <i>deemphasize</i>, <i>nonnegotiable</i>, <i>posttransfusion</i>, and hundreds of others.) As mentioned earlier, the definition of "awkwardness" for any given word is inherently subjective but nonetheless also subject to consensus. For example, <i>reexamine</i> and <i>deemphasize</i> are accepted as nonawkward by a broad consensus; to <i>prefer</i> the hyphenated styling is a matter of opinion, but to <i>insist</i> that the solid styling is awkward would be considered pedantic by many educated readers. However, some doublings attract smaller majorities than others in such a consensus; with the <i><span class="nowrap">co-worker</span></i>/<i>coworker</i> example (mentioned earlier) or with <i>antiinflammatory</i>/<i><span class="nowrap">anti-inflammatory</span></i>, many readers may consider solid styling nonawkward whereas plenty of others don't, and in such cases, dictionary styles may vary (<i><a href="/wiki/Dorland%27s_medical_reference_works" title="Dorland's medical reference works">Dorland's</a></i>, <i>antiinflammatory</i>; <i>Merriam-Webster's Medical Dictionary</i>, <i><span class="nowrap">anti-inflammatory</span></i>). Tripled letters rarely occur, but when they do, the hyphen is considered mandatory (thus <i><span class="nowrap">shell-like</span></i>, not <i>shelllike</i>).</p>
+<p>There is a trend that over decades, words that once were hyphenated for clarity lose the hyphen as their familiarity grows. An excellent example is <i><a href="/wiki/Email" title="Email">email</a></i>/<i><span class="nowrap">e-mail</span></i>; the number of people who find <i>email</i> awkward dropped from the 1990s to the 2010s, and thus the hyphen has been dropped increasingly. For some instances, the consensus depends on occupational specialty or subspecialty. Although <i><span class="nowrap"><a href="/wiki/Proto-oncogene" class="mw-redirect" title="Proto-oncogene">proto-oncogene</a></span></i> is still hyphenated by most users (and by both <i>Dorland's</i> and <i>Merriam-Webster's Medical</i>), the solid styling (<i>protooncogene</i>) is gaining popularity, with oncologists and geneticists (for whom the term is most familiar) leading the way.</p>
+<p>A hyphen can clarify that two adjacent <a href="/wiki/Vowel" title="Vowel">vowels</a>âwhether two of the same letter (e.g., <i>oo</i>, <i>ee</i>) or two different letters (e.g., <i>ae</i>, <i>ei</i>)âare pronounced separately rather than being merged in a <a href="/wiki/Diphthong" title="Diphthong">diphthong</a>. The question is how necessary the clarification is. Thus, hyphenated <i><span class="nowrap">de-escalate</span></i> and <i><span class="nowrap">co-operation</span></i> have plenty of support, consensus-wise (plenty of users consider their hyphens as not superfluous), although solid <i>deescalate</i> and <i>cooperation</i> have plenty of support as well (plenty of users consider the hyphens superfluous). Consensus for styling varies by class, subclass, and even by individual word, with the common theme being that internal punctuation drops out of any combination judged as instantly recognizable enough in its context not to need it. As classes, there are doubling (namely, <i>aa, ee, ii, oo, uu, yy</i>) and nondoubling (for example, <i>a+e, a+i, a+o; e+e, e+i, e+o</i>). Several subclasses exist. There are combinations that are not rare in English as diphthongs and also not rare as nondiphthongs for users willing to style prefixed words solidly (such as <i>ee</i> and <i>ei</i>); regarding <i>de+e/re+e/pre+e</i> and <i>de+i/re+i/pre+i</i>, nearly everyone agrees that some fully fused examples (such as <i>reiterate</i> and <i>reinforce</i>) need no hyphen, but other examples have more evenly split pluralities (such as <i>reexamine</i>/<i><span class="nowrap">re-examine</span></i> or <i>deemphasize</i>/<i><span class="nowrap">de-emphasize</span></i>). There are combinations that are rare in English as diphthongs (for example, <i>aa</i> and <i>ii</i>) but not rare in prefixed words for those willing to style them solidly; and thus either they hardly need clarification within prefixed words (the solidification argument; thus <i>intraarterial</i> and <i>antiinflammatory</i>) or they need a hyphen to avoid looking like rare diphthongs, which are "odd-looking" because rare (the hyphenation argument, thus <i><span class="nowrap">intra-arterial</span></i> and <i><span class="nowrap">anti-inflammatory</span></i>).</p>
+<p>A <a href="/wiki/Diaeresis_(diacritic)" title="Diaeresis (diacritic)">diaeresis</a> can also sometimes be used, either to indicate nondiphthong status (as in <i>coÃ¶peration</i> and <i>naÃ¯ve</i>) or to indicate nonsilent terminal -e (as in <i><a href="/wiki/Bront%C3%AB_family" title="BrontÃ« family">BrontÃ«</a></i>), but there are several implicit boundaries on this style's use; it is now rare (its peak of popularity was in the late 19th and early 20th centuries), and it was never applied extensively across the language (only a handful of examples, including <i>coÃ¶peration</i>, <i>naÃ¯ve</i>, and <i>BrontÃ«</i>, are encountered with any appreciable frequency in English; for whatever reason, it never had any popularity in the <i>de+e/re+e/pre+e</i> or <i>de+i/re+i/pre+i</i> subclassesâthus never <i>*reÃ«xamine</i>, <i>*reÃ¯terate</i>, <i>*deÃ«mphasize</i>, or others, although they might have been useful). Many users (and various dictionaries) consider the diaeresis optional in <i>naive</i>/<i>naÃ¯ve</i> (because not necessary for the reader to recognize the word), and <i>*na-ive</i> draws attention to itself as a style that is simply never used (although comprehensible). For <i>deity</i> and <i>deify</i>, only solid styling (no hyphen or diaeresis) is normative.</p>
+<h4><span class="mw-headline" id="Syllabification_and_spelling">Syllabification and spelling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=6" title="Edit section: Syllabification and spelling">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Hyphens are occasionally used to denote <a href="/wiki/Syllabification" title="Syllabification">syllabification</a>, as in <i>syl-la-bi-fi-ca-tion</i>. Most British and North American dictionaries use an <a href="/wiki/Interpunct" title="Interpunct">interpunct</a>, sometimes called a "middle dot" or "hyphenation point", for this purpose, as in <i>sylÂ·laÂ·biÂ·fiÂ·caÂ·tion</i>. This allows the hyphen to be reserved only for places where a hard hyphen is intended (for example, <i><span class="nowrap">self-conÂ·scious</span></i>, <i><span class="nowrap">unÂ·selfÂ·conÂ·scious</span></i>, <i><span class="nowrap">long-standÂ·ing</span></i>). Similarly, hyphens may be used to indicate a word is being or should be spelled. For example, W-O-R-D spells "word".</p>
+<h3><span class="mw-headline" id="Joining">Joining</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=7" title="Edit section: Joining">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Compound_modifiers">Compound modifiers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=8" title="Edit section: Compound modifiers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Compound_modifier" title="Compound modifier">Compound modifiers</a> are groups of two or more words that jointly modify the meaning of another word. When a compound modifier other than an <a href="/wiki/Adverb" title="Adverb">adverb</a>â<a href="/wiki/Adjective" title="Adjective">adjective</a> combination appears <i>before</i> a term, the compound modifier is often hyphenated to prevent misunderstanding, such as in <i><span class="nowrap">American-football</span> player</i> or <i><span class="nowrap">little-celebrated</span> paintings</i>. Without the hyphen, there is potential confusion about whether the writer means a "player of American football" or an "American player of football" and whether the writer means paintings that are "little celebrated" or "celebrated paintings" that are little.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Compound modifiers can extend to three or more words, as in <i><span class="nowrap">ice-cream-flavored</span> candy</i>, and can be adverbial as well as adjectival (<i><span class="nowrap">spine-tinglingly</span> frightening</i>). However, if the compound is a familiar one, it is usually unhyphenated. For example, at least one style guide prefers the construction <i>high school students</i>, to <i><span class="nowrap">high-school</span> students</i>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Although the expression is technically ambiguous ("students of a high school"/"school students who are high"), it would normally be formulated differently if other than the first meaning were intended. Nounânoun compound modifiers may also be written without a hyphen when no confusion is likely: <i>grade point average</i> and <i>department store manager</i>.<sup id="cite_ref-IU_Style_Guide_15-0" class="reference"><a href="#cite_note-IU_Style_Guide-15">[15]</a></sup></p>
+<p>When a compound modifier <i>follows</i> the term to which it applies, a hyphen is typically not used if the compound is a temporary compound. For example, "that gentleman is well respected", not "that gentleman is well-respected"; or "a patient-centered approach was used" but "the approach was patient centered."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> But permanent compounds, found as headwords in dictionaries, are treated as invariable, so if they are hyphenated in the cited dictionary, the hyphenation will be used in both attributive and predicative positions. For example, "A cost-effective method was used" and "The method was cost-effective" (<i>cost-effective</i> is a permanent compound that is hyphenated as a headword in various dictionaries). When one of the parts of the modifier is a <a href="/wiki/Proper_noun" title="Proper noun">proper noun</a> or a <a href="/wiki/Proper_adjective" title="Proper adjective">proper adjective</a>, there is no hyphen (e.g. "a South American actor").<sup id="cite_ref-Hyphenated_Compound_Words_17-0" class="reference"><a href="#cite_note-Hyphenated_Compound_Words-17">[17]</a></sup></p>
+<p>When the first modifier in a compound is an adverb ending in <i>-ly</i> (as in "a poorly written novel"), various style guides advise no hyphen.<sup id="cite_ref-Hyphenated_Compound_Words_17-1" class="reference"><a href="#cite_note-Hyphenated_Compound_Words-17">[17]</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs additional references to reliable sources. (January 2016)">additional citation needed</span></a></i>]</sup> However, some do allow for this use. For example, <i><a href="/wiki/The_Economist" title="The Economist">The Economist</a> Style Guide</i> advises: "Adverbs do not need to be linked to participles or adjectives by hyphens in simple constructions .... Less common adverbs, including all those that end <i>-ly</i>, are less likely to need hyphens".<sup id="cite_ref-Economist_12_18-0" class="reference"><a href="#cite_note-Economist_12-18">[18]</a></sup> In the 19th century, it was common to hyphenate adverbâadjective modifiers with the adverb ending in <i>-ly</i> (as in "a craftily-constructed chair"). However, this has become rare. For example, <i>wholly owned subsidiary</i> and <i>quickly moving vehicle</i> are unambiguous, because the adverbs clearly modify the adjectives: "quickly" cannot modify "vehicle".</p>
+<p>However, if an adverb can also function as an adjective, then a hyphen may be or should be used for clarity, depending on the style guide.<sup id="cite_ref-Grammar_book_12-1" class="reference"><a href="#cite_note-Grammar_book-12">[12]</a></sup> For example, the phrase <i><span class="nowrap">more-important</span> reasons</i> ("reasons that are more important") is distinguished from <i>more important reasons</i> ("additional important reasons"), where <i>more</i> is an adjective. Similarly, <i><span class="nowrap">more-beautiful</span> scenery</i> (with a <a href="/wiki/Mass_noun" title="Mass noun">mass-noun</a>) is distinct from <i>more beautiful scenery</i>. (In contrast, the hyphen in "a <span class="nowrap">more-important</span> reason" is not necessary, because the syntax cannot be misinterpreted.) A few short and common words â such as <i>well</i>, <i>ill</i>, <i>little</i>, and <i>much</i> â attract special attention in this category.<sup id="cite_ref-Economist_12_18-1" class="reference"><a href="#cite_note-Economist_12-18">[18]</a></sup> The hyphen in "well-[past_participled] noun", such as in "<a href="/wiki/Cellular_differentiation" title="Cellular differentiation">well-differentiated cells</a>", might reasonably be judged superfluous (the syntax is unlikely to be misinterpreted), yet plenty of style guides call for it. Because <i>early</i> has both adverbial and adjectival senses, its hyphenation can attract attention; some editors, due to comparison with <i>advanced-stage disease</i> and <i>adult-onset disease</i>, like the parallelism of <i>early-stage disease</i> and <i>early-onset disease</i>. Similarly, the hyphen in <i>little-celebrated paintings</i> clarifies that one is not speaking of little paintings.</p>
+<p>Hyphens are usually used to connect numbers and words in modifying phrases (such as in dimensional measurements of weight, size, and time) under the rationale that, like other compound modifiers, they take hyphens in attributive position (before the modified noun),<sup id="cite_ref-AMA10section8.3.1_19-0" class="reference"><a href="#cite_note-AMA10section8.3.1-19">[19]</a></sup> although not in predicative position (after the modified noun). This is applied whether numerals or words are used for the numbers. Thus <i><span class="nowrap">28-year-old</span> woman</i> and <i><span class="nowrap">twenty-eight-year-old</span> woman</i> or <i><span class="nowrap">32-foot</span> wingspan</i> and <i><span class="nowrap">thirty-two-foot</span> wingspan</i>, but <i>the woman is 28 years old</i> and <i>a wingspan of 32 feet</i>. However, with symbols for <a href="/wiki/SI" class="mw-redirect" title="SI">SI</a> units (such as <i><a href="/wiki/Metre" title="Metre">m</a></i> or <i><a href="/wiki/Kilogram" title="Kilogram">kg</a></i>)âas opposed to the <i>names</i> of these units (such as <i><a href="/wiki/Metre" title="Metre">metre</a></i> or <i><a href="/wiki/Kilogram" title="Kilogram">kilogram</a></i>)âboth the <a href="/wiki/International_Bureau_of_Weights_and_Measures" title="International Bureau of Weights and Measures">International Bureau of Weights and Measures</a> and the U.S. <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">National Institute of Standards and Technology</a> recommend use without a hyphen: <i>a 25&#160;kg sphere</i> (which is why some scientists get annoyed when such hyphens are added to their article when it is edited for a journal using <a href="/wiki/AMA_Manual_of_Style" title="AMA Manual of Style">AMA style</a>, whose hyphenation of these symbols bucks SI style). When the units are spelled out, this recommendation does not apply: <i>a <span class="nowrap">25-kilogram</span> sphere</i>, <i>a roll of <span class="nowrap">35-millimeter</span> film</i>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<p>In spelled-out <a href="/wiki/Fraction_(mathematics)" title="Fraction (mathematics)">fractions</a>, hyphens are usually used when the fraction is used as an adjective but not when it is used as a noun: thus <i><span class="nowrap">two-thirds</span> majority</i> and <i><span class="nowrap">one-eighth</span> portion</i> but <i>I drank two thirds of the bottle</i> or <i>I kept three quarters of it for myself</i>.<sup id="cite_ref-APA6section4.13_22-0" class="reference"><a href="#cite_note-APA6section4.13-22">[22]</a></sup> However, at least one major style guide<sup id="cite_ref-AMA10section8.3.1_19-1" class="reference"><a href="#cite_note-AMA10section8.3.1-19">[19]</a></sup> hyphenates spelled-out fractions invariably (whether adjective or noun).</p>
+<p>In English, <span id="En_dash.2C_hyphen.2C_or_either_one"></span> an <a href="/wiki/En_dash" class="mw-redirect" title="En dash">en dash</a> ( â ) sometimes replaces the hyphen in hyphenated compounds if either of its constituent parts is already hyphenated or contains a space (for example, <i>San Franciscoâarea residents</i>, <i>hormone receptorâpositive cells</i>, <i>cell cycleârelated factors</i>, and <i>public-schoolâprivate-school rivalries</i>).<sup id="cite_ref-LutzStevenson2005_23-0" class="reference"><a href="#cite_note-LutzStevenson2005-23">[23]</a></sup> A commonly used alternative style is the hyphenated string (<i>hormone-receptor-positive cells</i>, <i>cell-cycle-related factors</i>). (For other aspects of en dashâversusâhyphen use, see <i><a href="/wiki/Dash#En_dash" title="Dash">Dash &gt; En dash</a></i>.)</p>
+<h4><span class="mw-headline" id="Object.E2.80.93verbal_noun_compounds">Objectâverbal noun compounds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=9" title="Edit section: Objectâverbal noun compounds">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>When an object is compounded with a verbal noun, such as <i><a href="/wiki/Mixer_(cooking)" title="Mixer (cooking)">egg-beater</a></i> (a tool that beats eggs), the result is sometimes hyphenated. Some authors do this consistently, others only for disambiguation; in this case, <i>egg-beater, egg beater,</i> and <i>eggbeater</i> are all common.</p>
+<p>An example of an ambiguous phrase appears in <i>they stood near a group of alien lovers</i>, which without a hyphen implies that they stood near a group of lovers who were aliens; <i>they stood near a group of alien-lovers</i> clarifies that they stood near a group of people who loved aliens, as "alien" can be either an adjective or a noun. On the other hand, in the phrase <i>a hungry pizza-lover</i>, the hyphen will often be omitted (a hungry pizza lover), as "pizza" cannot be an adjective and the phrase is therefore unambiguous.</p>
+<p>Similarly, <i>there's a man-eating shark in these waters</i> is nearly the opposite of <i>there's a man eating shark at table 6</i>; the first is a shark, and the second a man. <i>A government-monitoring program</i> is a program that monitors the government, whereas <i>a government monitoring program</i> is a government program that monitors something else.</p>
+<h4><span class="mw-headline" id="Other_compounds">Other compounds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=10" title="Edit section: Other compounds">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Connecting hyphens are used in a large number of miscellaneous compounds, other than modifiers, such as in <i>lily-of-the-valley</i>, <i>cock-a-hoop</i>, <i>clever-clever</i>, <i>tittle-tattle</i> and <i>orang-utan</i>. Use is often dictated by convention rather than fixed rules, and hyphenation styles may vary between authors; for example, <i>orang-utan</i> is also written as <i>orangutan</i> or <i>orang utan</i>, and <i>lily-of-the-valley</i> may or may not be hyphenated.</p>
+<p>Some married couples compose a new <a href="/wiki/Surname" title="Surname">surname</a> (sometimes referred to as a <a href="/wiki/Double-barrelled_name" title="Double-barrelled name">double-barrelled name</a>) for their new family by combining their two surnames with a hyphen. Jane Doe and John Smith might become Jane and John Smith-Doe, or Doe-Smith, for instance. In some countries only the woman hyphenates her birth surname, appending her husband's surname. (See also <a href="/wiki/Spanish_naming_customs#Hyphenation" title="Spanish naming customs">Spanish naming customs#Hyphenation</a> and <a href="/wiki/Portuguese_name#Hyphenation" title="Portuguese name">Portuguese name#Hyphenation</a>.)</p>
+<h4><span class="mw-headline" id="Suspended_hyphens">Suspended hyphens</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=11" title="Edit section: Suspended hyphens">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A suspended hyphen (also called a "suspensive hyphen" or "hanging hyphen", or less commonly a "dangling" or "floating" hyphen) may be used when a single base word is used with separate, consecutive, hyphenated words which are connected by "and", "or", or "to". For example, <i>nineteenth-century and twentieth-century</i> may be written as <i>nineteenth- and twentieth-century.</i> This usage is now common in English and specifically recommended in some style guides.<sup id="cite_ref-IU_Style_Guide_15-1" class="reference"><a href="#cite_note-IU_Style_Guide-15">[15]</a></sup> Although less common, suspended hyphens are also used in English when the base word comes first, such as in "investor-owned and -operated". Uses such as "applied and sociolinguistics" (instead of "applied linguistics and sociolinguistics") are frowned on in English; the Indiana University Style Guide uses this example and says "Do not 'take a shortcut' when the first expression is ordinarily open." (i.e., ordinarily two separate words).<sup id="cite_ref-IU_Style_Guide_15-2" class="reference"><a href="#cite_note-IU_Style_Guide-15">[15]</a></sup> This is different, however, from instances where prefixes that are normally closed up (styled solidly) are used suspensively. For example, <i><span class="nowrap">preoperative and postoperative</span></i> becomes <i><span class="nowrap">pre- and postoperative</span></i> (not <i><span class="nowrap">pre- and post-operative</span></i>) when suspended. Some editors prefer to avoid suspending such pairs, choosing instead to write out both words in full.<sup id="cite_ref-AMA10section8.3.1_19-2" class="reference"><a href="#cite_note-AMA10section8.3.1-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="Other_uses">Other uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=12" title="Edit section: Other uses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A hyphen may be used to connect groups of numbers, such as in dates (see below), telephone numbers or sports scores. It can also be used to indicate a range of values, although many <a href="/wiki/Style_guide" title="Style guide">styles</a> prefer an <a href="/wiki/Dash#En_dash" title="Dash">en dash</a> (see examples at <a href="/wiki/Dash#Ranges_of_values" title="Dash">Dash &gt; En dash &gt; Ranges of values</a>).</p>
+<p>The hyphen is sometimes used to hide letters in words (<a href="/wiki/Fillet_(redaction)" title="Fillet (redaction)">filleting for redaction/censoring</a>), as in <a href="/wiki/G-d" class="mw-redirect" title="G-d">G-d</a>, although an en dash can be used as well (âGâdâ).</p>
+<p>The hyphen is often used in <a href="/wiki/Reduplication" title="Reduplication">reduplicatives</a>.</p>
+<h2><span class="mw-headline" id="Varied_meanings">Varied meanings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=13" title="Edit section: Varied meanings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some strong examples of semantic changes caused by the placement of hyphens:</p>
+<ul>
+<li><i>Disease-causing poor nutrition</i>, meaning poor nutrition that causes disease</li>
+<li><i>Disease causing poor nutrition</i>, meaning a disease that causes poor nutrition</li>
+<li>A <i>man-eating shark</i> is a shark that eats humans.</li>
+<li>A <i>man eating shark</i> is a man who is eating shark meat.</li>
+<li>A <i>hard working man</i> is a working man who is tough.</li>
+<li>A <i>hard-working man</i> is a man who works hard.</li>
+<li><i>Three-hundred-year-old trees</i> are an indeterminate number of trees that are each aged 300 years.</li>
+<li><i>Three hundred-year-old trees</i> are three trees that are each aged 100 years.</li>
+<li><i>Three-hundred year-old trees</i> are 300 trees that are each aged 1 year.</li>
+</ul>
+<h2><span class="mw-headline" id="Origin_and_history">Origin and history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=14" title="Edit section: Origin and history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first known documentation of the hyphen is in the grammatical works of <a href="/wiki/Dionysius_Thrax" title="Dionysius Thrax">Dionysius Thrax</a>. At the time hyphenation was joining two words that would otherwise be read separately by a low <a href="/wiki/Tie_(typography)" title="Tie (typography)">tie mark</a> between the two words.<sup id="cite_ref-nicky_24-0" class="reference"><a href="#cite_note-nicky-24">[24]</a></sup> In Greek these marks were known as <i><a href="/wiki/Enotikon" class="mw-redirect" title="Enotikon">enotikon</a></i>, officially <a href="/wiki/Romanization_of_Greek" title="Romanization of Greek">romanized</a> as a hyphen.<sup id="cite_ref-elot_25-0" class="reference"><a href="#cite_note-elot-25">[25]</a></sup></p>
+<p>With the introduction of <a href="/wiki/Letter-spacing" title="Letter-spacing">letter-spacing</a> in the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>, the hyphen, still written beneath the text, reversed its meaning. Scribes used the mark to connect two words that had been incorrectly separated by a space. This era also saw the introduction of the marginal hyphen, for words broken across lines.<sup id="cite_ref-Houston2013_26-0" class="reference"><a href="#cite_note-Houston2013-26">[26]</a></sup></p>
+<p>The modern format of the hyphen originated with <a href="/wiki/Johannes_Gutenberg" title="Johannes Gutenberg">Johannes Gutenberg</a> of Mainz, Germany, c.<span style="white-space:nowrap;">â1455</span> with the publication of his 42-line <a href="/wiki/Gutenberg_Bible" title="Gutenberg Bible">Bible</a>. His tools did not allow for a subliminal hyphen, and he thus moved it to the middle of the line.<sup id="cite_ref-Houston2013b_27-0" class="reference"><a href="#cite_note-Houston2013b-27">[27]</a></sup> Examination of an original copy on <a href="/wiki/Vellum" title="Vellum">vellum</a> (Hubay index #35) in the <a href="/wiki/Library_of_Congress" title="Library of Congress">U. S. Library of Congress</a> shows that Gutenberg's movable type was set justified in a uniform style, 42 equal lines per page. The Gutenberg printing press required words made up of individual letters of type to be held in place by a surrounding non-printing rigid frame. Gutenberg solved the problem of making each line the same length to fit the frame by inserting a hyphen as the last element at the right-side margin. This interrupted the letters in the last word, requiring the remaining letters be carried over to the start of the line below. His hyphen appears throughout the Bible as a short, double line inclined to the right at a 60-degree angle.</p>
+<h2><span class="mw-headline" id="In_computing">In computing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=15" title="Edit section: In computing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hyphen-minus">Hyphen-minus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=16" title="Edit section: Hyphen-minus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Hyphen-minus" title="Hyphen-minus">Hyphen-minus</a></div>
+<p>In the <a href="/wiki/ASCII" title="ASCII">ASCII</a> <a href="/wiki/Character_encoding" title="Character encoding">character encoding</a>, the hyphen is encoded as character 45. This character is actually called the <a href="/wiki/Hyphen-minus" title="Hyphen-minus">hyphen-minus</a>, and it is also used as the minus sign and for <a href="/wiki/Dash" title="Dash">dashes</a>. In <a href="/wiki/Unicode" title="Unicode">Unicode</a>, the hyphen-minus is encoded as <a href="/wiki/Unicode#Upluslink" title="Unicode">U+</a>002D (-) so that Unicode remains compatible with ASCII. However, Unicode also encodes the hyphen and minus separately, as U+2010 (â) and U+2212 (â) respectively, along with the em dash U+2014 (â), en dash U+2013 (â) and other related characters. The hyphen-minus is a general-purpose character that attempts to fulfill several roles, and wherever optimal typography is desired, the preferred hyphen, minus, or other symbol should be used instead. For example, compare 4+3â2=5 (minus) and 4+3-2=5 (hyphen-minus); in most fonts the hyphen-minus will not have the optimal width, thickness, or vertical position, whereas the minus character will.</p>
+<p>However, the Unicode hyphen is awkward to enter on most keyboards, so the hyphen-minus character remains very common. They are often used instead of dashes or minus signs in situations where the preferred characters are unavailable (such as ASCII-only text), where the preferred characters take effort to enter (via <a href="/wiki/Dialog_box" title="Dialog box">dialog boxes</a> or multi-key, unmemorable <a href="/wiki/Keyboard_shortcut" title="Keyboard shortcut">keyboard shortcuts</a>), or when the writer is unaware of the distinction. Some writers use two hyphen-minuses (--) to represent a dash in ASCII text.</p>
+<p>The ASCII hyphen-minus character is also often used when specifying <a href="/wiki/Command-line_option" class="mw-redirect" title="Command-line option">command-line options</a>. The character is usually followed by one or more letters that indicate specific actions. Typically it is called a dash or switch in this context. Various implementations of the <a href="/wiki/Getopt" title="Getopt">getopt()</a> function to parse command-line options additionally allow the use of two hyphen-minus characters (&#160;--&#160;) to specify long option names that are more descriptive than their single-letter equivalents. Another use of hyphens is that employed by programs written with <a href="/wiki/Pipeline_(Unix)" title="Pipeline (Unix)">pipelining</a> in mindâ a single hyphen may be recognized <a href="https://en.wiktionary.org/wiki/in_lieu" class="extiw" title="wikt:in lieu">in lieu</a> of a filename, with the hyphen then serving as an indicator that a <a href="/wiki/Standard_streams" title="Standard streams">standard stream</a>, instead of a file, is to be worked with.</p>
+<h3><span class="mw-headline" id="Hard_and_soft_hyphens">Hard and soft hyphens</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=17" title="Edit section: Hard and soft hyphens">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Soft_hyphen" title="Soft hyphen">Soft hyphen</a></div>
+<p>Although software (<a href="/wiki/Hyphenation_algorithm" title="Hyphenation algorithm">hyphenation algorithms</a>) can often automatically make decisions on when to hyphenate a word at a line break, it is also sometimes useful for the user to be able to insert cues for those decisions (which are dynamic in the online medium, given that text can be reflowed). For this purpose, the concept of a <a href="/wiki/Soft_hyphen" title="Soft hyphen">soft hyphen</a> (discretionary hyphen, optional hyphen) was introduced, allowing such manual specification of a place where a hyphenated break is <i>allowed</i> but not <i>forced</i>. That is, it does not force a line break in an inconvenient place when the text is later reflowed.</p>
+<p>In contrast, a hyphen that is always displayed and printed is called a <span id="hard_hyphen"></span><b>hard hyphen</b> (although some use this term to refer to a non-breaking hyphen; see below). Soft hyphens are inserted into the text at the positions where hyphenation <i>may</i> occur. It can be a tedious task to insert the soft hyphens by hand, and tools using <a href="/wiki/Hyphenation_algorithm" title="Hyphenation algorithm">hyphenation algorithms</a> are available that do this automatically. Current modules of the <a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">Cascading Style Sheets</a> (CSS) standard provide language-specific hyphenation dictionaries.</p>
+<h3><span class="mw-headline" id="Nonbreaking_hyphens">Nonbreaking hyphens</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=18" title="Edit section: Nonbreaking hyphens">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Word_segmentation" class="mw-redirect" title="Word segmentation">word segmentation</a> rules of most text systems consider a hyphen to be a <a href="/wiki/Word_boundary" class="mw-redirect" title="Word boundary">word boundary</a> and a valid point at which to break a line when flowing text. However, this is not always desirable behavior, especially when it could lead to ambiguity (such as in the examples given before, where <i>recreation</i> and <i>reâcreation</i> would be indistinguishable), or in languages other than English (e.g. a line break at the hyphen in <a href="/wiki/Irish_language" title="Irish language">Irish</a> <span lang="ga" xml:lang="ga"><i>an tâathair</i></span> or <a href="/wiki/Romanian_language" title="Romanian language">Romanian</a> <span lang="ro" xml:lang="ro"><i>sâa</i></span> would be undesirable). For this purpose, Unicode also encodes a <span id="non-breaking_hyphen"></span><b>nonbreaking hyphen</b> (<b>non-breaking hyphen</b>, <b>no-break hyphen</b>) as U+2011 (â, coded for by <code>&amp;#8209;</code>). This character looks identical to the regular hyphen, but it is treated as a letter by word processors, namely that the hyphenated word will not be divided at the hyphen should this fall at what would be the end of a line of text; instead, the whole hyphenated word either will remain in full at the end of the line or will go in full to the beginning of the next line. The <a href="/wiki/Non-breaking_space" title="Non-breaking space">non-breaking space</a> exists for similar reasons.</p>
+<h2><span class="mw-headline" id="Usage_in_date_notation">Usage in date notation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=19" title="Edit section: Usage in date notation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Date_and_time_representation_by_country" title="Date and time representation by country">Date and time representation by country</a></div>
+<p>In parts of <a href="/wiki/Europe" title="Europe">Europe</a>, the hyphen is used to delineate parts within a written date. Germans<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2011)">citation needed</span></a></i>]</sup> and Slavs also used <a href="/wiki/Roman_numerals" title="Roman numerals">Roman numerals</a> for the month; <i>14âVIIâ1789</i>, for example, is one way of writing the first <a href="/wiki/Bastille_Day" title="Bastille Day">Bastille Day</a>, though this usage is rapidly falling out of favour. Plaques on the wall of the <a href="/wiki/Moscow_Kremlin" title="Moscow Kremlin">Moscow Kremlin</a> are written this way. Use of hyphens, as opposed to the slashes used in the <a href="/wiki/English_language" title="English language">English language</a>, is specified for international standards.</p>
+<p><a href="/wiki/International_standard" title="International standard">International standard</a> <a href="/wiki/ISO_8601" title="ISO 8601">ISO 8601</a>, which was accepted as European Standard EN 28601 and incorporated into various typographic style guides (e.g., <a href="/wiki/DIN" class="mw-redirect" title="DIN">DIN</a> 5008 in Germany), brought about a new standard using the hyphen. Now all official European governmental documents use this. These norms prescribe writing dates using hyphens: 1789-07-14 is the new way of writing the first Bastille Day. This is also the typical date format used in large parts of Eastern Europe and Asia, although sometimes with other separators than the hyphen.</p>
+<p>This method has gained influence within North America, as most common computer filesystems make the use of slashes difficult or impossible. DOS, OS/2 and Windows simultaneously support both \ and / as directory separators, but / is also used to introduce and separate switches to shell commands (unless reconfigured to use the hyphen-minus in DOS). Unix-like systems use / as a directory separator and, while \ is legal in filenames, it is awkward to use as the shell uses it as an escape character. Unix also uses a space followed by a hyphen to introduce switches. Apart from the separator used the non-year form of the date format is also identical to the standard American representation.</p>
+<h2><span class="mw-headline" id="Unicode">Unicode</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=20" title="Edit section: Unicode">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Apart from dash and minus sign, Unicode has multiple hyphen characters:<sup id="cite_ref-PropList_28-0" class="reference"><a href="#cite_note-PropList-28">[28]</a></sup></p>
+<ul>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+002D</span></span> <span style="font-size:125%">-</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">HYPHEN-MINUS</span> (HTML&#160;<code>&amp;#45;</code>) (still not to be confused with <span class="nowrap"><span style="font-family: monospace, monospace;">U+2212</span></span> <span style="font-size:125%">â</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">MINUS SIGN</span>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+00AD</span></span>  <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">SOFT HYPHEN</span> (HTML&#160;<code>&amp;#173;</code>&#160;<b>Â·</b>  <code>&amp;shy;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+2010</span></span> <span style="font-size:125%">â</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">HYPHEN</span> (HTML&#160;<code>&amp;#8208;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+2011</span></span> <span style="font-size:125%">â</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">NON-BREAKING HYPHEN</span> (HTML&#160;<code>&amp;#8209;</code>)</li>
+</ul>
+<p>And in non-Latin scripts:<sup id="cite_ref-PropList_28-1" class="reference"><a href="#cite_note-PropList-28">[28]</a></sup></p>
+<ul>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+058A</span></span> <span style="font-size:125%">Ö</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">ARMENIAN HYPHEN</span> (HTML&#160;<code>&amp;#1418;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+1806</span></span> <span style="font-size:125%">á </span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">MONGOLIAN TODO SOFT HYPHEN</span> (HTML&#160;<code>&amp;#6150;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+2E17</span></span> <span style="font-size:125%">â¸</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">DOUBLE OBLIQUE HYPHEN</span> (HTML&#160;<code>&amp;#11799;</code>) (used in ancient Near-Eastern linguistics and in blackletter typefaces)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+30FB</span></span> <span style="font-size:125%">ã»</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">KATAKANA MIDDLE DOT</span> (HTML&#160;<code>&amp;#12539;</code>) (has the Unicode property of "Hyphen" despite its name)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+FE63</span></span> <span style="font-size:125%">ï¹£</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">SMALL HYPHEN-MINUS</span> (HTML&#160;<code>&amp;#65123;</code>) (compatibility character for a small hyphen-minus, used in East Asian typography)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+FF0D</span></span> <span style="font-size:125%">ï¼</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">FULLWIDTH HYPHEN-MINUS</span> (HTML&#160;<code>&amp;#65293;</code>) (compatibility character for a wide hyphen-minus, used in East Asian typography)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+FF65</span></span> <span style="font-size:125%">ï½¥</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">HALFWIDTH KATAKANA MIDDLE DOT</span> (HTML&#160;<code>&amp;#65381;</code>) (compatibility character for a wide katakana middle dot, has the Unicode property of "Hyphen" despite its name)</li>
+</ul>
+<p>Unicode distinguishes the hyphen from the general interpunct. The characters below do not have the Unicode property of "Hyphen" despite their names:<sup id="cite_ref-PropList_28-2" class="reference"><a href="#cite_note-PropList-28">[28]</a></sup></p>
+<ul>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+00B7</span></span> <span style="font-size:125%">Â·</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">MIDDLE DOT</span> (HTML&#160;<code>&amp;#183;</code>&#160;<b>Â·</b>  <code>&amp;middot;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+1400</span></span> <span style="font-size:125%">á</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">CANADIAN SYLLABICS HYPHEN</span> (HTML&#160;<code>&amp;#5120;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+2027</span></span> <span style="font-size:125%">â§</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">HYPHENATION POINT</span> (HTML&#160;<code>&amp;#8231;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+2043</span></span> <span style="font-size:125%">â</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">HYPHEN BULLET</span> (HTML&#160;<code>&amp;#8259;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+2E1A</span></span> <span style="font-size:125%">â¸</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">HYPHEN WITH DIAERESIS</span> (HTML&#160;<code>&amp;#11802;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+2E31</span></span> <span style="font-size:125%">â¸±</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">WORD SEPARATOR MIDDLE DOT</span> (HTML&#160;<code>&amp;#11825;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+2E33</span></span> <span style="font-size:125%">â¸³</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">RAISED DOT</span> (HTML&#160;<code>&amp;#11827;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+2E40</span></span> <span style="font-size:125%">â¹</span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">DOUBLE HYPHEN</span> (HTML&#160;<code>&amp;#11840;</code>)</li>
+<li><span class="nowrap"><span style="font-family: monospace, monospace;">U+30A0</span></span> <span style="font-size:125%">ã </span> <span class="smallcaps" style="font-variant: small-caps; font-size: smaller;">KATAKANA-HIRAGANA DOUBLE HYPHEN</span> (HTML&#160;<code>&amp;#12448;</code>)</li>
+</ul>
+<p>(See <a href="/wiki/Interpunct" title="Interpunct">interpunct</a> for more round characters.)</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=21" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Dash" title="Dash">Dash</a></li>
+<li><a href="/wiki/Double_hyphen" title="Double hyphen">Double hyphen</a></li>
+<li><a href="/wiki/Hyphen_War" title="Hyphen War">Hyphen War</a></li>
+<li><a href="/wiki/Tie_(typography)#Greek" title="Tie (typography)">Papyrological hyphen</a></li>
+</ul>
+<h3><span class="mw-headline" id="The_hyphen_in_other_languages">The hyphen in other languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=22" title="Edit section: The hyphen in other languages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="https://pt.wikipedia.org/wiki/H%C3%ADfen" class="extiw" title="pt:HÃ­fen">HÃ­fen</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Portuguese)</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Trait_d%27union" class="extiw" title="fr:Trait d'union">Trait d'union</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span></li>
+<li><a href="https://de.wikipedia.org/wiki/Bindestrich#Bindestrich" class="extiw" title="de:Bindestrich">Bindestrich</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(German)</span></li>
+<li><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%84%D0%B8%D1%81" class="extiw" title="ru:ÐÐµÑÐ¸Ñ">ÐÐµÑÐ¸Ñ or dyeh-fees</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Russian)</span></li>
+<li><a href="https://es.wikipedia.org/wiki/Guion_ortogr%C3%A1fico" class="extiw" title="es:Guion ortogrÃ¡fico">Guion ortogrÃ¡fico</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Spanish)</span></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=23" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dictionary.reference.com/browse/hyphen">"<i>Hyphen</i> Definition"</a>. <a href="/wiki/Dictionary.com" title="Dictionary.com">dictionary.com</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.btitle=Hyphen+Definition&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdictionary.reference.com%2Fbrowse%2Fhyphen&amp;rft.pub=dictionary.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=u%28fe%2Fn"><span lang="grc" xml:lang="grc">á½ÏÎ­Î½</span></a>. <a href="/wiki/Henry_Liddell" title="Henry Liddell">Liddell, Henry George</a>; <a href="/wiki/Robert_Scott_(philologist)" title="Robert Scott (philologist)">Scott, Robert</a>; <i><a href="/wiki/A_Greek%E2%80%93English_Lexicon" title="A GreekâEnglish Lexicon">A GreekâEnglish Lexicon</a></i> at the <a href="/wiki/Perseus_Project" title="Perseus Project">Perseus Project</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Harper, Douglas. <a rel="nofollow" class="external text" href="http://www.etymonline.com/?term=hyphen">"hyphen"</a>. <i><a href="/wiki/Online_Etymology_Dictionary" title="Online Etymology Dictionary">Online Etymology Dictionary</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.atitle=hyphen&amp;rft.au=Harper%2C+Douglas&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2F%3Fterm%3Dhyphen&amp;rft.jtitle=Online+Etymology+Dictionary&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Economist_intro-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Economist_intro_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Wroe, Ann, ed. (2015). <i>The Economist Style Guide</i> (11th ed.). London / New York: Profile Books / PublicAffairs. p.&#160;74. <q><b>hyphens</b>&#160;&#160;There is no firm rule to help you decide which words are run together, hyphenated or left separate.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.btitle=The+Economist+Style+Guide&amp;rft.date=2015&amp;rft.edition=11th&amp;rft.genre=book&amp;rft.pages=74&amp;rft.place=London+%2F+New+York&amp;rft.pub=Profile+Books+%2F+PublicAffairs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/magazine/7004661.stm">"Small object of grammatical desire"</a>. <i><a href="/wiki/BBC_News" title="BBC News">BBC News</a></i>. London: <a href="/wiki/British_Broadcasting_Corporation" class="mw-redirect" title="British Broadcasting Corporation">British Broadcasting Corporation</a>. 20 September 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.atitle=Small+object+of+grammatical+desire&amp;rft.date=2007-09-20&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fmagazine%2F7004661.stm&amp;rft.jtitle=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-Gove1993-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gove1993_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Gove, Philip Babcock (1993-01-01). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=CXR-tTsHo58C&amp;pg=PT23"><i>Webster's Third New International Dictionary of the English Language, Unabridged</i></a>. Merriam-Webster. p.&#160;14a, Â§1.6.1. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780877792017" title="Special:BookSources/9780877792017">9780877792017</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.aufirst=Philip+Babcock&amp;rft.aulast=Gove&amp;rft.btitle=Webster%27s+Third+New+International+Dictionary+of+the+English+Language%2C+Unabridged&amp;rft.date=1993-01-01&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DCXR-tTsHo58C%26pg%3DPT23&amp;rft.isbn=9780877792017&amp;rft.pages=14a%2C+%A71.6.1&amp;rft.pub=Merriam-Webster&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Chambers2006-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chambers2006_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Chambers, Allied (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=pz2ORay2HWoC&amp;pg=PP38"><i>The Chambers Dictionary</i></a>. Allied Publishers. p.&#160;xxxviii, Â§8. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9788186062258" title="Special:BookSources/9788186062258">9788186062258</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.aufirst=Allied&amp;rft.aulast=Chambers&amp;rft.btitle=The+Chambers+Dictionary&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dpz2ORay2HWoC%26pg%3DPP38&amp;rft.isbn=9788186062258&amp;rft.pages=xxxviii%2C+%A78&amp;rft.pub=Allied+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kromhout2001-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kromhout2001_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kromhout, Jan (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=1H6BP6SMMGkC&amp;pg=PA182"><i>Afrikaans-English, English-Afrikaans Dictionary</i></a>. Hippocrene Books. p.&#160;182, Â§5. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780781808460" title="Special:BookSources/9780781808460">9780781808460</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.aufirst=Jan&amp;rft.aulast=Kromhout&amp;rft.btitle=Afrikaans-English%2C+English-Afrikaans+Dictionary&amp;rft.date=2001&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D1H6BP6SMMGkC%26pg%3DPA182&amp;rft.isbn=9780781808460&amp;rft.pages=182%2C+%A75&amp;rft.pub=Hippocrene+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hartmann1986-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hartmann1986_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hartmann, R. Rf. K. (1986-01-01). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=cKT4L5Qg7ZkC&amp;pg=PA9"><i>The History of Lexicography: Papers from the Dictionary Research Centre Seminar at Exeter, March 1986</i></a>. John Benjamins Publishing. p.&#160;9. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789027245236" title="Special:BookSources/9789027245236">9789027245236</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.aufirst=R.+Rf.+K.&amp;rft.aulast=Hartmann&amp;rft.btitle=The+History+of+Lexicography%3A+Papers+from+the+Dictionary+Research+Centre+Seminar+at+Exeter%2C+March+1986&amp;rft.date=1986-01-01&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DcKT4L5Qg7ZkC%26pg%3DPA9&amp;rft.isbn=9789027245236&amp;rft.pages=9&amp;rft.pub=John+Benjamins+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-footnote_prefix_list-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-footnote_prefix_list_10-0">^</a></b></span> <span class="reference-text">A fairly comprehensive list, although not exhaustive, is given at <a href="/wiki/Prefix#List_of_English_derivational_prefixes" title="Prefix">Prefix &gt; List of English derivational prefixes</a>.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation">"Hyphenated Words: A Guide", <a rel="nofollow" class="external text" href="http://www.grammarmudge.cityslide.com/articles/article/426348/2805.htm"><i>The Grammar Curmudgeon</i></a>, City slide</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.atitle=Hyphenated+Words%3A+A+Guide&amp;rft.btitle=The+Grammar+Curmudgeon&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.grammarmudge.cityslide.com%2Farticles%2Farticle%2F426348%2F2805.htm&amp;rft.pub=City+slide&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-Grammar_book-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Grammar_book_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Grammar_book_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation">"Hyphens", <a rel="nofollow" class="external text" href="http://www.grammarbook.com/punctuation/hyphens.asp"><i>Punctuation</i></a>, Grammar book</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.atitle=Hyphens&amp;rft.btitle=Punctuation&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.grammarbook.com%2Fpunctuation%2Fhyphens.asp&amp;rft.pub=Grammar+book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="/wiki/Gary_Blake" title="Gary Blake">Gary Blake</a> and <a href="/wiki/Robert_W._Bly" title="Robert W. Bly">Robert W. Bly</a>, <i>The Elements of Technical Writing</i>, pg. 48. <a href="/wiki/New_York_City" title="New York City">New York</a>: <a href="/wiki/Macmillan_Publishers_(United_States)" title="Macmillan Publishers (United States)">Macmillan Publishers</a>, 1993. <a href="/wiki/Special:BookSources/0020130856" class="internal mw-magiclink-isbn">ISBN 0020130856</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation">"H", <a rel="nofollow" class="external text" href="http://www.jhsph.edu/publichealthnews/style_manual/h.html"><i>Bloomberg School Style Manual</i></a>, JHSPH</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.atitle=H&amp;rft.btitle=Bloomberg+School+Style+Manual&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.jhsph.edu%2Fpublichealthnews%2Fstyle_manual%2Fh.html&amp;rft.pub=JHSPH&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-IU_Style_Guide-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-IU_Style_Guide_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IU_Style_Guide_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IU_Style_Guide_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://creativeservices.iu.edu/resources/guide/gn.shtml">Indiana University Style Guide</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Davis, John (2004-11-30). <a rel="nofollow" class="external text" href="http://www.uhv.edu/ac/newsletters/writing/grammartip2004.11.30.htm">"Using Hyphens in Compound Adjectives (and Exceptions to the Rule)"</a> (Grammar tip). UHV<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.aufirst=John&amp;rft.aulast=Davis&amp;rft.btitle=Using+Hyphens+in+Compound+Adjectives+%28and+Exceptions+to+the+Rule%29&amp;rft.date=2004-11-30&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.uhv.edu%2Fac%2Fnewsletters%2Fwriting%2Fgrammartip2004.11.30.htm&amp;rft.pub=UHV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since June 2016">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-Hyphenated_Compound_Words-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hyphenated_Compound_Words_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hyphenated_Compound_Words_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://englishplus.com/grammar/00000127.htm">"Hyphenated Compound Words"</a>. <i>englishplus.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.atitle=Hyphenated+Compound+Words&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fenglishplus.com%2Fgrammar%2F00000127.htm&amp;rft.jtitle=englishplus.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Economist_12-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Economist_12_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Economist_12_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Wroe, Ann, ed. (2015). <i>The Economist Style Guide</i> (11th ed.). London / New York: Profile Books / PublicAffairs. pp.&#160;77â78. <q><b>hyphens</b>&#160;&#160; ... 12. Adverbs: Adverbs do not need to be linked to participles or adjectives by hyphens in simple constructions [examples elided]. But if the adverb is one of two words together being used adjectivally, a hyphen may be needed [examples elided]. The hyphen is especially likely to be needed if the adverb is short and common, such as <i>ill</i>, <i>little</i>, <i>much</i> and <i>well</i>. Less common adverbs, including all those that end <i>-ly</i>, are less likely to need hyphens [example elided].</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.btitle=The+Economist+Style+Guide&amp;rft.date=2015&amp;rft.edition=11th&amp;rft.genre=book&amp;rft.pages=77-78&amp;rft.place=London+%2F+New+York&amp;rft.pub=Profile+Books+%2F+PublicAffairs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AMA10section8.3.1-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-AMA10section8.3.1_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AMA10section8.3.1_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AMA10section8.3.1_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Iverson, Cheryl, et al. (eds) (2007). "8.3.1". <i>AMA Manual of Style</i> (10th ed.). Oxford, Oxfordshire: <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-517633-9" title="Special:BookSources/978-0-19-517633-9">978-0-19-517633-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.atitle=8.3.1&amp;rft.aufirst=Cheryl%2C+et+al.+%28eds%29&amp;rft.aulast=Iverson&amp;rft.btitle=AMA+Manual+of+Style&amp;rft.date=2007&amp;rft.edition=10th&amp;rft.genre=bookitem&amp;rft.isbn=978-0-19-517633-9&amp;rft.place=Oxford%2C+Oxfordshire&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf">"The International System of Units (SI)"</a>, <a href="/wiki/BIPM" class="mw-redirect" title="BIPM">Bureau International des Poids et Mesures</a>, 2006</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://physics.nist.gov/cuu/pdf/sp811.pdf">"Guide for the Use of the International System of Units (SI)"</a>, NIST Special Publication 811, <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">National Institute of Standards and Technology</a>, March 2008</span></li>
+<li id="cite_note-APA6section4.13-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-APA6section4.13_22-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFAmerican_Psychological_Association_.28APA.292010" class="citation"><a href="/wiki/American_Psychological_Association" title="American Psychological Association">American Psychological Association (APA)</a> (2010), <a rel="nofollow" class="external text" href="http://apastyle.org/"><i>The Publication Manual of the American Psychological Association</i></a> (6th ed.), Washington, DC, USA: American Psychological Association, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4338-0562-2" title="Special:BookSources/978-1-4338-0562-2">978-1-4338-0562-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.au=American+Psychological+Association+%28APA%29&amp;rft.btitle=The+Publication+Manual+of+the+American+Psychological+Association&amp;rft.date=2010&amp;rft.edition=6th&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fapastyle.org%2F&amp;rft.isbn=978-1-4338-0562-2&amp;rft.place=Washington%2C+DC%2C+USA&amp;rft.pub=American+Psychological+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-LutzStevenson2005-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-LutzStevenson2005_23-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Gary Lutz; Diane Stevenson (2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=SsQ9ugnMcpUC&amp;pg=PA296"><i>The Writer's Digest grammar desk reference</i></a>. Writer's Digest Books. p.&#160;296. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-58297-335-7" title="Special:BookSources/978-1-58297-335-7">978-1-58297-335-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.au=Diane+Stevenson&amp;rft.au=Gary+Lutz&amp;rft.btitle=The+Writer%27s+Digest+grammar+desk+reference&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DSsQ9ugnMcpUC%26pg%3DPA296&amp;rft.isbn=978-1-58297-335-7&amp;rft.pages=296&amp;rft.pub=Writer%27s+Digest+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nicky-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-nicky_24-0">^</a></b></span> <span class="reference-text">Nicolas, Nick. "<a rel="nofollow" class="external text" href="http://www.tlg.uci.edu/~opoudjis/unicode/punctuation.html">Greek Unicode Issues: Punctuation</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141120120157/http://www.tlg.uci.edu/~opoudjis/unicode/punctuation.html">Archived</a> 20 November 2014 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.". 2005. Accessed 7 October 2014.</span></li>
+<li id="cite_note-elot-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-elot_25-0">^</a></b></span> <span class="reference-text"><span lang="el" xml:lang="el">ÎÎ»Î»Î·Î½Î¹ÎºÏÏ ÎÏÎ³Î±Î½Î¹ÏÎ¼ÏÏ Î¤ÏÏÎ¿ÏÎ¿Î¯Î·ÏÎ·Ï</span> [<i>EllÄ«nikÃ³s OrganismÃ³s TypopoÃ­Ä«sÄ«s</i>, "<a href="/wiki/Hellenic_Organization_for_Standardization" title="Hellenic Organization for Standardization">Hellenic Organization for Standardization</a>"]. <span lang="el" xml:lang="el">ÎÎÎÎ¤ 743, 2Î· ÎÎºÎ´Î¿ÏÎ·</span> [<i>ELOT 743, 2Ä« EkdosÄ«</i>, "ELOT 743, <span class="nowrap">2nd ed.</span>"]. ELOT (Athens), 2001. <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Greek)</span></span></li>
+<li id="cite_note-Houston2013-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Houston2013_26-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Keith Houston (24 September 2013). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=3fbWAAAAQBAJ&amp;pg=PA132"><i>Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks</i></a>. W. W. Norton &amp; Company. pp.&#160;121â. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-393-06442-1" title="Special:BookSources/978-0-393-06442-1">978-0-393-06442-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.au=Keith+Houston&amp;rft.btitle=Shady+Characters%3A+The+Secret+Life+of+Punctuation%2C+Symbols%2C+and+Other+Typographical+Marks&amp;rft.date=2013-09-24&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3fbWAAAAQBAJ%26pg%3DPA132&amp;rft.isbn=978-0-393-06442-1&amp;rft.pages=121-&amp;rft.pub=W.+W.+Norton+%26+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Houston2013b-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Houston2013b_27-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Keith Houston (24 September 2013). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=3fbWAAAAQBAJ&amp;pg=PA132"><i>Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks</i></a>. W. W. Norton &amp; Company. pp.&#160;132â. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-393-06442-1" title="Special:BookSources/978-0-393-06442-1">978-0-393-06442-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.au=Keith+Houston&amp;rft.btitle=Shady+Characters%3A+The+Secret+Life+of+Punctuation%2C+Symbols%2C+and+Other+Typographical+Marks&amp;rft.date=2013-09-24&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3fbWAAAAQBAJ%26pg%3DPA132&amp;rft.isbn=978-0-393-06442-1&amp;rft.pages=132-&amp;rft.pub=W.+W.+Norton+%26+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-PropList-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-PropList_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PropList_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-PropList_28-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unicode.org/Public/UCD/latest/ucd/PropList.txt">"Unicode 9.0 UCD: PropList.txt"</a>. 2016-06-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-06-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyphen&amp;rft.btitle=Unicode+9.0+UCD%3A+PropList.txt&amp;rft.date=2016-06-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.unicode.org%2FPublic%2FUCD%2Flatest%2Fucd%2FPropList.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyphen&amp;action=edit&amp;section=24" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiktionary-logo-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/hyphen" class="extiw" title="wiktionary:Special:Search/hyphen">hyphen</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.dashhyphen.com/hyphen">A short guide to using the hyphen</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.economist.com/styleguide/introduction">Economist Style Guide â Hyphens</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.getitwriteonline.com/archive/042703CompWdsHyph.htm">Compound Words: When to Hyphenate</a></li>
+<li>Jukka Korpela, <a rel="nofollow" class="external text" href="http://www.cs.tut.fi/~jkorpela/shy.html">Soft hyphen (SHY) â a hard problem?</a> (See also his article on <a rel="nofollow" class="external text" href="http://www.cs.tut.fi/~jkorpela/html/nobr.html">word breaking, line breaks, and special characters (including hyphens) in HTML</a>.)</li>
+<li>Markus Kuhn, <a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/~mgk25/ucs/L2/03155r-kuhn-soft-hyphen.pdf">Unicode interpretation of SOFT HYPHEN breaks ISO 8859-1 compatibility</a>. Unicode Technical Committee document L2/03-155R, June 2003.</li>
+<li><a rel="nofollow" class="external text" href="http://mnater.github.io/Hyphenator/">Hyphenator.js</a></li>
+<li>hypho-o, <a rel="nofollow" class="external text" href="http://www.plazoo.com/en/tools.asp">hypho-o online soft hyphen insertion tool</a></li>
+<li>Lyric Hyphenator, <a rel="nofollow" class="external text" href="http://juiciobrennan.com/hyphenator/">Online Hyphenation Tool</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080501023846/http://www.gpoaccess.gov/stylemanual/2000/chapter_txt-6.html">United States Government Printing Office Style Manual 2000</a> 6. COMPOUNDING RULES</li>
+<li>ushuaia.pl, <a rel="nofollow" class="external text" href="http://www.ushuaia.pl/hyphen/?ln=en">online hyphenator</a> (multilanguage)</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Typography_terminology" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Typography_terms" title="Template:Typography terms"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Typography_terms" title="Template talk:Typography terms"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Typography_terms&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Typography_terminology" style="font-size:114%"><a href="/wiki/Typography" title="Typography">Typography</a> terminology</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Page_(paper)" title="Page (paper)">Page</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Canons_of_page_construction" title="Canons of page construction">Canons of page construction</a></li>
+<li><a href="/wiki/Column_(typography)" title="Column (typography)">Column</a></li>
+<li><a href="/wiki/Even_working" title="Even working">Even working</a></li>
+<li><a href="/wiki/Margin_(typography)" title="Margin (typography)">Margin</a></li>
+<li><a href="/wiki/Page_numbering" title="Page numbering">Page numbering</a></li>
+<li><a href="/wiki/Pagination" title="Pagination">Pagination</a></li>
+<li><a href="/wiki/Pull_quote" title="Pull quote">Pull quote</a></li>
+<li><a href="/wiki/Recto_and_verso" title="Recto and verso">Recto and verso</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Paragraph" title="Paragraph">Paragraph</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Typographic_alignment" title="Typographic alignment">Alignment</a></li>
+<li><a href="/wiki/Justification_(typesetting)" class="mw-redirect" title="Justification (typesetting)">Justification</a></li>
+<li><a href="/wiki/Leading" title="Leading">Leading</a></li>
+<li><a href="/wiki/River_(typography)" title="River (typography)">River</a></li>
+<li><a href="/wiki/Sentence_spacing" title="Sentence spacing">Sentence spacing</a></li>
+<li><a href="/wiki/Widows_and_orphans" title="Widows and orphans">Widows and orphans</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Glyph" title="Glyph">Character</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Typeface_anatomy" title="Typeface anatomy">Typeface anatomy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Counter_(typography)" title="Counter (typography)">Counter</a></li>
+<li><a href="/wiki/Diacritic" title="Diacritic">Diacritics</a></li>
+<li><a href="/wiki/Dingbat" title="Dingbat">Dingbat</a></li>
+<li><a href="/wiki/Glyph" title="Glyph">Glyph</a></li>
+<li><a href="/wiki/Initial" title="Initial">Initial</a></li>
+<li><a href="/wiki/Kerning" title="Kerning">Kerning</a></li>
+<li><a href="/wiki/Letter-spacing" title="Letter-spacing">Letter-spacing</a></li>
+<li><a href="/wiki/Typographic_ligature" title="Typographic ligature">Ligature</a></li>
+<li><a href="/wiki/Subscript_and_superscript" title="Subscript and superscript">Subscript and superscript</a></li>
+<li><a href="/wiki/Swash_(typography)" title="Swash (typography)">Swash</a></li>
+<li><a href="/wiki/Text_figures" title="Text figures">Text figures</a></li>
+<li><a href="/wiki/Tittle" title="Tittle">Tittle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Capitalization" title="Capitalization">Capitalization</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/All_caps" title="All caps">All caps</a></li>
+<li><a href="/wiki/CamelCase" class="mw-redirect" title="CamelCase">CamelCase</a></li>
+<li><a href="/wiki/Letter_case" title="Letter case">Letter case</a></li>
+<li><a href="/wiki/Petite_caps" class="mw-redirect" title="Petite caps">Petite caps</a></li>
+<li><a href="/wiki/Small_caps" title="Small caps">Small caps</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Emphasis_(typography)" title="Emphasis (typography)">Visual distinction</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Italic_type" title="Italic type">Italics</a></i></li>
+<li><b><a href="/wiki/Bold_text" class="mw-redirect" title="Bold text">Bold</a></b></li>
+<li><a href="/wiki/Color_printing" title="Color printing">Color</a></li>
+<li><u><a href="/wiki/Underline" title="Underline">Underline</a></u></li>
+<li><a href="/wiki/Blackboard_bold" title="Blackboard bold">ð¹ðððððð ðð£ð ðð ðð</a></li>
+<li><a href="/wiki/Blackletter" title="Blackletter">ð­ðððððððððð</a></li>
+<li><a href="/wiki/Font#Character_variants" title="Font">Infant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9em">Vertical aspects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ascender_(typography)" title="Ascender (typography)">Ascender</a></li>
+<li><a href="/wiki/Baseline_(typography)" title="Baseline (typography)">Baseline</a></li>
+<li><a href="/wiki/Cap_height" title="Cap height">Cap height</a></li>
+<li><a href="/wiki/Descender" title="Descender">Descender</a></li>
+<li><a href="/wiki/Mean_line" title="Mean line">Median</a></li>
+<li><a href="/wiki/Overshoot_(typography)" title="Overshoot (typography)">Overshoot</a></li>
+<li><a href="/wiki/X-height" title="X-height">x-height</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Typeface" title="Typeface">Classifications</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Roman_type" title="Roman type">Roman type</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antiqua_(typeface_class)" title="Antiqua (typeface class)">Antiqua (Old Style)</a></li>
+<li><a href="/wiki/Didone_(typography)" title="Didone (typography)">Didone (Modern)</a></li>
+<li><a href="/wiki/Sans-serif" title="Sans-serif">Sans-serif</a></li>
+<li><a href="/wiki/Script_typeface" title="Script typeface">Script</a></li>
+<li><a href="/wiki/Serif" title="Serif">Serif</a></li>
+<li><a href="/wiki/Slab_serif" title="Slab serif">Slab serif</a></li>
+<li><a href="/wiki/Serif#Transitional" title="Serif">Transitional</a></li>
+<li><a href="/wiki/Reverse-contrast_typefaces" title="Reverse-contrast typefaces">Reverse-contrast</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Blackletter" title="Blackletter">Blackletter type</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fraktur" title="Fraktur">Fraktur</a></li>
+<li><a href="/wiki/Rotunda_(script)" title="Rotunda (script)">Rotunda</a></li>
+<li><span lang="de" xml:lang="de"><a href="/wiki/Schwabacher" title="Schwabacher">Schwabacher</a></span></li>
+<li><a href="/wiki/Blackletter#Textualis" title="Blackletter">Textualis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Gaelic_type" title="Gaelic type">Gaelic type</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Insular_script" title="Insular script">Insular</a></li>
+<li><a href="/wiki/Uncial_script" title="Uncial script">Uncial</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9em">Specialist</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Record_type" title="Record type">Record type</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Punctuation" title="Punctuation">Punctuation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dash" title="Dash">Dashes</a></li>
+<li><a href="/wiki/Hanging_punctuation" title="Hanging punctuation">Hanging punctuation</a></li>
+<li><a href="/wiki/Hyphen-minus" title="Hyphen-minus">Hyphen-minus</a></li>
+<li><strong class="selflink">Hyphenation</strong></li>
+<li><a href="/wiki/Prime_(symbol)" title="Prime (symbol)">Prime mark</a></li>
+<li><a href="/wiki/Quotation_mark" title="Quotation mark">Quotation mark</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Typesetting" title="Typesetting">Typesetting</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Calligraphy" title="Calligraphy">Calligraphy</a></li>
+<li><a href="/wiki/Etaoin_shrdlu" title="Etaoin shrdlu">etaoin shrdlu</a></li>
+<li><a href="/wiki/Font" title="Font">Font</a>
+<ul>
+<li><a href="/wiki/Computer_font" title="Computer font">computer</a></li>
+<li><a href="/wiki/Monospaced_font" title="Monospaced font">monospaced</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Font_catalog" title="Font catalog">Font catalog</a></li>
+<li><a href="/wiki/Letterpress_printing" title="Letterpress printing">Letterpress</a></li>
+<li><a href="/wiki/Lorem_ipsum" title="Lorem ipsum">Lorem ipsum</a></li>
+<li><a href="/wiki/Microtypography" title="Microtypography">Microtypography</a></li>
+<li><a href="/wiki/Movable_type" title="Movable type">Movable type</a></li>
+<li><a href="/wiki/Pangram" title="Pangram">Pangram</a></li>
+<li><a href="/wiki/Phototypesetting" title="Phototypesetting">Phototypesetting</a></li>
+<li><a href="/wiki/Punchcutting" title="Punchcutting">Punchcutting</a></li>
+<li><a href="/wiki/Type_color" title="Type color">Type color</a></li>
+<li><a href="/wiki/Type_design" title="Type design">Type design</a></li>
+<li><a href="/wiki/Typeface" title="Typeface">Typeface</a></li>
+<li><a href="/wiki/Microprint" class="mw-redirect" title="Microprint">Microprint</a>
+<ul>
+<li><a href="/wiki/List_of_typefaces" title="List of typefaces">list</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Typographic_unit" title="Typographic unit">Typographic units</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agate_(typography)" title="Agate (typography)">Agate</a></li>
+<li><a href="/wiki/Cicero_(typography)" title="Cicero (typography)">Cicero</a></li>
+<li><a href="/wiki/Em_(typography)" title="Em (typography)">Em</a></li>
+<li><a href="/wiki/En_(typography)" title="En (typography)">En</a></li>
+<li><a href="/wiki/Figure_space" title="Figure space">Figure space</a></li>
+<li><a href="/wiki/Measure_(typography)" title="Measure (typography)">Measure</a></li>
+<li><a href="/wiki/Paren_space" title="Paren space">Paren space</a></li>
+<li><a href="/wiki/Pica_(typography)" title="Pica (typography)">Pica</a></li>
+<li><a href="/wiki/Point_(typography)" title="Point (typography)">Point</a>
+<ul>
+<li><a href="/wiki/Traditional_point-size_names" class="mw-redirect" title="Traditional point-size names">traditional point-size names</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Thin_space" title="Thin space">Thin space</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Digital_typography" class="mw-redirect" title="Digital typography">Digital typography</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Character_encoding" title="Character encoding">Character encoding</a></li>
+<li><a href="/wiki/Category:Font_formats" title="Category:Font formats">Font formats</a></li>
+<li><a href="/wiki/Font_hinting" title="Font hinting">Hinting</a></li>
+<li><a href="/wiki/Font_rasterization" title="Font rasterization">Rasterization</a></li>
+<li><a href="/wiki/Category:Typesetting_software" title="Category:Typesetting software">Typesetting software</a></li>
+<li><a href="/wiki/List_of_typographic_features" title="List of typographic features">Typographic features</a></li>
+<li><a href="/wiki/Web_typography" title="Web typography">Web typography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Intentionally_blank_page" title="Intentionally blank page">Intentionally blank page</a></li>
+<li><a href="/wiki/Style_guide" title="Style guide">Style guide</a></li>
+<li><a href="/wiki/Type_foundry" title="Type foundry">Type foundry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Typography" title="Category:Typography">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Typography" class="extiw" title="commons:Category:Typography">Commons</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Typography" title="Portal:Typography">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:59347-0!*!0!!en!4!* and timestamp 20161016080938 and revision id 742339164
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hyphen&amp;oldid=742339164">https://en.wikipedia.org/w/index.php?title=Hyphen&amp;oldid=742339164</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Punctuation" title="Category:Punctuation">Punctuation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_June_2016" title="Category:Articles with dead external links from June 2016">Articles with dead external links from June 2016</a></li><li><a href="/wiki/Category:Articles_with_Wayback_Machine_links" title="Category:Articles with Wayback Machine links">Articles with Wayback Machine links</a></li><li><a href="/wiki/Category:Articles_containing_Greek-language_text" title="Category:Articles containing Greek-language text">Articles containing Greek-language text</a></li><li><a href="/wiki/Category:Articles_with_Greek-language_external_links" title="Category:Articles with Greek-language external links">Articles with Greek-language external links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2011" title="Category:Use dmy dates from April 2011">Use dmy dates from April 2011</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2014" title="Category:Articles needing additional references from February 2014">Articles needing additional references from February 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_January_2016" title="Category:Articles that may contain original research from January 2016">Articles that may contain original research from January 2016</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2016" title="Category:Articles needing additional references from January 2016">Articles needing additional references from January 2016</a></li><li><a href="/wiki/Category:Articles_containing_Irish-language_text" title="Category:Articles containing Irish-language text">Articles containing Irish-language text</a></li><li><a href="/wiki/Category:Articles_containing_Romanian-language_text" title="Category:Articles containing Romanian-language text">Articles containing Romanian-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2011" title="Category:Articles with unsourced statements from April 2011">Articles with unsourced statements from April 2011</a></li><li><a href="/wiki/Category:Articles_with_Portuguese-language_external_links" title="Category:Articles with Portuguese-language external links">Articles with Portuguese-language external links</a></li><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Articles_with_Russian-language_external_links" title="Category:Articles with Russian-language external links">Articles with Russian-language external links</a></li><li><a href="/wiki/Category:Articles_with_Spanish-language_external_links" title="Category:Articles with Spanish-language external links">Articles with Spanish-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hyphen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hyphen" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Hyphen"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Hyphen"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Hyphen" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Hyphen&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hyphen&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content â the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hyphen" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hyphen" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hyphen&amp;oldid=742339164" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hyphen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q180309" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hyphen&amp;id=742339164" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hyphen">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Hyphen&amp;returnto=Hyphen&amp;oldid=742339164&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hyphen&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hyphens" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Defis" title="Defis â Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">AzÉrbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Li%C3%A2n-j%C4%AB-h%C5%8D" title="LiÃ¢n-jÄ«-hÅ â Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">BÃ¢n-lÃ¢m-gÃº</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D2%BA%D1%8B%D2%99%D1%8B%D2%A1%D1%81%D0%B0" title="ÒºÑÒÑÒ¡ÑÐ° â Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">ÐÐ°ÑÒ¡Ð¾ÑÑÑÐ°</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%94%D0%B5%D1%84%D0%B8%D1%81" title="ÐÐµÑÐ¸Ñ â Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Barrennig-staga%C3%B1" title="Barrennig-stagaÃ± â Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Guionet" title="Guionet â Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">CatalÃ </a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%94%D0%B5%D1%84%D0%B8%D1%81" title="ÐÐµÑÐ¸Ñ â Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Ð§ÓÐ²Ð°ÑÐ»Ð°</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Spojovn%C3%ADk" title="SpojovnÃ­k â Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">ÄeÅ¡tina</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bindestreg" title="Bindestreg â Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Viertelgeviertstrich" title="Viertelgeviertstrich â German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Guion_(signo_ortogr%C3%A1fico)" title="Guion (signo ortogrÃ¡fico) â Spanish" lang="es" hreflang="es" class="interlanguage-link-target">EspaÃ±ol</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Streketo" title="Streketo â Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Marratxo" title="Marratxo â Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Trait_d%27union" title="Trait d'union â French" lang="fr" hreflang="fr" class="interlanguage-link-target">FranÃ§ais</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Gui%C3%B3n_(signo_de_puntuaci%C3%B3n)" title="GuiÃ³n (signo de puntuaciÃ³n) â Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-xal"><a href="https://xal.wikipedia.org/wiki/%D0%90%D1%85%D1%80_%D1%82%D0%B0%D1%82%D0%B0%D1%81%D0%BD" title="ÐÑÑ ÑÐ°ÑÐ°ÑÐ½ â Kalmyk" lang="xal" hreflang="xal" class="interlanguage-link-target">Ð¥Ð°Ð»ÑÐ¼Ð³</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B6%99%EC%9E%84%ED%91%9C" title="ë¶ìí â Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">íêµ­ì´</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%AB%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6_%D5%A3%D5%AE%D5%AB%D5%AF" title="ÕÕ«Õ¸ÖÕ©ÕµÕ¡Õ¶ Õ£Õ®Õ«Õ¯ â Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">ÕÕ¡ÕµÕ¥ÖÕ¥Õ¶</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Spojnica" title="Spojnica â Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Tanda_hubung" title="Tanda hubung â Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Tratto_d%27unione" title="Tratto d'unione â Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A7%D7%A3" title="××§×£ â Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">×¢××¨××ª</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%94%E1%83%A4%E1%83%98%E1%83%A1%E1%83%98" title="ááá¤áá¡á â Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">á¥áá áá£áá</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%94%D0%B5%D1%84%D0%B8%D1%81" title="ÐÐµÑÐ¸Ñ â Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">ÒÐ°Ð·Ð°ÒÑÐ°</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Defise" title="Defise â Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">LatvieÅ¡u</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Br%C5%ABk%C5%A1nys" title="BrÅ«kÅ¡nys â Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">LietuviÅ³</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/K%C3%B6t%C5%91jel" title="KÃ¶tÅjel â Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B6%E0%B5%83%E0%B4%82%E0%B4%96%E0%B4%B2_(%E0%B4%9A%E0%B4%BF%E0%B4%B9%E0%B5%8D%E0%B4%A8%E0%B4%A8%E0%B4%82)" title="à´¶àµà´à´à´² (à´à´¿à´¹àµà´¨à´¨à´) â Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">à´®à´²à´¯à´¾à´³à´</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Koppelteken" title="Koppelteken â Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%95%E3%83%B3" title="ãã¤ãã³ â Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">æ¥æ¬èª</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bindestrek" title="Bindestrek â Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmÃ¥l</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Bindestrek" title="Bindestrek â Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Dywiz" title="Dywiz â Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/H%C3%ADfen" title="HÃ­fen â Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">PortuguÃªs</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Cratim%C4%83" title="CratimÄ â Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">RomÃ¢nÄ</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%84%D0%B8%D1%81" title="ÐÐµÑÐ¸Ñ â Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Ð ÑÑÑÐºÐ¸Ð¹</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Hyphen" title="Hyphen â Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Hyphen" title="Hyphen â Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Spojovn%C3%ADk" title="SpojovnÃ­k â Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">SlovenÄina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Vezaj" title="Vezaj â Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">SlovenÅ¡Äina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Povlaka" title="Povlaka â Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / ÑÑÐ¿ÑÐºÐ¾ÑÑÐ²Ð°ÑÑÐºÐ¸</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Bindestreck" title="Bindestreck â Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%9F%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%81_%E0%AE%87%E0%AE%9F%E0%AE%B2%E0%AF%8D" title="à®à®à¯à®à¯à®à¯à®à¯ à®à®à®²à¯ â Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">à®¤à®®à®¿à®´à¯</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A2%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C" title="à¸¢à¸±à¸à¸´à¸ à¸±à¸à¸à¹ â Thai" lang="th" hreflang="th" class="interlanguage-link-target">à¹à¸à¸¢</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/K%C4%B1sa_%C3%A7izgi" title="KÄ±sa Ã§izgi â Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">TÃ¼rkÃ§e</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D1%84%D1%96%D1%81" title="ÐÐµÑÑÑ â Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Loyeure" title="Loyeure â Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Batlang" title="Batlang â Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%BF%9E%E5%AD%97%E5%8F%B7" title="è¿å­å· â Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">ä¸­æ</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q180309#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 October 2016, at 03:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. WikipediaÂ® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hyphen&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.756",
+            "walltime": "0.880",
+            "ppvisitednodes": {
+                "value": 15974,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 226855,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 15415,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 22,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 19,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  721.277      1 -total",
+                " 24.31%  175.365      1 Template:Reflist",
+                " 22.45%  161.902     21 Template:Unichar",
+                " 21.60%  155.810     21 Template:Unichar/main",
+                " 17.83%  128.637      1 Template:Punctuation_marks",
+                " 16.36%  117.999      1 Template:Infobox",
+                " 11.12%   80.232      6 Template:Aligned_table",
+                "  7.01%   50.573     21 Template:Unichar/glyph",
+                "  6.67%   48.141     42 Template:Hex2dec",
+                "  6.50%   46.851      6 Template:Cite_web"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.269",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 8060187,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1261",
+            "timestamp": "20161016080939",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1272"});});</script>
+	</body>
+</html>
+

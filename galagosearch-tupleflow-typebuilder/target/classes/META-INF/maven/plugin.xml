@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>galagosearch-tupleflow-typebuilder</name>
+  <description>TypeBuilder generates code for serializing, hashing and comparing tuple objects.</description>
+  <groupId>org.galagosearch</groupId>
+  <artifactId>galagosearch-tupleflow-typebuilder</artifactId>
+  <version>1.04</version>
+  <goalPrefix>galagosearch-tupleflow-typebuilder</goalPrefix>
+  <isolatedRealm>false</isolatedRealm>
+  <inheritedByDefault>true</inheritedByDefault>
+  <mojos>
+    <mojo>
+      <goal>typebuilder</goal>
+      <description>This is the Maven plugin that generates Type objects from galagotype specification
+files.  See the build.xml file and the galagotype files in the galagosearch-core
+project to see some examples of this.</description>
+      <requiresDirectInvocation>false</requiresDirectInvocation>
+      <requiresProject>true</requiresProject>
+      <requiresReports>false</requiresReports>
+      <aggregator>false</aggregator>
+      <requiresOnline>false</requiresOnline>
+      <inheritedByDefault>true</inheritedByDefault>
+      <phase>generate-sources</phase>
+      <implementation>org.galagosearch.tupleflow.typebuilder.TypeBuilderMojo</implementation>
+      <language>java</language>
+      <instantiationStrategy>per-lookup</instantiationStrategy>
+      <executionStrategy>once-per-session</executionStrategy>
+      <threadSafe>false</threadSafe>
+      <parameters>
+        <parameter>
+          <name>baseDirectory</name>
+          <type>java.lang.String</type>
+          <required>false</required>
+          <editable>true</editable>
+          <description></description>
+        </parameter>
+        <parameter>
+          <name>sourceDirectory</name>
+          <type>java.lang.String</type>
+          <required>false</required>
+          <editable>true</editable>
+          <description></description>
+        </parameter>
+      </parameters>
+      <configuration>
+        <baseDirectory implementation="java.lang.String" default-value="y">${basedir}</baseDirectory>
+        <sourceDirectory implementation="java.lang.String" default-value="y">${basedir}/src/main/galagotype</sourceDirectory>
+      </configuration>
+    </mojo>
+  </mojos>
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.maven</groupId>
+      <artifactId>maven-plugin-api</artifactId>
+      <type>jar</type>
+      <version>2.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.antlr</groupId>
+      <artifactId>stringtemplate</artifactId>
+      <type>jar</type>
+      <version>3.0</version>
+    </dependency>
+    <dependency>
+      <groupId>antlr</groupId>
+      <artifactId>antlr</artifactId>
+      <type>jar</type>
+      <version>2.7.7</version>
+    </dependency>
+    <dependency>
+      <groupId>org.antlr</groupId>
+      <artifactId>antlr-runtime</artifactId>
+      <type>jar</type>
+      <version>3.0</version>
+    </dependency>
+  </dependencies>
+</plugin>

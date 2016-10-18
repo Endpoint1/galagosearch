@@ -1,0 +1,1899 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>AT&amp;T Corporation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"AT\u0026T_Corporation","wgTitle":"AT\u0026T Corporation","wgCurRevisionId":744708483,"wgRevisionId":744708483,"wgArticleId":24536639,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing more detailed references","Wikipedia articles needing page number citations from February 2014","Use mdy dates from March 2014","AT\u0026T","Bell System","Telecommunications companies of the United States","Telecommunications monopolies","Telegraph companies of the United States","Telecommunications companies established in 1885","1885 establishments in the United States","Companies based in Somerset County, New Jersey"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"AT\u0026T_Corporation","wgRelevantArticleId":24536639,"wgRequestId":"WAQRVQpAMFUAAKJH7nUAAAAJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikibaseItemId":"Q2843047","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/AT%26T_Corporation"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=AT%26T_Corporation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=AT%26T_Corporation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/AT%26T_Corporation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-AT_T_Corporation rootpage-AT_T_Corporation skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">AT&amp;T Corporation</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">This article is about the current subsidiary of AT&amp;T, Inc which was originally known as American Telephone and Telegraph Company. For the 2005 company currently known as "AT&amp;T", see <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">AT&amp;T Corp.</caption>
+<tr>
+<td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:AT%26T_logo_2016.svg" class="image"><img alt="AT&amp;T logo 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/AT%26T_logo_2016.svg/200px-AT%26T_logo_2016.svg.png" width="200" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/AT%26T_logo_2016.svg/300px-AT%26T_logo_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/AT%26T_logo_2016.svg/400px-AT%26T_logo_2016.svg.png 2x" data-file-width="1000" data-file-height="411" /></a>
+<div>The new AT&amp;T logo launched in 2016</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Formerly called</div>
+</th>
+<td class="nickname" style="line-height:1.35em;">American Telephone and Telegraph Company</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Types_of_business_entity" title="Types of business entity">Type</a></div>
+</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiary</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Industry</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Telecommunication" title="Telecommunication">Telecommunications</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Fate</th>
+<td style="line-height:1.35em;">Became <a href="/wiki/Subsidiary" title="Subsidiary">subsidiary</a> of <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T Inc.</a> in 2005</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Successor</th>
+<td style="line-height:1.35em;"><a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Founded</th>
+<td style="line-height:1.35em;">March&#160;3, 1885<span class="noprint">; 131 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1885-03-03</span>)</span> (as American Telephone and Telegraph Company)<br />
+<a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/New_York_state" class="mw-redirect" title="New York state">New York</a>, <a href="/wiki/United_States" title="United States">U.S.</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Founder</th>
+<td class="agent" style="line-height:1.35em;"><a href="/wiki/Alexander_Graham_Bell" title="Alexander Graham Bell">Alexander Graham Bell</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Headquarters</th>
+<td class="adr" style="line-height:1.35em;"><span class="locality"><a href="/wiki/Dallas,_Texas" class="mw-redirect" title="Dallas, Texas">Dallas</a>, <a href="/wiki/Texas" title="Texas">Texas</a></span>, <span class="country-name">United States</span></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Area served</div>
+</th>
+<td style="line-height:1.35em;">Worldwide</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Products</th>
+<td style="line-height:1.35em;">Wireless, Long Distance, Local Service, Internet, MPLS, TV, DirecTV, Business Solutions</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><a href="/wiki/Parent_company" title="Parent company">Parent</a></th>
+<td style="line-height:1.35em;"><a href="/wiki/Bell_Telephone_Company" title="Bell Telephone Company">American Bell</a> (1885-1899)<br />
+<a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a> (2005-present)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th>
+<td style="line-height:1.35em;">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/AT%26T_Communications" title="AT&amp;T Communications">AT&amp;T Communications</a></li>
+<li><a href="/wiki/Teleport_Communications_Group" title="Teleport Communications Group">Teleport Communications Group</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Website</th>
+<td style="line-height:1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.att.com">www<wbr />.att<wbr />.com</a></span></td>
+</tr>
+</table>
+<p><b>AT&amp;T Corp.</b>, originally the <b>American Telephone and Telegraph Company</b>, is the subsidiary of <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a> that provides voice, video, data, and <a href="/wiki/Internet" title="Internet">Internet</a> telecommunications and professional services to <a href="/wiki/Business" title="Business">businesses</a>, <a href="/wiki/Consumer" title="Consumer">consumers</a>, and government agencies. During its long history, AT&amp;T was at times the world's largest <a href="/wiki/Telephone" title="Telephone">telephone</a> company, the world's largest <a href="/wiki/Cable_television" title="Cable television">cable television</a> operator, and a regulated <a href="/wiki/Monopoly" title="Monopoly">monopoly</a>. At its peak in the 1950s and 1960s, it employed one million people and its revenue was roughly $3 billion annually.</p>
+<p>In 2005, AT&amp;T was purchased by <a href="/wiki/Baby_Bell" class="mw-redirect" title="Baby Bell">Baby Bell</a> SBC Communications for more than $16 billion ($19.4&#160;billion in present-day terms<sup id="cite_ref-inflation-US_1-0" class="reference"><a href="#cite_note-inflation-US-1">[1]</a></sup>). SBC then rebranded itself as <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T Inc.</a> Today, AT&amp;T Corporation continues to exist as the <a href="/wiki/Long_distance_calling" class="mw-redirect" title="Long distance calling">long distance</a> <a href="/wiki/Subsidiary" title="Subsidiary">subsidiary</a> of AT&amp;T Inc., and its name occasionally shows up in AT&amp;T press releases.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Origins"><span class="tocnumber">1.1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Monopoly"><span class="tocnumber">1.2</span> <span class="toctext">Monopoly</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#The_Break-up"><span class="tocnumber">1.3</span> <span class="toctext">The Break-up</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Acquisition_by_SBC"><span class="tocnumber">1.4</span> <span class="toctext">Acquisition by SBC</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#The_AT.26T_headquarters_buildings"><span class="tocnumber">1.5</span> <span class="toctext">The AT&amp;T headquarters buildings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Divisions"><span class="tocnumber">2</span> <span class="toctext">Divisions</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Nicknames_and_branding"><span class="tocnumber">3</span> <span class="toctext">Nicknames and branding</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#List_of_AT.26T_Chief_Executive_Officers"><span class="tocnumber">4</span> <span class="toctext">List of AT&amp;T Chief Executive Officers</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Footnotes"><span class="tocnumber">6.1</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Works_cited"><span class="tocnumber">6.2</span> <span class="toctext">Works cited</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/History_of_AT%26T" title="History of AT&amp;T">History of AT&amp;T</a></div>
+<h3><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=2" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:Bell_System_hires_1889_logo.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bell_System_hires_1889_logo.PNG/100px-Bell_System_hires_1889_logo.PNG" width="100" height="104" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bell_System_hires_1889_logo.PNG/150px-Bell_System_hires_1889_logo.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bell_System_hires_1889_logo.PNG/200px-Bell_System_hires_1889_logo.PNG 2x" data-file-width="1305" data-file-height="1362" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bell_System_hires_1889_logo.PNG" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Bell_System" title="Bell System">Bell System</a> logo (called the Blue/Black Bell) used from 1889 to 1900.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:102px;"><a href="/wiki/File:AT%26T1964Logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/AT%26T1964Logo.svg/100px-AT%26T1964Logo.svg.png" width="100" height="35" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/AT%26T1964Logo.svg/150px-AT%26T1964Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e0/AT%26T1964Logo.svg/200px-AT%26T1964Logo.svg.png 2x" data-file-width="290" data-file-height="101" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:AT%26T1964Logo.svg" class="internal" title="Enlarge"></a></div>
+AT&amp;T Corporate Logo, 1964â1969</div>
+</div>
+</div>
+<p>AT&amp;T started with Bell Patent Association, a legal entity established in 1874 to protect the patent rights of <a href="/wiki/Alexander_Graham_Bell" title="Alexander Graham Bell">Alexander Graham Bell</a> after he invented the telephone system. Originally a verbal agreement, it was formalized in writing in 1875 as <a href="/wiki/Bell_Telephone_Company" title="Bell Telephone Company">Bell Telephone Company</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>In 1880 the management of American Bell had created what would become <b>AT&amp;T Long Lines</b>. The project was the first of its kind to create a nationwide long-distance network with a commercially viable cost-structure. The project was formally incorporated in <a href="/wiki/New_York_(state)" class="mw-redirect" title="New York (state)">New York State</a> as a separate company named <b>American Telephone and Telegraph Company</b> on March 3, 1885. Starting from <a href="/wiki/New_York_City" title="New York City">New York</a>, its long-distance telephone network reached <a href="/wiki/Chicago" title="Chicago">Chicago, Illinois</a>, in 1892,<sup id="cite_ref-Bruce_1990_5-0" class="reference"><a href="#cite_note-Bruce_1990-5">[5]</a></sup> with its multitudes of local exchanges continuing to stretch further and further yearly, eventually creating a continent-wide telephone system. On December 30, 1899, the assets of American Bell were transferred into its subsidiary American Telephone and Telegraph Company (formerly <i>AT&amp;T Long Lines</i>); this was because <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a> corporate laws were very restrictive, and limited capitalization to ten million dollars, forestalling American Bell's further growth. With this assets transfer, AT&amp;T became the parent of both American Bell and the <a href="/wiki/Bell_System" title="Bell System">Bell System</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p>AT&amp;T was involved mainly in the telephone business and, although it was a partner with RCA, was reluctant to see radio grow because such growth might diminish the demand for wired services. It established station <a href="/wiki/WNBC_(AM)" title="WNBC (AM)">WEAF</a> in New York as what was termed a <b>toll station</b>. AT&amp;T could provide no programming, but anyone who wished to broadcast a message could pay a "toll" to AT&amp;T and then air the message publicly. The original studio was the size of a telephone booth. The idea, however, did not take hold, because people would pay to broadcast messages only if they were sure that someone was listening. As a result, WEAF began broadcasting entertainment material, drawing amateur talent found among its employees. Opposition to AT&amp;T's expansion into radio and an agreement with the <a href="/wiki/NBC" title="NBC">National Broadcasting Company</a> to lease long distance lines for their broadcasts resulted in the sale of the station and its developing network of affiliates to NBC.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Monopoly">Monopoly</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=3" title="Edit section: Monopoly">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Throughout most of the 20th century, AT&amp;T held a monopoly on phone service in the United States and Canada through a network of companies called the <a href="/wiki/Bell_System" title="Bell System">Bell System</a>. At this time, the company was nicknamed <b>Ma Bell</b>.</p>
+<p>On April 30, 1907, <a href="/wiki/Theodore_Newton_Vail" title="Theodore Newton Vail">Theodore Newton Vail</a> became President of AT&amp;T.<sup id="cite_ref-cato_8-0" class="reference"><a href="#cite_note-cato-8">[8]</a></sup><sup id="cite_ref-att_milestones_9-0" class="reference"><a href="#cite_note-att_milestones-9">[9]</a></sup> Vail believed in the superiority of one phone system and AT&amp;T adopted the slogan "One Policy, One System, Universal Service."<sup id="cite_ref-cato_8-1" class="reference"><a href="#cite_note-cato-8">[8]</a></sup><sup id="cite_ref-att_milestones_9-1" class="reference"><a href="#cite_note-att_milestones-9">[9]</a></sup> This would be the company's philosophy for the next 70 years.<sup id="cite_ref-att_milestones_9-2" class="reference"><a href="#cite_note-att_milestones-9">[9]</a></sup></p>
+<p>Under Vail, AT&amp;T began buying up many of the smaller telephone companies including <a href="/wiki/Western_Union" title="Western Union">Western Union telegraph</a>.<sup id="cite_ref-cato_8-2" class="reference"><a href="#cite_note-cato-8">[8]</a></sup><sup id="cite_ref-att_milestones_9-3" class="reference"><a href="#cite_note-att_milestones-9">[9]</a></sup> Anxious to avoid action from government <a href="/wiki/Competition_law" title="Competition law">antitrust</a> suits, AT&amp;T and the federal government entered into an agreement known as the <a href="/wiki/Kingsbury_Commitment" title="Kingsbury Commitment">Kingsbury Commitment</a>.<sup id="cite_ref-cato_8-3" class="reference"><a href="#cite_note-cato-8">[8]</a></sup><sup id="cite_ref-att_milestones_9-4" class="reference"><a href="#cite_note-att_milestones-9">[9]</a></sup> These actions brought unwanted attention from antitrust regulators. In the <a href="/wiki/Kingsbury_Commitment" title="Kingsbury Commitment">Kingsbury Commitment</a>, AT&amp;T and the government reached an agreement that allowed AT&amp;T to continue operating as a monopoly. While AT&amp;T periodically faced scrutiny from regulators, this state of affairs continued until the company's breakup in 1984.</p>
+<h3><span class="mw-headline" id="The_Break-up">The Break-up</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=4" title="Edit section: The Break-up">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Further information: <a href="/wiki/Breakup_of_the_Bell_System" title="Breakup of the Bell System">Breakup of the Bell System</a> and <a href="/wiki/Regional_Bell_Operating_Company" title="Regional Bell Operating Company">Regional Bell Operating Company</a></div>
+<p>The United States Justice Department opened the case <a href="/wiki/United_States_v._AT%26T" class="mw-redirect" title="United States v. AT&amp;T">United States v. AT&amp;T</a> in 1974. This was prompted by suspicion that AT&amp;T was using monopoly profits from its <a href="/wiki/Western_Electric" title="Western Electric">Western Electric</a> subsidiary to subsidize the cost of its network, a violation of anti-trust law.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> A settlement to this case was finalized in 1982, leading to the <a href="/wiki/Breakup_of_the_Bell_System" title="Breakup of the Bell System">division of the company</a> on January 1, 1984 into seven <a href="/wiki/Regional_Bell_Operating_Companies" class="mw-redirect" title="Regional Bell Operating Companies">Regional Bell Operating Companies</a>, commonly known as Baby Bells. These companies were:</p>
+<ul>
+<li><a href="/wiki/Ameritech" title="Ameritech">Ameritech</a>, acquired by SBC in 1999, now part of AT&amp;T Inc.</li>
+<li>Bell Atlantic (now <a href="/wiki/Verizon_Communications" title="Verizon Communications">Verizon Communications</a>), which acquired <a href="/wiki/GTE" title="GTE">GTE</a> in 2000</li>
+<li><a href="/wiki/BellSouth" title="BellSouth">BellSouth</a>, acquired by AT&amp;T Inc. in 2006</li>
+<li><a href="/wiki/NYNEX" title="NYNEX">NYNEX</a>, acquired by Bell Atlantic in 1996, now part of Verizon Communications</li>
+<li><a href="/wiki/Pacific_Telesis" title="Pacific Telesis">Pacific Telesis</a>, acquired by SBC in 1997, now part of AT&amp;T Inc.</li>
+<li>Southwestern Bell (later SBC, now <a href="/wiki/AT%26T_Inc." class="mw-redirect" title="AT&amp;T Inc.">AT&amp;T Inc.</a>), which acquired <a href="/wiki/AT%26T_Corp." class="mw-redirect" title="AT&amp;T Corp.">AT&amp;T Corp.</a> in 2005</li>
+<li><a href="/wiki/US_West" title="US West">US West</a>, acquired by <a href="/wiki/Qwest" title="Qwest">Qwest</a> in 2000, which in turn was acquired by <a href="/wiki/CenturyLink" title="CenturyLink">CenturyLink</a> in 2011</li>
+</ul>
+<h3><span class="mw-headline" id="Acquisition_by_SBC">Acquisition by SBC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=5" title="Edit section: Acquisition by SBC">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:127px;"><a href="/wiki/File:AT%26T_logo_(1984).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cd/AT%26T_logo_%281984%29.svg/125px-AT%26T_logo_%281984%29.svg.png" width="125" height="175" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cd/AT%26T_logo_%281984%29.svg/188px-AT%26T_logo_%281984%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cd/AT%26T_logo_%281984%29.svg/250px-AT%26T_logo_%281984%29.svg.png 2x" data-file-width="163" data-file-height="228" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:AT%26T_logo_(1984).svg" class="internal" title="Enlarge"></a></div>
+AT&amp;T Corporate Logo, 1983â1999</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:127px;"><a href="/wiki/File:Att-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a5/Att-logo.svg/125px-Att-logo.svg.png" width="125" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a5/Att-logo.svg/188px-Att-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a5/Att-logo.svg/250px-Att-logo.svg.png 2x" data-file-width="122" data-file-height="149" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Att-logo.svg" class="internal" title="Enlarge"></a></div>
+AT&amp;T Corporate Logo, 1999â2005</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:127px;"><a href="/wiki/File:AT%26T_logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/22/AT%26T_logo.svg/125px-AT%26T_logo.svg.png" width="125" height="192" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/22/AT%26T_logo.svg/188px-AT%26T_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/22/AT%26T_logo.svg/250px-AT%26T_logo.svg.png 2x" data-file-width="73" data-file-height="112" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:AT%26T_logo.svg" class="internal" title="Enlarge"></a></div>
+AT&amp;T Corporate Logo, 2005â2016</div>
+</div>
+</div>
+<p>On January 31, 2005, the "<a href="/wiki/RBOC" class="mw-redirect" title="RBOC">Baby Bell</a>" company <a href="/wiki/SBC_Communications" class="mw-redirect" title="SBC Communications">SBC Communications</a> announced its plans to acquire "Ma Bell" AT&amp;T Corp. for $16 billion. SBC announced in October 2005 that it would shed the "SBC" brand and take the AT&amp;T brand along with the "T" <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a> ticker symbol.</p>
+<p>Merger approval concluded on November 18, 2005; SBC Communications began rebranding the following Monday, November 21 as "AT&amp;T Inc." and began trading as <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a> on December 1 under the "T" symbol.</p>
+<h3><span class="mw-headline" id="The_AT.26T_headquarters_buildings">The AT&amp;T headquarters buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=6" title="Edit section: The AT&amp;T headquarters buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From 1885 to 1910, AT&amp;T was headquartered at 125 Milk Street in Boston. With its expansion it moved to New York City, to a headquarters on <a href="/wiki/195_Broadway" title="195 Broadway">195 Broadway</a> (close to what is now the <a href="/wiki/World_Trade_Center_site" title="World Trade Center site">World Trade Center site</a>). The property originally belonged to <a href="/wiki/Western_Union" title="Western Union">Western Union</a>, of which AT&amp;T held a controlling interest until 1913 when AT&amp;T divested its interest as part of the <a href="/wiki/Kingsbury_Commitment" title="Kingsbury Commitment">Kingsbury Commitment</a>.<sup id="cite_ref-att_milestones_9-5" class="reference"><a href="#cite_note-att_milestones-9">[9]</a></sup> Construction of the current building began in 1912. Designed by <a href="/wiki/William_Welles_Bosworth" class="mw-redirect" title="William Welles Bosworth">William Welles Bosworth</a>, who played a significant role in designing <a href="/wiki/Kykuit" title="Kykuit">Kykuit</a>, the Rockefeller mansion north of <a href="/wiki/Tarrytown,_New_York" title="Tarrytown, New York">Tarrytown, New York</a>, it was a modern steel structure clad top to bottom in a Greek-styled exterior, the three-story-high Ionic columns of Vermont granite forming eight registers over a Doric base.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> The lobby of the AT&amp;T Building was one of the most unusual ones of the era. Instead of a large double-high space, similar to the nearby <a href="/wiki/Woolworth_Building" title="Woolworth Building">Woolworth Building</a>, Bosworth designed what is called a "hypostyle hall", with full-bodied Doric columns modeled on the Parthenon, marking out a grid. Bosworth was seeking to coordinate the classical tradition with the requirements of a modern building. Columns were not merely the decorative elements they had become in the hands of other architects but created all the illusion of being real supports. Bosworth also designed the campus of <a href="/wiki/MIT" class="mw-redirect" title="MIT">MIT</a> as well as <a href="/wiki/Theodore_N._Vail" class="mw-redirect" title="Theodore N. Vail">Theodore N. Vail</a>'s mansion in <a href="/wiki/Morristown,_New_Jersey" title="Morristown, New Jersey">Morristown, New Jersey</a>.</p>
+<p>In 1978, AT&amp;T commissioned a new building at <a href="/wiki/Sony_Tower" class="mw-redirect" title="Sony Tower">550 Madison Avenue</a>. This new <a href="/wiki/Sony_Building_(New_York)" class="mw-redirect" title="Sony Building (New York)">AT&amp;T Building</a> was designed by <a href="/wiki/Philip_Johnson" title="Philip Johnson">Philip Johnson</a> and quickly became an icon of the new <a href="/wiki/Postmodern_architecture" title="Postmodern architecture">Postmodern</a> architectural style. The building was completed in 1984, the very year of the divestiture of the Bell System. The building proved to be too large for the post-divestiture corporation and in 1993, AT&amp;T leased the building to <a href="/wiki/Sony" title="Sony">Sony</a>, which now owns it.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Divisions">Divisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=7" title="Edit section: Divisions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>AT&amp;T, prior to its merger with <a href="/wiki/SBC_Communications" class="mw-redirect" title="SBC Communications">SBC Communications</a>, had three core companies:</p>
+<ul>
+<li><a href="/wiki/AT%26T_Alascom" title="AT&amp;T Alascom">AT&amp;T Alascom</a></li>
+<li><a href="/wiki/AT%26T_Communications" title="AT&amp;T Communications">AT&amp;T Communications</a></li>
+<li><a href="/wiki/AT%26T_Laboratories" title="AT&amp;T Laboratories">AT&amp;T Laboratories</a></li>
+</ul>
+<p><a href="/wiki/AT%26T_Alascom" title="AT&amp;T Alascom">AT&amp;T Alascom</a> continues to sell service in Alaska. <a href="/wiki/AT%26T_Communications" title="AT&amp;T Communications">AT&amp;T Communications</a> was renamed <b>AT&amp;T Communications - East, Inc.</b> and sold long distance telephone service and operated as a <a href="/wiki/Competitive_local_exchange_carrier" title="Competitive local exchange carrier">CLEC</a> outside of the borders of the <a href="/wiki/Bell_Operating_Companies" class="mw-redirect" title="Bell Operating Companies">Bell Operating Companies</a> that <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a> owns. It has now been absorbed into AT&amp;T Corp. and all but 4 of the original 22 subsidiaries that formed AT&amp;T Communications continue to exist. <a href="/wiki/AT%26T_Laboratories" title="AT&amp;T Laboratories">AT&amp;T Laboratories</a> has been integrated into <a href="/wiki/AT%26T_Labs" title="AT&amp;T Labs">AT&amp;T Labs</a>, formerly named <a href="/wiki/SBC_Laboratories" class="mw-redirect" title="SBC Laboratories">SBC Laboratories</a>.</p>
+<h2><span class="mw-headline" id="Nicknames_and_branding">Nicknames and branding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=8" title="Edit section: Nicknames and branding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>AT&amp;T was also known as "Ma Bell" and affectionately called "Mother" by phone <a href="/wiki/Phreak" class="mw-redirect" title="Phreak">phreaks</a>. During some strikes by its employees, picketers would wear T-shirts reading, "Ma Bell is a real mother." It is worth noting too that, before the break-up, there was greater consumer recognition of the "Bell System" name, in comparison to the name AT&amp;T. This prompted the company to launch an advertising campaign after the break-up to increase its name recognition. Spinoffs like the <a href="/wiki/Regional_Bell_operating_company" class="mw-redirect" title="Regional Bell operating company">Regional Bell Operating Companies</a> or <i>RBOC</i>s were often called "Baby Bells". Ironically, "Ma Bell" was acquired by one of its "Baby Bells", <a href="/wiki/SBC_Communications" class="mw-redirect" title="SBC Communications">SBC Communications</a>, in 2005.</p>
+<p>The AT&amp;T Globe Symbol,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> the corporate <a href="/wiki/Logo" title="Logo">logo</a> designed by <a href="/wiki/Saul_Bass" title="Saul Bass">Saul Bass</a> in 1983 and originally used by <a href="/wiki/AT%26T_Information_Systems" title="AT&amp;T Information Systems">AT&amp;T Information Systems</a>, was created because part of the <i><a href="/wiki/United_States_v._AT%26T" class="mw-redirect" title="United States v. AT&amp;T">United States v. AT&amp;T</a></i> <a href="/wiki/Breakup_of_the_Bell_System" title="Breakup of the Bell System">settlement</a> required AT&amp;T to relinquish all claims to the use of <a href="/wiki/Bell_System" title="Bell System">Bell System</a> trademarks. It has been nicknamed the "<a href="/wiki/Death_Star" title="Death Star">Death Star</a>" in reference to <i><a href="/wiki/Star_Wars" title="Star Wars">Star Wars</a></i>. In 1999 it was changed from the 12-line design to the 8-line design. Again in 2005 it was changed to the 3D transparent "marble" design created by <a href="/wiki/Interbrand" title="Interbrand">Interbrand</a> for use by the parent company <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T Inc.</a> This name was also given to the iconic <a href="/wiki/Bell_Labs_Holmdel_Complex" title="Bell Labs Holmdel Complex">Bell Labs facility</a> in <a href="/wiki/Holmdel,_New_Jersey" class="mw-redirect" title="Holmdel, New Jersey">Holmdel, New Jersey</a>, now vacant.</p>
+<h2><span class="mw-headline" id="List_of_AT.26T_Chief_Executive_Officers">List of AT&amp;T Chief Executive Officers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=9" title="Edit section: List of AT&amp;T Chief Executive Officers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following is a list of the 16 CEOs of AT&amp;T Corporation, from its incorporation in 1885 until its purchase by SBC Communications in 2005.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th>#</th>
+<th>Chief Executive Officer</th>
+<th>Years in office</th>
+<th>Title</th>
+</tr>
+<tr>
+<th>1</th>
+<td align="left"><a href="/wiki/File:Theodore_Newton_Vail,_bw_photo_portrait,_1913.jpg" class="image"><img alt="Theodore Newton Vail, bw photo portrait, 1913.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg/100px-Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg" width="100" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg/150px-Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg/200px-Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg 2x" data-file-width="1064" data-file-height="1485" /></a> <a href="/wiki/Theodore_Newton_Vail" title="Theodore Newton Vail">Theodore Newton Vail</a></td>
+<td nowrap="nowrap">1885â1887</td>
+<td>President</td>
+</tr>
+<tr>
+<th>2</th>
+<td align="left"><a href="/wiki/File:The_history_of_the_telephone_(1910)_(14756392855).jpg" class="image"><img alt="The history of the telephone (1910) (14756392855).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_history_of_the_telephone_%281910%29_%2814756392855%29.jpg/100px-The_history_of_the_telephone_%281910%29_%2814756392855%29.jpg" width="100" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_history_of_the_telephone_%281910%29_%2814756392855%29.jpg/150px-The_history_of_the_telephone_%281910%29_%2814756392855%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_history_of_the_telephone_%281910%29_%2814756392855%29.jpg/200px-The_history_of_the_telephone_%281910%29_%2814756392855%29.jpg 2x" data-file-width="1192" data-file-height="1780" /></a> John E. Hudson</td>
+<td nowrap="nowrap">1887â1900</td>
+<td>President</td>
+</tr>
+<tr>
+<th>3</th>
+<td align="left"><a href="/wiki/File:Frederick_Perry_Fish.jpg" class="image"><img alt="Frederick Perry Fish.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5d/Frederick_Perry_Fish.jpg/100px-Frederick_Perry_Fish.jpg" width="100" height="153" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5d/Frederick_Perry_Fish.jpg/150px-Frederick_Perry_Fish.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5d/Frederick_Perry_Fish.jpg/200px-Frederick_Perry_Fish.jpg 2x" data-file-width="266" data-file-height="406" /></a> <a href="/wiki/Frederick_Perry_Fish" title="Frederick Perry Fish">Frederick Perry Fish</a></td>
+<td nowrap="nowrap">1901â1907</td>
+<td>President</td>
+</tr>
+<tr>
+<th>4</th>
+<td align="left"><a href="/wiki/File:Theodore_Newton_Vail,_bw_photo_portrait,_1913.jpg" class="image"><img alt="Theodore Newton Vail, bw photo portrait, 1913.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg/100px-Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg" width="100" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg/150px-Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg/200px-Theodore_Newton_Vail%2C_bw_photo_portrait%2C_1913.jpg 2x" data-file-width="1064" data-file-height="1485" /></a> <a href="/wiki/Theodore_Newton_Vail" title="Theodore Newton Vail">Theodore Newton Vail</a></td>
+<td nowrap="nowrap">1907â1919</td>
+<td>President</td>
+</tr>
+<tr>
+<th>5</th>
+<td align="right"><a href="/wiki/Harry_Bates_Thayer" title="Harry Bates Thayer">Harry Bates Thayer</a></td>
+<td nowrap="nowrap">1919â1925</td>
+<td>President</td>
+</tr>
+<tr>
+<th>6</th>
+<td align="left"><a href="/wiki/File:Walter_Sherman_Gifford_in_1925.jpg" class="image"><img alt="Walter Sherman Gifford in 1925.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Walter_Sherman_Gifford_in_1925.jpg/100px-Walter_Sherman_Gifford_in_1925.jpg" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Walter_Sherman_Gifford_in_1925.jpg/150px-Walter_Sherman_Gifford_in_1925.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Walter_Sherman_Gifford_in_1925.jpg/200px-Walter_Sherman_Gifford_in_1925.jpg 2x" data-file-width="1024" data-file-height="751" /></a> <a href="/wiki/Walter_Sherman_Gifford" title="Walter Sherman Gifford">Walter Sherman Gifford</a></td>
+<td nowrap="nowrap">1925â1948</td>
+<td>President</td>
+</tr>
+<tr>
+<th>7</th>
+<td align="right">Leroy A. Wilson</td>
+<td nowrap="nowrap">1948â1951</td>
+<td>President</td>
+</tr>
+<tr>
+<th>8</th>
+<td align="left"><a href="/wiki/File:Bell_telephone_magazine_(1922)_(14569651027).jpg" class="image"><img alt="Bell telephone magazine (1922) (14569651027).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bell_telephone_magazine_%281922%29_%2814569651027%29.jpg/100px-Bell_telephone_magazine_%281922%29_%2814569651027%29.jpg" width="100" height="116" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bell_telephone_magazine_%281922%29_%2814569651027%29.jpg/150px-Bell_telephone_magazine_%281922%29_%2814569651027%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bell_telephone_magazine_%281922%29_%2814569651027%29.jpg/200px-Bell_telephone_magazine_%281922%29_%2814569651027%29.jpg 2x" data-file-width="1450" data-file-height="1686" /></a> Cleo F. Craig</td>
+<td nowrap="nowrap">1951â1956</td>
+<td>President</td>
+</tr>
+<tr>
+<th>9</th>
+<td align="right"><a href="/wiki/Frederick_Kappel" title="Frederick Kappel">Frederick Kappel</a></td>
+<td nowrap="nowrap">1956â1961<br />
+1961â1967</td>
+<td>President<br />
+Chairman</td>
+</tr>
+<tr>
+<th>10</th>
+<td align="left"><a href="/wiki/File:Bell_telephone_magazine_(1922)_(14753269051).jpg" class="image"><img alt="Bell telephone magazine (1922) (14753269051).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bell_telephone_magazine_%281922%29_%2814753269051%29.jpg/100px-Bell_telephone_magazine_%281922%29_%2814753269051%29.jpg" width="100" height="206" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bell_telephone_magazine_%281922%29_%2814753269051%29.jpg/150px-Bell_telephone_magazine_%281922%29_%2814753269051%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bell_telephone_magazine_%281922%29_%2814753269051%29.jpg/200px-Bell_telephone_magazine_%281922%29_%2814753269051%29.jpg 2x" data-file-width="1090" data-file-height="2244" /></a> H.I. Romnes</td>
+<td nowrap="nowrap">1967â1972</td>
+<td>Chairman</td>
+</tr>
+<tr>
+<th>11</th>
+<td align="right"><a href="/wiki/John_D._deButts" title="John D. deButts">John D. deButts</a></td>
+<td nowrap="nowrap">1972â1979</td>
+<td>Chairman</td>
+</tr>
+<tr>
+<th>12</th>
+<td align="right">Charles L. Brown</td>
+<td nowrap="nowrap">1979â1986</td>
+<td>Chairman</td>
+</tr>
+<tr>
+<th>13</th>
+<td align="right">James E. Olson</td>
+<td nowrap="nowrap">1986â1988</td>
+<td>Chairman</td>
+</tr>
+<tr>
+<th>14</th>
+<td align="right"><a href="/wiki/Robert_Eugene_Allen" title="Robert Eugene Allen">Robert Eugene Allen</a></td>
+<td nowrap="nowrap">1988â1997</td>
+<td>Chairman</td>
+</tr>
+<tr>
+<th>15</th>
+<td align="right"><a href="/wiki/C._Michael_Armstrong" title="C. Michael Armstrong">C. Michael Armstrong</a></td>
+<td nowrap="nowrap">1997â2002</td>
+<td>Chairman</td>
+</tr>
+<tr>
+<th>16</th>
+<td align="right"><a href="/wiki/David_Dorman" title="David Dorman">David Dorman</a></td>
+<td nowrap="nowrap">2002â2005</td>
+<td>Chairman</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Bell_Telephone_Memorial" title="Bell Telephone Memorial">Bell Telephone Memorial</a>, a monument sculpted by W.S. Allard, commemorating the invention of the telephone</li>
+<li><a href="/wiki/International_Bell_Telephone_Company" title="International Bell Telephone Company">International Bell Telephone Company</a>, sister company to American Bell Telephone, with its headquarters in Brussels, Belgium</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=12" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-inflation-US-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-inflation-US_1-0">^</a></b></span> <span class="reference-text"><span class="citation"><cite class="citation web">Federal Reserve Bank of Minneapolis Community Development Project. <a rel="nofollow" class="external text" href="https://www.minneapolisfed.org/community/teaching-aids/cpi-calculator-information/consumer-price-index-1800">"Consumer Price Index (estimate) 1800â"</a>. Federal Reserve Bank of Minneapolis<span class="reference-accessdate">. Retrieved <span class="nowrap">November 10,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.au=Federal+Reserve+Bank+of+Minneapolis+Community+Development+Project&amp;rft.btitle=Consumer+Price+Index+%28estimate%29+1800%93&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.minneapolisfed.org%2Fcommunity%2Fteaching-aids%2Fcpi-calculator-information%2Fconsumer-price-index-1800&amp;rft.pub=Federal+Reserve+Bank+of+Minneapolis&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.att.com/gen/press-room?pid=4800&amp;cdvn=news&amp;newsarticleid=24633">"AT&amp;T Corp Restructured its Asia Pacific Operations"</a> (Press release). AT&amp;T. October 31, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.btitle=AT%26T+Corp+Restructured+its+Asia+Pacific+Operations&amp;rft.date=2007-10-31&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.att.com%2Fgen%2Fpress-room%3Fpid%3D4800%26cdvn%3Dnews%26newsarticleid%3D24633&amp;rft.pub=AT%26T&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Bruce 1990, p. 291.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources#What_information_to_include" title="Wikipedia:Citing sources"><span title="A more detailed citation is required. (February 2014)">full citation needed</span></a></i>]</sup></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Pizer 2009, pp. 120â124.Bruce 1990, p. 291<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources#What_information_to_include" title="Wikipedia:Citing sources"><span title="A more detailed citation is required. (February 2014)">full citation needed</span></a></i>]</sup></span></li>
+<li id="cite_note-Bruce_1990-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bruce_1990_5-0">^</a></b></span> <span class="reference-text">Bruce 1990.Bruce 1990, p. 291<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources#What_information_to_include" title="Wikipedia:Citing sources"><span title="A more detailed citation is required. (February 2014)">full citation needed</span></a></i>]</sup></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Brooks 1976, p. 107.Bruce 1990, p. 291<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources#What_information_to_include" title="Wikipedia:Citing sources"><span title="A more detailed citation is required. (February 2014)">full citation needed</span></a></i>]</sup></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Perry, S. D. (2004). <i>A Consolidated History of Media</i> (3rd ed.). Bloomington, IL: Epistelogic.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.aufirst=S.+D.&amp;rft.aulast=Perry&amp;rft.btitle=A+Consolidated+History+of+Media&amp;rft.date=2004&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.place=Bloomington%2C+IL&amp;rft.pub=Epistelogic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (February 2014)">page&#160;needed</span></a></i>]</sup></span></li>
+<li id="cite_note-cato-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-cato_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cato_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-cato_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-cato_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cato.org/pubs/journal/cjv14n2-6.html">"Unnatural Monopoly: Critical Moments"</a>. <a href="/wiki/Cato_Institute" title="Cato Institute">Cato Institute</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080910224113/http://www.cato.org/pubs/journal/cjv14n2-6.html">Archived</a> from the original on September 10, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">September 17,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.btitle=Unnatural+Monopoly%3A+Critical+Moments&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cato.org%2Fpubs%2Fjournal%2Fcjv14n2-6.html&amp;rft.pub=Cato+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-att_milestones-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-att_milestones_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-att_milestones_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-att_milestones_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-att_milestones_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-att_milestones_9-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-att_milestones_9-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.corp.att.com/history/milestones.html">"AT&amp;T Milestones in AT&amp;T History"</a>. <a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080928163604/http://www.corp.att.com/history/milestones.html">Archived</a> from the original on September 28, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">September 17,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.btitle=AT%26T+Milestones+in+AT%26T+History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.corp.att.com%2Fhistory%2Fmilestones.html&amp;rft.pub=AT%26T&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Yurick, p.&#160;7.Bruce 1990, p. 291<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources#What_information_to_include" title="Wikipedia:Citing sources"><span title="A more detailed citation is required. (February 2014)">full citation needed</span></a></i>]</sup></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Jarzombek, Mark (2004). <i>Designing MIT: Bosworth's New Tech</i>. Northeastern University Press. pp.&#160;65â68.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.aufirst=Mark&amp;rft.aulast=Jarzombek&amp;rft.btitle=Designing+MIT%3A+Bosworth%27s+New+Tech&amp;rft.date=2004&amp;rft.genre=book&amp;rft.pages=65-68&amp;rft.pub=Northeastern+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Popik, Barry (September 25, 2005). <a rel="nofollow" class="external text" href="http://www.barrypopik.com/index.php/new_york_city/entry/chippendale_building_sony_building/">"Chippendale Building (SONY building)"</a>. <i>The Big Apple</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.atitle=Chippendale+Building+%28SONY+building%29&amp;rft.aufirst=Barry&amp;rft.aulast=Popik&amp;rft.date=2005-09-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.barrypopik.com%2Findex.php%2Fnew_york_city%2Fentry%2Fchippendale_building_sony_building%2F&amp;rft.jtitle=The+Big+Apple&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Stoler, Michael (September 8, 2005). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071226172648/http://www.firstamny.com/stoler_9_8_05.aspx">"Fortune 100 Companies Capitalize on Record Prices"</a>. <i>The Stoler Report</i>. First American Title Insurance Company of New York. Archived from <a rel="nofollow" class="external text" href="http://www.firstamny.com/stoler_9_8_05.aspx">the original</a> on December 26, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.atitle=Fortune+100+Companies+Capitalize+on+Record+Prices&amp;rft.aufirst=Michael&amp;rft.aulast=Stoler&amp;rft.date=2005-09-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.firstamny.com%2Fstoler_9_8_05.aspx&amp;rft.jtitle=The+Stoler+Report&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Massey, David. <a rel="nofollow" class="external text" href="http://www.porticus.org/bell/bell_logos.html">"Bell Logo History"</a>. <i>Bell System Memorial</i>. The Porticus Centre.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.atitle=Bell+Logo+History&amp;rft.aufirst=David&amp;rft.aulast=Massey&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.porticus.org%2Fbell%2Fbell_logos.html&amp;rft.jtitle=Bell+System+Memorial&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><i>Focus</i> magazine (internal AT&amp;T company publication), sidebar titled "AT&amp;T's chief executives", 1988</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Works_cited">Works cited</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=13" title="Edit section: Works cited">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation book">Brock, Gerald W. (1981). <a rel="nofollow" class="external text" href="https://books.google.com/?id=Vx-4AAAAIAAJ"><i>The Telecommunications Industry The Dynamics Of Market Structure</i></a>. Harvard Economic Studies. Cambridge, MA: Harvard University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-674-87285-1" title="Special:BookSources/978-0-674-87285-1">978-0-674-87285-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.aufirst=Gerald+W.&amp;rft.aulast=Brock&amp;rft.btitle=The+Telecommunications+Industry+The+Dynamics+Of+Market+Structure&amp;rft.date=1981&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DVx-4AAAAIAAJ&amp;rft.isbn=978-0-674-87285-1&amp;rft.place=Cambridge%2C+MA&amp;rft.pub=Harvard+University+Press&amp;rft.series=Harvard+Economic+Studies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Brooks, John (1976). <a rel="nofollow" class="external text" href="https://books.google.com/?id=I4y4AAAAIAAJ"><i>Telephone The First Hundred Years</i></a>. Harper &amp; Row. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-06-010540-2" title="Special:BookSources/978-0-06-010540-2">978-0-06-010540-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.aufirst=John&amp;rft.aulast=Brooks&amp;rft.btitle=Telephone+The+First+Hundred+Years&amp;rft.date=1976&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DI4y4AAAAIAAJ&amp;rft.isbn=978-0-06-010540-2&amp;rft.pub=Harper+%26+Row&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.corp.att.com/history/milestones.html">"Milestones in AT&amp;T History"</a>. <i>Milestones in AT&amp;T History</i>. AT&amp;T<span class="reference-accessdate">. Retrieved <span class="nowrap">December 14,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAT%26T+Corporation&amp;rft.atitle=Milestones+in+AT%26T+History&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.corp.att.com%2Fhistory%2Fmilestones.html&amp;rft.jtitle=Milestones+in+AT%26T+History&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://web.archive.org/*/http://www.att.com">AT&amp;T</a> (Archive)</li>
+<li>The short film <i>A CONTINENT IS BRIDGED</i> (<a rel="nofollow" class="external text" href="https://archive.org/details/gov.archives.arc.89093.r1">Reel 1 of 4</a>, <a rel="nofollow" class="external text" href="https://archive.org/details/gov.archives.arc.89093.r2">Reel 2 of 4</a>, <a rel="nofollow" class="external text" href="https://archive.org/details/gov.archives.arc.89093.r3">Reel 3 of 4</a>, <a rel="nofollow" class="external text" href="https://archive.org/details/gov.archives.arc.89093.r4">Reel 4 of 4</a>) (1940) is available for free download at the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li>
+<li>American Telephone &amp; Telegraph logos, adverts and historical telephone maps on the <a rel="nofollow" class="external text" href="http://www.risksandrewards.org.uk/source_56.html">Baring archive Risks and Rewards website</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="AT.26T" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:AT%26T" title="Template:AT&amp;T"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:AT%26T" title="Template talk:AT&amp;T"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:AT%26T&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="AT.26T" style="font-size:114%"><a href="/wiki/AT%26T" title="AT&amp;T">AT&amp;T</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Corporate directors</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Chairman, CEO and president</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Randall_L._Stephenson" title="Randall L. Stephenson">Randall L. Stephenson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/Gil_Amelio" title="Gil Amelio">Gil Amelio</a></li>
+<li><a href="/wiki/August_Busch_III" title="August Busch III">August Busch III</a></li>
+<li><a href="/wiki/Martin_K._Eby,_Jr." class="mw-redirect" title="Martin K. Eby, Jr.">Martin K. Eby, Jr.</a></li>
+<li><a href="/wiki/James_A._Henderson" title="James A. Henderson">James A. Henderson</a></li>
+<li><a href="/wiki/Charles_F._Knight" title="Charles F. Knight">Charles F. Knight</a></li>
+<li><a href="/wiki/Lynn_Morley_Martin" title="Lynn Morley Martin">Lynn Morley Martin</a></li>
+<li><a href="/wiki/John_B._McCoy" title="John B. McCoy">John B. McCoy</a></li>
+<li><a href="/wiki/Mary_S._Metz" title="Mary S. Metz">Mary S. Metz</a></li>
+<li><a href="/wiki/Toni_Rembe" title="Toni Rembe">Toni Rembe</a></li>
+<li><a href="/wiki/S._Donley_Ritchey" title="S. Donley Ritchey">S. Donley Ritchey</a></li>
+<li><a href="/wiki/Joyce_M._Roche" title="Joyce M. Roche">Joyce M. Roche</a></li>
+<li><a href="/wiki/Laura_Tyson" title="Laura Tyson">Laura Tyson</a></li>
+<li><a href="/wiki/Patricia_P._Upton" title="Patricia P. Upton">Patricia P. Upton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Acquired companies</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">AT&amp;T Corporation</strong></li>
+<li><a href="/wiki/Ameritech" title="Ameritech">Ameritech</a></li>
+<li><a href="/wiki/BellSouth" title="BellSouth">BellSouth</a></li>
+<li><a href="/wiki/DirecTV" title="DirecTV">DirecTV</a></li>
+<li><a href="/wiki/Pacific_Telesis" title="Pacific Telesis">Pacific Telesis</a></li>
+<li><a href="/wiki/Southern_New_England_Telecommunications" title="Southern New England Telecommunications">Southern New England Telecommunications</a></li>
+<li><a href="/wiki/AT%26T_Mexico" title="AT&amp;T Mexico">AT&amp;T Mexico</a></li>
+<li><a href="/wiki/Unef%C3%B3n" title="UnefÃ³n">UnefÃ³n</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Bell_System" title="Bell System">Bell Operating Companies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BellSouth_Telecommunications" title="BellSouth Telecommunications">BellSouth Telecommunications</a></li>
+<li><a href="/wiki/Illinois_Bell" title="Illinois Bell">Illinois Bell</a></li>
+<li><a href="/wiki/Indiana_Bell" title="Indiana Bell">Indiana Bell</a></li>
+<li><a href="/wiki/Michigan_Bell" title="Michigan Bell">Michigan Bell</a></li>
+<li><a href="/wiki/Nevada_Bell" title="Nevada Bell">Nevada Bell</a></li>
+<li><a href="/wiki/Ohio_Bell" title="Ohio Bell">Ohio Bell</a></li>
+<li><a href="/wiki/Pacific_Bell" title="Pacific Bell">Pacific Bell</a></li>
+<li><a href="/wiki/Southwestern_Bell" title="Southwestern Bell">Southwestern Bell</a></li>
+<li><a href="/wiki/Wisconsin_Bell" title="Wisconsin Bell">Wisconsin Bell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Competitive_local_exchange_carrier" title="Competitive local exchange carrier">Competitive local exchange carrier</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/SBC_Telecom" title="SBC Telecom">SBC Telecom</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Long_distance_calling" class="mw-redirect" title="Long distance calling">Long distance</a> services</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AT%26T_Alascom" title="AT&amp;T Alascom">Alascom</a></li>
+<li><strong class="selflink">AT&amp;T Corporation</strong></li>
+<li><a href="/wiki/BellSouth_Long_Distance" title="BellSouth Long Distance">BellSouth Long Distance</a></li>
+<li><a href="/wiki/SBC_Long_Distance" title="SBC Long Distance">SBC Long Distance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/AT%26T_Mobility" title="AT&amp;T Mobility">AT&amp;T Mobility</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alltel" title="Alltel">Alltel</a></li>
+<li><a href="/wiki/Ameritech_Cellular" title="Ameritech Cellular">Ameritech Cellular</a></li>
+<li><a href="/wiki/AT%26T_Wireless_Services" title="AT&amp;T Wireless Services">AT&amp;T Wireless Services</a></li>
+<li><a href="/wiki/BellSouth_Mobility" title="BellSouth Mobility">BellSouth Mobility</a></li>
+<li><a href="/wiki/BellSouth_Mobility_DCS" title="BellSouth Mobility DCS">BellSouth Mobility DCS</a></li>
+<li><a href="/wiki/Centennial_Communications" title="Centennial Communications">Centennial Wireless</a></li>
+<li><a href="/wiki/Dobson_Cellular" title="Dobson Cellular">Dobson Communications</a></li>
+<li><a href="/wiki/Houston_Cellular" title="Houston Cellular">Houston Cellular</a></li>
+<li><a href="/wiki/Pacific_Bell_Wireless" title="Pacific Bell Wireless">Pacific Bell Wireless</a></li>
+<li><a href="/w/index.php?title=Pacific_Bell_Wireless_Northwest&amp;action=edit&amp;redlink=1" class="new" title="Pacific Bell Wireless Northwest (page does not exist)">Pacific Bell Wireless Northwest</a></li>
+<li><a href="/w/index.php?title=SBC_Wireless&amp;action=edit&amp;redlink=1" class="new" title="SBC Wireless (page does not exist)">SBC Wireless</a></li>
+<li><a href="/w/index.php?title=SNET_Mobility&amp;action=edit&amp;redlink=1" class="new" title="SNET Mobility (page does not exist)">SNET Mobility</a></li>
+<li><a href="/wiki/Southwestern_Bell_Mobile_Systems" title="Southwestern Bell Mobile Systems">Southwestern Bell Mobile Systems</a></li>
+<li><a href="/w/index.php?title=Southwestern_Bell_Wireless&amp;action=edit&amp;redlink=1" class="new" title="Southwestern Bell Wireless (page does not exist)">Southwestern Bell Wireless</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Internet" title="Internet">Internet</a> services</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Internet_protocol_suite" title="Internet protocol suite">IP</a> services (<a href="/wiki/Voice_over_IP" title="Voice over IP">VoIP</a>, <a href="/wiki/IPTV" title="IPTV">IPTV</a>)</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AT%26T_U-verse" title="AT&amp;T U-verse">U-verse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/AT%26T_Internet_Services" title="AT&amp;T Internet Services">AT&amp;T Internet Services</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ameritech_Interactive_Media_Services" title="Ameritech Interactive Media Services">Ameritech Interactive Media Services</a></li>
+<li><a href="/wiki/Pacific_Bell_Internet_Services" class="mw-redirect" title="Pacific Bell Internet Services">Pacific Bell Internet Services</a></li>
+<li><a href="/wiki/Prodigy_(ISP)" class="mw-redirect" title="Prodigy (ISP)">Prodigy</a></li>
+<li><a href="/wiki/Southwestern_Bell_Internet_Services" title="Southwestern Bell Internet Services">Southwestern Bell Internet Services</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Other <a href="/wiki/Internet_service_provider" title="Internet service provider">ISPs</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AT%26T_Business_Internet" title="AT&amp;T Business Internet">AT&amp;T Business Internet</a></li>
+<li><a href="/w/index.php?title=BellSouth_FastAccess_DSL&amp;action=edit&amp;redlink=1" class="new" title="BellSouth FastAccess DSL (page does not exist)">BellSouth FastAccess DSL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Web_directory" title="Web directory">Directories</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anywho.com" class="mw-redirect" title="Anywho.com">Anywho.com</a></li>
+<li><a href="/wiki/Yellowpages.com" title="Yellowpages.com">Yellowpages.com</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Television channels</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/AT%26T_Sports_Networks" title="AT&amp;T Sports Networks">AT&amp;T Sports Networks</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Root_Sports" title="Root Sports">Root Sports</a>
+<ul>
+<li><a href="/wiki/Root_Sports_Northwest" title="Root Sports Northwest">Northwest</a> (40%)</li>
+<li><a href="/wiki/Root_Sports_Pittsburgh" title="Root Sports Pittsburgh">Pittsburgh</a></li>
+<li><a href="/wiki/Root_Sports_Rocky_Mountain" title="Root Sports Rocky Mountain">Rocky Mountain</a></li>
+<li><a href="/wiki/Root_Sports_Southwest" title="Root Sports Southwest">Southwest</a></li>
+<li><a href="/wiki/Root_Sports_Utah" title="Root Sports Utah">Utah</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Game_Show_Network" title="Game Show Network">Game Show Network</a> (42%)</li>
+<li><a href="/wiki/MLB_Network" title="MLB Network">MLB Network</a> (16.67%)</li>
+<li><a href="/wiki/Audience_(TV_network)" title="Audience (TV network)">Audience</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Telephone directories</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><a href="/wiki/YP_Holdings" title="YP Holdings">YP Holdings</a> (47%)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/AT%26T_Intellectual_Property" title="AT&amp;T Intellectual Property">AT&amp;T Intellectual Property</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AT%26T_Intellectual_Property_I" title="AT&amp;T Intellectual Property I">AT&amp;T Intellectual Property I</a></li>
+<li><a href="/w/index.php?title=AT%26T_Intellectual_Property_II&amp;action=edit&amp;redlink=1" class="new" title="AT&amp;T Intellectual Property II (page does not exist)">AT&amp;T Intellectual Property II</a></li>
+<li><a href="/w/index.php?title=AT%26T_Intellectual_Property_Marketing&amp;action=edit&amp;redlink=1" class="new" title="AT&amp;T Intellectual Property Marketing (page does not exist)">AT&amp;T Intellectual Property Marketing</a></li>
+<li><a href="/w/index.php?title=AT%26T_Properties&amp;action=edit&amp;redlink=1" class="new" title="AT&amp;T Properties (page does not exist)">AT&amp;T Properties</a></li>
+<li><a href="/w/index.php?title=Ameritech_Properties&amp;action=edit&amp;redlink=1" class="new" title="Ameritech Properties (page does not exist)">Ameritech Properties</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Research_and_development" title="Research and development">Research and development</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AT%26T_Labs" title="AT&amp;T Labs">AT&amp;T Labs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Bell_System" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bell_System" title="Template:Bell System"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bell_System" title="Template talk:Bell System"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bell_System&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Bell_System" style="font-size:114%"><a href="/wiki/Bell_System" title="Bell System">Bell System</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Parent_company" style="font-size:114%">Parent company</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">American Telephone and Telegraph Company</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Local_telephone_companies_still_extant" style="font-size:114%">Local telephone companies still extant</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:15em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Wholly owned</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nevada_Bell" title="Nevada Bell">Bell Telephone Company of Nevada</a></li>
+<li><a href="/wiki/Verizon_Pennsylvania" title="Verizon Pennsylvania">The Bell Telephone Company of Pennsylvania</a></li>
+<li><a href="/wiki/C%26P_Telephone" title="C&amp;P Telephone">The Chesapeake &amp; Potomac Telephone Company</a></li>
+<li><a href="/wiki/Verizon_Maryland" title="Verizon Maryland">The Chesapeake &amp; Potomac Telephone Company of Maryland</a></li>
+<li><a href="/wiki/Frontier_West_Virginia" title="Frontier West Virginia">The Chesapeake &amp; Potomac Telephone Company of West Virginia</a></li>
+<li><a href="/wiki/Verizon_Virginia" class="mw-redirect" title="Verizon Virginia">The Chesapeake &amp; Potomac Telephone Company of Virginia</a></li>
+<li><a href="/wiki/Verizon_Delaware" title="Verizon Delaware">Diamond State Telephone</a></li>
+<li><a href="/wiki/Illinois_Bell" title="Illinois Bell">Illinois Bell</a></li>
+<li><a href="/wiki/Indiana_Bell" title="Indiana Bell">Indiana Bell</a></li>
+<li><a href="/wiki/Michigan_Bell" title="Michigan Bell">Michigan Bell</a></li>
+<li><a href="/wiki/Qwest_Corporation" title="Qwest Corporation">Mountain Bell</a></li>
+<li><a href="/wiki/Verizon_New_England" title="Verizon New England">New England Telephone</a></li>
+<li><a href="/wiki/Verizon_New_Jersey" title="Verizon New Jersey">New Jersey Bell</a></li>
+<li><a href="/wiki/Verizon_New_York" title="Verizon New York">New York Telephone</a></li>
+<li><a href="/wiki/Northwestern_Bell" title="Northwestern Bell">Northwestern Bell</a></li>
+<li><a href="/wiki/Ohio_Bell" title="Ohio Bell">Ohio Bell</a></li>
+<li><a href="/wiki/Pacific_Northwest_Bell" title="Pacific Northwest Bell">Pacific Northwest Bell</a></li>
+<li><a href="/wiki/Pacific_Bell" title="Pacific Bell">Pacific Telephone</a></li>
+<li><a href="/wiki/South_Central_Bell" title="South Central Bell">South Central Bell</a></li>
+<li><a href="/wiki/Southern_Bell" title="Southern Bell">Southern Bell</a></li>
+<li><a href="/wiki/Southwestern_Bell" title="Southwestern Bell">Southwestern Bell</a></li>
+<li><a href="/wiki/Wisconsin_Bell" title="Wisconsin Bell">Wisconsin Telephone</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Partially owned</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Southern_New_England_Telephone" title="Southern New England Telephone">Southern New England Telephone</a></li>
+<li><a href="/wiki/Cincinnati_Bell" title="Cincinnati Bell">Cincinnati Bell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Other_subsidiaries" style="font-size:114%">Other subsidiaries</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:15em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Manufacturing</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Western_Electric" title="Western Electric">Western Electric</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Research</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Long distance</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AT%26T_Communications" title="AT&amp;T Communications">Long Lines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Wireless</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advanced_Mobile_Phone_Service" title="Advanced Mobile Phone Service">Advanced Mobile Phone Service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Regional Bell Companies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_Canada" title="Bell Canada">Bell Canada</a> (1880-1975)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Historical" style="font-size:114%">Historical</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:15em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Commemorative</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alexander_Graham_Bell_National_Historic_Site" title="Alexander Graham Bell National Historic Site">Alexander Graham Bell National Historic Site</a></li>
+<li><a href="/wiki/Bell_Boatyard" title="Bell Boatyard">Bell Boatyard</a></li>
+<li><a href="/wiki/Bell_Homestead_National_Historic_Site" title="Bell Homestead National Historic Site">Bell Homestead National Historic Site</a></li>
+<li><a href="/wiki/Bell_Telephone_Memorial" title="Bell Telephone Memorial">Bell Telephone Memorial</a></li>
+<li><a href="/wiki/Pioneers,_a_Volunteer_Network" title="Pioneers, a Volunteer Network">Telephone Pioneers of America</a></li>
+<li><i><a href="/wiki/Spirit_of_Communication" title="Spirit of Communication">Spirit of Communication</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:15em;padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Defunct</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_Telephone_Company" title="Bell Telephone Company">Bell Telephone Company</a></li>
+<li><a href="/wiki/New_England_Telephone_and_Telegraph_Company" title="New England Telephone and Telegraph Company">New England Telephone and Telegraph Company</a></li>
+<li><a href="/wiki/International_Bell_Telephone_Company" title="International Bell Telephone Company">International Bell Telephone Company</a></li>
+<li><a href="/wiki/Bell_Canada" title="Bell Canada">The Bell Telephone Company of Canada</a></li>
+<li><a href="/wiki/Nortel" title="Nortel">Northern Electric</a></li>
+<li><a href="/wiki/International_Bell_Telephone_Company#Bell_Telephone_Manufacturing_Company" title="International Bell Telephone Company">Bell Telephone Manufacturing Company</a></li>
+<li><a href="/wiki/AT%26T_Technologies" title="AT&amp;T Technologies">AT&amp;T Technologies, Inc.</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Related_topics" style="font-size:114%">Related topics</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Breakup_of_the_Bell_System" title="Breakup of the Bell System">Divestiture</a></li>
+<li><a href="/wiki/Regional_Bell_Operating_Company" title="Regional Bell Operating Company">Regional Bell Operating Company</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Spinoffs_of_American_Telephone_.26_Telegraph_Company" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:AT%26T_Spinoffs" title="Template:AT&amp;T Spinoffs"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:AT%26T_Spinoffs" title="Template talk:AT&amp;T Spinoffs"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:AT%26T_Spinoffs&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Spinoffs_of_American_Telephone_.26_Telegraph_Company" style="font-size:114%">Spinoffs of <strong class="selflink">American Telephone &amp; Telegraph Company</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";width: 16em;"><span style="float:left;width:6em">&#160;</span>
+<div id="First_generation" style="font-size:114%">First generation</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;">1929</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Graybar_Electric_Company" class="mw-redirect" title="Graybar Electric Company">Graybar Electric Company</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;">1956</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Nortel" title="Nortel">Northern Electric</a> (via Western Electric)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;">1975</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_Canada" title="Bell Canada">Bell Canada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;">1984 <a href="/wiki/Bell_System_divestiture" class="mw-redirect" title="Bell System divestiture">Divestiture</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ameritech" title="Ameritech">Ameritech</a></li>
+<li><a href="/wiki/Verizon_Communications" title="Verizon Communications">Bell Atlantic</a></li>
+<li><a href="/wiki/Telcordia_Technologies" title="Telcordia Technologies">Bell Communications Research</a></li>
+<li><a href="/wiki/BellSouth" title="BellSouth">BellSouth</a></li>
+<li><a href="/wiki/NYNEX" title="NYNEX">NYNEX</a></li>
+<li><a href="/wiki/Pacific_Telesis" title="Pacific Telesis">Pacific Telesis</a></li>
+<li><a href="/wiki/AT%26T" title="AT&amp;T">Southwestern Bell Corporation</a></li>
+<li><a href="/wiki/US_West" title="US West">US West</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;">1991â1993</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Unix_System_Laboratories" title="Unix System Laboratories">Unix System Laboratories</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;">1996</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lucent" title="Lucent">Lucent Technologies</a></li>
+<li><a href="/wiki/NCR_Corporation" title="NCR Corporation">NCR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;">1997</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=AT%26T_Submarine_Systems&amp;action=edit&amp;redlink=1" class="new" title="AT&amp;T Submarine Systems (page does not exist)">AT&amp;T Submarine Systems</a>
+<ul>
+<li>sold to <a href="/wiki/Tyco_International" title="Tyco International">Tyco International</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;">2001</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AT%26T_Wireless_Services" title="AT&amp;T Wireless Services">AT&amp;T Wireless Services</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;">2003</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AT%26T_Broadband" title="AT&amp;T Broadband">AT&amp;T Broadband</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";width: 16em;"><span style="float:left;width:6em">&#160;</span>
+<div id="Second_generation_spinoffs" style="font-size:114%">Second generation spinoffs</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Lucent" title="Lucent">Lucent Technologies</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advanced_American_Telephones" title="Advanced American Telephones">Advanced American Telephones</a> <small>(2000)</small></li>
+<li><a href="/wiki/Avaya" title="Avaya">Avaya</a> <small>(2000)</small></li>
+<li><a href="/wiki/QLT_Consumer_Lease_Services" title="QLT Consumer Lease Services">QLT Consumer Lease Services</a> <small>(2000)</small></li>
+<li><a href="/wiki/Agere_Systems" title="Agere Systems">Agere Systems</a> <small>(2002)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/MediaOne" title="MediaOne">MediaOne Group</a><br />
+<i>(f/k/a US West)</i></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/U_S_WEST" class="mw-redirect" title="U S WEST">U S WEST</a> <small>(1998)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/NCR_Corporation" title="NCR Corporation">NCR</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Teradata" title="Teradata">Teradata</a> <small>(2007)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Pacific_Telesis" title="Pacific Telesis">Pacific Telesis</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AirTouch" title="AirTouch">AirTouch</a> <small>(1994)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Qwest" title="Qwest">Qwest</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dex_Media" title="Dex Media">Dex Media</a> <small>(2002)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Regional_Bell_Operating_Company" title="Regional Bell Operating Company">Regional Bells</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Telcordia_Technologies" title="Telcordia Technologies">Telcordia Technologies</a> <small>(1997)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/AT%26T" title="AT&amp;T">SBC Communications / AT&amp;T</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/DEX_One" title="DEX One">R.H. Donnelley Publishing and Advertising of Illinois</a> <small>(2004)</small></li>
+<li><a href="/wiki/YP_Holdings" title="YP Holdings">YP Holdings</a> <small>(2012)</small></li>
+<li><a href="/wiki/Southern_New_England_Telephone" title="Southern New England Telephone">Southern New England Telephone</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width: 16em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Verizon_Communications" title="Verizon Communications">Verizon Communications</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hawaiian_Telcom" title="Hawaiian Telcom">Hawaiian Telcom</a> <small>(2005)</small></li>
+<li><a href="/w/index.php?title=SuperMedia&amp;action=edit&amp;redlink=1" class="new" title="SuperMedia (page does not exist)">Idearc</a> <small>(2006)</small></li>
+<li><a href="/wiki/Northern_New_England_Spinco" title="Northern New England Spinco">Northern New England Spinco</a> <small>(2008)</small></li>
+<li><a href="/wiki/Frontier_Communications_ILEC_Holdings" title="Frontier Communications ILEC Holdings">New Communications Holdings</a> <small>(2010)</small></li>
+<li><a href="/wiki/Frontier_California" title="Frontier California">Frontier California</a></li>
+<li><a href="/wiki/Frontier_Florida" title="Frontier Florida">Frontier Florida</a></li>
+<li><a href="/wiki/Frontier_Southwest" title="Frontier Southwest">Frontier Southwest</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Telecommunications" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Telecommunications" title="Template:Telecommunications"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Telecommunications" title="Template talk:Telecommunications"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Telecommunications&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Telecommunications" style="font-size:114%"><a href="/wiki/Telecommunication" title="Telecommunication">Telecommunications</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/History_of_telecommunication" title="History of telecommunication">History</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div class="floatright"><a href="/wiki/File:Telecom-icon.svg" class="image" title="Telecommunications symbol"><img alt="Telecommunications symbol" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/50px-Telecom-icon.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/75px-Telecom-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/100px-Telecom-icon.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+<ul>
+<li><a href="/wiki/Beacon#For_defensive_communications" title="Beacon">Beacon</a></li>
+<li><a href="/wiki/History_of_broadcasting" title="History of broadcasting">Broadcasting</a></li>
+<li><a href="/wiki/Cable_TV" class="mw-redirect" title="Cable TV">Cable TV</a></li>
+<li><a href="/wiki/Communications_satellite#History" title="Communications satellite">Communications satellite</a></li>
+<li><a href="/wiki/Computer_network#History" title="Computer network">Computer network</a></li>
+<li><a href="/wiki/Drums_in_communication" title="Drums in communication">Drums</a></li>
+<li><a href="/wiki/Electrical_telegraph#History" title="Electrical telegraph">Electrical telegraph</a></li>
+<li><a href="/wiki/Fax#History" title="Fax">Fax</a></li>
+<li><a href="/wiki/Heliograph#History" title="Heliograph">Heliographs</a></li>
+<li><a href="/wiki/Hydraulic_telegraph#Greek_hydraulic_semaphore_system" title="Hydraulic telegraph">Hydraulic telegraph</a></li>
+<li><a href="/wiki/History_of_the_Internet" title="History of the Internet">Internet</a></li>
+<li><a href="/wiki/Mass_media#History" title="Mass media">Mass media</a></li>
+<li><a href="/wiki/History_of_mobile_phones" title="History of mobile phones">Mobile phone</a></li>
+<li><a href="/wiki/Optical_communication" title="Optical communication">Optical telecommunication</a></li>
+<li><a href="/wiki/Semaphore_line#History" title="Semaphore line">Optical telegraphy</a></li>
+<li><a href="/wiki/Photophone" title="Photophone">Photophone</a></li>
+<li><a href="/wiki/History_of_the_prepaid_mobile_phone" class="mw-redirect" title="History of the prepaid mobile phone">Prepaid mobile phone</a></li>
+<li><a href="/wiki/History_of_radio" title="History of radio">Radio</a></li>
+<li><a href="/wiki/Radiotelephone" title="Radiotelephone">Radiotelephone</a></li>
+<li><a href="/wiki/Communications_satellite" title="Communications satellite">Satellite communications</a></li>
+<li><a href="/wiki/Semaphore" class="mw-redirect" title="Semaphore">Semaphore</a></li>
+<li><a href="/wiki/Smartphone" title="Smartphone">Smartphone</a></li>
+<li><a href="/wiki/Smoke_signal" title="Smoke signal">Smoke signals</a></li>
+<li><a href="/wiki/History_of_telecommunication" title="History of telecommunication">Telecommunications history</a></li>
+<li><a href="/wiki/Telautograph" title="Telautograph">Telautograph</a></li>
+<li><a href="/wiki/Telegraphy" title="Telegraphy">Telegraphy</a></li>
+<li><a href="/wiki/Teleprinter" title="Teleprinter">Teleprinter</a> (teletype)</li>
+<li><a href="/wiki/History_of_the_telephone" title="History of the telephone">Telephone</a></li>
+<li><i><a href="/wiki/The_Telephone_Cases" title="The Telephone Cases">The Telephone Cases</a></i></li>
+<li><a href="/wiki/History_of_television" title="History of television">Television</a></li>
+<li><a href="/wiki/Timeline_of_communication_technology" title="Timeline of communication technology">Timeline of communication technology</a></li>
+<li><a href="/wiki/Submarine_communications_cable#Early_history:_telegraph_and_coaxial_cables" title="Submarine communications cable">Undersea telegraph line</a></li>
+<li><a href="/wiki/Videoconferencing#History" title="Videoconferencing">Videoconferencing</a></li>
+<li><a href="/wiki/Videophone#Early_history" title="Videophone">Videophone</a></li>
+<li><a href="/wiki/History_of_videotelephony" title="History of videotelephony">Videotelephony</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Pioneers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Edwin_Howard_Armstrong" title="Edwin Howard Armstrong">Edwin Howard Armstrong</a></li>
+<li><a href="/wiki/John_Logie_Baird" title="John Logie Baird">John Logie Baird</a></li>
+<li><a href="/wiki/Paul_Baran" title="Paul Baran">Paul Baran</a></li>
+<li><a href="/wiki/Alexander_Graham_Bell" title="Alexander Graham Bell">Alexander Graham Bell</a></li>
+<li><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a></li>
+<li><a href="/wiki/Jagadish_Chandra_Bose" title="Jagadish Chandra Bose">Jagadish Chandra Bose</a></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a></li>
+<li><a href="/wiki/Claude_Chappe" title="Claude Chappe">Claude Chappe</a></li>
+<li><a href="/wiki/Donald_Davies" title="Donald Davies">Donald Davies</a></li>
+<li><a href="/wiki/Lee_de_Forest" title="Lee de Forest">Lee de Forest</a></li>
+<li><a href="/wiki/Philo_Farnsworth" title="Philo Farnsworth">Philo Farnsworth</a></li>
+<li><a href="/wiki/Reginald_Fessenden" title="Reginald Fessenden">Reginald Fessenden</a></li>
+<li><a href="/wiki/Elisha_Gray" title="Elisha Gray">Elisha Gray</a></li>
+<li><a href="/wiki/Innocenzo_Manzetti" title="Innocenzo Manzetti">Innocenzo Manzetti</a></li>
+<li><a href="/wiki/Guglielmo_Marconi" title="Guglielmo Marconi">Guglielmo Marconi</a></li>
+<li><a href="/wiki/Antonio_Meucci" title="Antonio Meucci">Antonio Meucci</a></li>
+<li><a href="/wiki/Alexander_Stepanovich_Popov" title="Alexander Stepanovich Popov">Alexander Stepanovich Popov</a></li>
+<li><a href="/wiki/Johann_Philipp_Reis" title="Johann Philipp Reis">Johann Philipp Reis</a></li>
+<li><a href="/wiki/Nikola_Tesla" title="Nikola Tesla">Nikola Tesla</a></li>
+<li><a href="/wiki/Camille_Tissot" title="Camille Tissot">Camille Tissot</a></li>
+<li><a href="/wiki/Alfred_Vail" title="Alfred Vail">Alfred Vail</a></li>
+<li><a href="/wiki/Charles_Wheatstone" title="Charles Wheatstone">Charles Wheatstone</a></li>
+<li><a href="/wiki/Vladimir_K._Zworykin" title="Vladimir K. Zworykin">Vladimir K. Zworykin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Transmission_medium" title="Transmission medium">Transmission<br />
+media</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">Electromagnetic radiation</a></li>
+<li>Electrical <a href="/wiki/Cable" title="Cable">cable</a></li>
+<li><a href="/wiki/Free-space_optical_communication" title="Free-space optical communication">Free-space optical communication</a></li>
+<li><a href="/wiki/Molecular_communication" title="Molecular communication">Molecular communication</a></li>
+<li><a href="/wiki/Optical_fiber" title="Optical fiber">Optical fiber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Network_topology" title="Network topology">Network topology</a><br />
+and switching</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Telecommunications_link" title="Telecommunications link">Links</a></li>
+<li><a href="/wiki/Node_(networking)" title="Node (networking)">Nodes</a></li>
+<li><a href="/wiki/Terminal_(telecommunication)" title="Terminal (telecommunication)">Terminal node</a></li>
+<li><a href="/wiki/Network_switch" title="Network switch">Network switching</a>&#160;(<a href="/wiki/Circuit_switching" title="Circuit switching">circuit</a></li>
+<li><a href="/wiki/Packet_switching" title="Packet switching">packet</a>)</li>
+<li><a href="/wiki/Telephone_exchange" title="Telephone exchange">Telephone exchange</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Multiplexing" title="Multiplexing">Multiplexing</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Space-division_multiple_access" title="Space-division multiple access">Space-division</a></li>
+<li><a href="/wiki/Frequency-division_multiplexing" title="Frequency-division multiplexing">Frequency-division</a></li>
+<li><a href="/wiki/Time-division_multiplexing" title="Time-division multiplexing">Time-division</a></li>
+<li><a href="/wiki/Polarization-division_multiplexing" title="Polarization-division multiplexing">Polarization-division</a></li>
+<li><a href="/wiki/Orbital_angular_momentum_multiplexing" title="Orbital angular momentum multiplexing">Orbital angular-momentum</a></li>
+<li><a href="/wiki/Code_division_multiple_access" title="Code division multiple access">Code-division</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Telecommunications_network" title="Telecommunications network">Networks</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ARPANET" title="ARPANET">ARPANET</a></li>
+<li><a href="/wiki/BITNET" title="BITNET">BITNET</a></li>
+<li><a href="/wiki/Cellular_network" title="Cellular network">Cellular network</a></li>
+<li><a href="/wiki/Computer_network" title="Computer network">Computer</a></li>
+<li><a href="/wiki/CYCLADES" title="CYCLADES">CYCLADES</a></li>
+<li><a href="/wiki/Ethernet" title="Ethernet">Ethernet</a></li>
+<li><a href="/wiki/FidoNet" title="FidoNet">FidoNet</a></li>
+<li><a href="/wiki/Internet" title="Internet">Internet</a></li>
+<li><a href="/wiki/Integrated_Services_Digital_Network" title="Integrated Services Digital Network">ISDN</a></li>
+<li><a href="/wiki/Local_area_network" title="Local area network">LAN</a></li>
+<li><a href="/wiki/Mobile_telephony" title="Mobile telephony">Mobile</a></li>
+<li><a href="/wiki/Next-generation_network" title="Next-generation network">NGN</a></li>
+<li><a href="/wiki/NPL_network" title="NPL network">NPL network</a></li>
+<li><a href="/wiki/Public_switched_telephone_network" title="Public switched telephone network">Public Switched Telephone</a></li>
+<li><a href="/wiki/Radio_network" title="Radio network">Radio</a></li>
+<li><a href="/wiki/Telecommunications_equipment" title="Telecommunications equipment">Telecommunications equipment</a></li>
+<li><a href="/wiki/Television_network" title="Television network">Television</a></li>
+<li><a href="/wiki/Telex" title="Telex">Telex</a></li>
+<li><a href="/wiki/Wide_area_network" title="Wide area network">WAN</a></li>
+<li><a href="/wiki/Wireless_network" title="Wireless network">Wireless</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Telecommunications" title="Category:Telecommunications">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Telecommunication" title="Portal:Telecommunication">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="BCE_Inc." style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bell_Canada" title="Template:Bell Canada"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bell_Canada" title="Template talk:Bell Canada"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bell_Canada&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="BCE_Inc." style="font-size:114%"><a href="/wiki/BCE_Inc." title="BCE Inc.">BCE Inc.</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Corporation" title="Corporation">Corporate</a> <a href="/wiki/Board_of_directors" title="Board of directors">Directors</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/George_A._Cope" title="George A. Cope">George A. Cope</a> (CEO)</li>
+<li><a href="/wiki/Andr%C3%A9_B%C3%A9rard" title="AndrÃ© BÃ©rard">AndrÃ© BÃ©rard</a></li>
+<li><a href="/wiki/Anthony_S._Fell" title="Anthony S. Fell">Anthony S. Fell</a></li>
+<li><a href="/wiki/Ed_Lumley" title="Ed Lumley">Ed Lumley</a></li>
+<li><a href="/wiki/John_H._McArthur" title="John H. McArthur">John H. McArthur</a></li>
+<li><a href="/wiki/Jim_Pattison" title="Jim Pattison">Jim Pattison</a></li>
+<li><a href="/wiki/Michael_Sabia" title="Michael Sabia">Michael Sabia</a></li>
+<li><a href="/wiki/Paul_Tellier" title="Paul Tellier">Paul Tellier</a></li>
+<li><a href="/wiki/Richard_Currie" title="Richard Currie">Richard Currie</a></li>
+<li><a href="/wiki/Robert_Pozen" title="Robert Pozen">Robert Pozen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fixed-line telecommunications</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_Aliant" title="Bell Aliant">Bell Aliant</a> (Atlantic Canada)</li>
+<li><a href="/wiki/Bell_Canada" title="Bell Canada">Bell Canada</a> (urban ON &amp; QC)</li>
+<li><a href="/wiki/Bell_Internet" title="Bell Internet">Bell Internet</a> (ISP)</li>
+<li><a href="/wiki/NorthernTel" title="NorthernTel">NorthernTel</a> (northern ON)</li>
+<li><a href="/wiki/Northwestel" title="Northwestel">Northwestel</a> (northern Canada)</li>
+<li><a href="/wiki/Ontera" title="Ontera">Ontera</a> (northern ON)</li>
+<li><a href="/wiki/T%C3%A9l%C3%A9bec" title="TÃ©lÃ©bec">TÃ©lÃ©bec</a> (rural QC)</li>
+<li><a href="/wiki/Dryden_Municipal_Telephone_Service" title="Dryden Municipal Telephone Service">DMTS</a> (Dryden, Ontario area)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mobile telecommunications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_Mobility" title="Bell Mobility">Bell Mobility</a></li>
+<li><a href="/wiki/Glentel" title="Glentel">Glentel</a></li>
+<li><a href="/wiki/Inukshuk_Wireless" title="Inukshuk Wireless">Inukshuk Wireless</a></li>
+<li><a href="/wiki/NorthernTel" title="NorthernTel">NorthernTel Mobility</a></li>
+<li><a href="/wiki/Northwestel" title="Northwestel">Northwestel</a> (including Latitude Wireless)</li>
+<li><a href="/wiki/Solo_Mobile" title="Solo Mobile">Solo Mobile</a></li>
+<li><a href="/wiki/T%C3%A9l%C3%A9bec_Mobilit%C3%A9" class="mw-redirect" title="TÃ©lÃ©bec MobilitÃ©">TÃ©lÃ©bec MobilitÃ©</a></li>
+<li><a href="/wiki/Virgin_Mobile_Canada" title="Virgin Mobile Canada">Virgin Mobile Canada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Television services</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_Fibe_TV" title="Bell Fibe TV">Bell Fibe TV</a> (IPTV â urban ON &amp; QC)</li>
+<li><a href="/wiki/Bell_Mobile_TV" title="Bell Mobile TV">Bell Mobile TV</a> (mobile IPTV)</li>
+<li><a href="/wiki/Bell_TV" title="Bell TV">Bell TV</a> (satellite)</li>
+<li><a href="/wiki/Cablevision_(Canada)" title="Cablevision (Canada)">Cablevision</a> (northern QC)</li>
+<li><a href="/wiki/FibreOP" class="mw-redirect" title="FibreOP">FibreOP</a> (IPTV â Bell Aliant regions)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other properties</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_Media" title="Bell Media">Bell Media</a> <sup><a href="/wiki/Template:Bell_Media" title="Template:Bell Media">1</a></sup></li>
+<li><a href="/wiki/Maple_Leaf_Sports_%26_Entertainment" title="Maple Leaf Sports &amp; Entertainment">Maple Leaf Sports &amp; Entertainment</a> (28%)<sup>2</sup></li>
+<li><a href="/wiki/Montreal_Canadiens" title="Montreal Canadiens">Montreal Canadiens</a> (18%)</li>
+<li><a href="/wiki/The_Source_(retailer)" title="The Source (retailer)">The Source</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Advertising and sponsorships</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_Centre" class="mw-redirect" title="Bell Centre">Bell Centre</a></li>
+<li><a href="/wiki/Frank_and_Gordon" title="Frank and Gordon">Frank and Gordon</a></li>
+<li><a href="/wiki/Kids_Help_Phone" title="Kids Help Phone">Kids Help Phone</a></li>
+<li><a href="/wiki/Solo_Mobile_/_Eckored_tour" title="Solo Mobile / Eckored tour">Solo Mobile / Eckored tour</a></li>
+<li><a href="/wiki/TIFF_Bell_Lightbox" title="TIFF Bell Lightbox">TIFF Bell Lightbox</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">AT&amp;T Corporation</strong></li>
+<li><a href="/wiki/Nortel" title="Nortel">Nortel</a></li>
+<li><i><a href="/wiki/Society_of_Composers,_Authors_and_Music_Publishers_of_Canada_v_Bell_Canada" title="Society of Composers, Authors and Music Publishers of Canada v Bell Canada">Society of Composers, Authors and Music Publishers of Canada v Bell Canada</a></i></li>
+<li><a href="/wiki/Telesat" title="Telesat">Telesat Canada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><sup>2</sup>An additional 9.5% interest is held by the BCE Master Trust Fund (Bell's pension plan).</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24536639-0!*!0!!en!4!* and timestamp 20161016234558 and revision id 744708483
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=AT%26T_Corporation&amp;oldid=744708483">https://en.wikipedia.org/w/index.php?title=AT%26T_Corporation&amp;oldid=744708483</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:AT%26T" title="Category:AT&amp;T">AT&amp;T</a></li><li><a href="/wiki/Category:Bell_System" title="Category:Bell System">Bell System</a></li><li><a href="/wiki/Category:Telecommunications_companies_of_the_United_States" title="Category:Telecommunications companies of the United States">Telecommunications companies of the United States</a></li><li><a href="/wiki/Category:Telecommunications_monopolies" title="Category:Telecommunications monopolies">Telecommunications monopolies</a></li><li><a href="/wiki/Category:Telegraph_companies_of_the_United_States" title="Category:Telegraph companies of the United States">Telegraph companies of the United States</a></li><li><a href="/wiki/Category:Telecommunications_companies_established_in_1885" title="Category:Telecommunications companies established in 1885">Telecommunications companies established in 1885</a></li><li><a href="/wiki/Category:1885_establishments_in_the_United_States" title="Category:1885 establishments in the United States">1885 establishments in the United States</a></li><li><a href="/wiki/Category:Companies_based_in_Somerset_County,_New_Jersey" title="Category:Companies based in Somerset County, New Jersey">Companies based in Somerset County, New Jersey</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_more_detailed_references" title="Category:Articles needing more detailed references">Articles needing more detailed references</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_February_2014" title="Category:Wikipedia articles needing page number citations from February 2014">Wikipedia articles needing page number citations from February 2014</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_March_2014" title="Category:Use mdy dates from March 2014">Use mdy dates from March 2014</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=AT%26T+Corporation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=AT%26T+Corporation" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/AT%26T_Corporation"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:AT%26T_Corporation"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/AT%26T_Corporation" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=AT%26T_Corporation&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content â the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/AT%26T_Corporation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/AT%26T_Corporation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=AT%26T_Corporation&amp;oldid=744708483" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=AT%26T_Corporation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2843047" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=AT%26T_Corporation&amp;id=744708483" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=AT%26T+Corporation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=AT%26T+Corporation&amp;returnto=AT%26T+Corporation&amp;oldid=744708483&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=AT%26T_Corporation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%84%D9%8A%D9%81%D9%88%D9%86_%D9%88%D8%A7%D9%84%D8%AA%D9%84%D8%BA%D8%B1%D8%A7%D9%81_%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A" title="Ø§ÙØªÙÙÙÙÙ ÙØ§ÙØªÙØºØ±Ø§Ù Ø§ÙØ£ÙØ±ÙÙÙ â Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">Ø§ÙØ¹Ø±Ø¨ÙØ©</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%9F%E0%A6%BF_%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8" title="à¦à¦à¦¿à¦à§à¦¯à¦¾à¦¨à§à¦¡à¦à¦¿ à¦à¦°à§à¦ªà§à¦°à§à¦¶à¦¨ â Bengali" lang="bn" hreflang="bn" class="interlanguage-link-target">à¦¬à¦¾à¦à¦²à¦¾</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B4%D8%B1%DA%A9%D8%AA_%D8%AA%D9%84%D9%81%D9%86_%D9%88_%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%81_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7" title="Ø´Ø±Ú©Øª ØªÙÙÙ Ù ØªÙÚ¯Ø±Ø§Ù Ø¢ÙØ±ÛÚ©Ø§ â Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">ÙØ§Ø±Ø³Û</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/American_Telephone_%26_Telegraph" title="American Telephone &amp; Telegraph â French" lang="fr" hreflang="fr" class="interlanguage-link-target">FranÃ§ais</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/American_Telephone_%26_Telegraph" title="American Telephone &amp; Telegraph â Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/American_Telephone_%26_Telegraph" title="American Telephone &amp; Telegraph â Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/AT%26T_Corporation" title="AT&amp;T Corporation â Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / ÑÑÐ¿ÑÐºÐ¾ÑÑÐ²Ð°ÑÑÐºÐ¸</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E7%94%B5%E8%AF%9D%E7%94%B5%E6%8A%A5%E5%85%AC%E5%8F%B8" title="ç¾å½çµè¯çµæ¥å¬å¸ â Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">ä¸­æ</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2843047#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 October 2016, at 23:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. WikipediaÂ® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=AT%26T_Corporation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.544",
+            "walltime": "0.648",
+            "ppvisitednodes": {
+                "value": 8406,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 252333,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 23909,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 24,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 3,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  509.673      1 -total",
+                " 31.27%  159.389      1 Template:Reflist",
+                " 18.82%   95.927      6 Template:Fix",
+                " 17.01%   86.701     13 Template:Navbox",
+                " 15.11%   77.018      1 Template:Infobox_company",
+                " 14.57%   74.254      5 Template:Full_citation_needed",
+                " 13.45%   68.532      2 Template:Navbox_with_collapsible_groups",
+                " 12.89%   65.707      6 Template:Delink",
+                " 12.66%   64.521      1 Template:Infobox",
+                " 10.07%   51.301     10 Template:Navbox_subgroup"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.223",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 6708076,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1235",
+            "timestamp": "20161016234555",
+            "ttl": 86400,
+            "transientcontent": true
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1250"});});</script>
+	</body>
+</html>
+

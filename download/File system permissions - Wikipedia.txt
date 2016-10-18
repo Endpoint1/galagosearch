@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File system permissions - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"File_system_permissions","wgTitle":"File system permissions","wgCurRevisionId":741194861,"wgRevisionId":741194861,"wgArticleId":1347955,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: external links","Computer file systems","Computer security procedures","Unix file system technology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"File_system_permissions","wgRelevantArticleId":1347955,"wgRequestId":"WAUZ1wpAAD8AAQ@ThEEAAABP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikibaseItemId":"Q1172314","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/File_system_permissions"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=File_system_permissions&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=File_system_permissions&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/File_system_permissions"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-File_system_permissions rootpage-File_system_permissions skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">File system permissions</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>Most <a href="/wiki/File_system" title="File system">file systems</a> have methods to assign <b>permissions</b> or <b>access rights</b> to specific <a href="/wiki/User_(computing)" title="User (computing)">users</a> and <a href="/wiki/Group_(computing)" title="Group (computing)">groups</a> of users. These systems control the ability of the users to view, change, navigate, and <a href="/wiki/Execution_(computing)" title="Execution (computing)">execute</a> the contents of the file system.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Operating_system_variations"><span class="tocnumber">1</span> <span class="toctext">Operating system variations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Traditional_Unix_permissions"><span class="tocnumber">2</span> <span class="toctext">Traditional Unix permissions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Classes"><span class="tocnumber">2.1</span> <span class="toctext">Classes</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Permissions"><span class="tocnumber">2.2</span> <span class="toctext">Permissions</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Changing_permission_behavior_with_setuid.2C_setgid.2C_and_sticky_bits"><span class="tocnumber">2.3</span> <span class="toctext">Changing permission behavior with setuid, setgid, and sticky bits</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Notation_of_traditional_Unix_permissions"><span class="tocnumber">3</span> <span class="toctext">Notation of traditional Unix permissions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Symbolic_notation"><span class="tocnumber">3.1</span> <span class="toctext">Symbolic notation</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Numeric_notation"><span class="tocnumber">3.2</span> <span class="toctext">Numeric notation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#User_private_group"><span class="tocnumber">4</span> <span class="toctext">User private group</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Operating_system_variations">Operating system variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=1" title="Edit section: Operating system variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Unix-like" title="Unix-like">Unix-like</a> and otherwise <a href="/wiki/POSIX" title="POSIX">POSIX</a>-compliant systems, including <a href="/wiki/Linux" title="Linux">Linux</a>-based systems and all <a href="/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a> versions, have a simple system for managing individual file permissions, which in this article are called "traditional Unix permissions". Most of these systems also support some kind of <a href="/wiki/Access_control_list" title="Access control list">access control lists</a>, either proprietary (old HP-UX ACLs, for example), or POSIX.1e ACLs, based on an early POSIX draft that was withdrawn in 1997, or <a href="/wiki/NFSv4" class="mw-redirect" title="NFSv4">NFSv4</a> ACLs, which are part of the NFSv4 standard.</p>
+<p>Microsoft and IBM <a href="/wiki/DOS" title="DOS">DOS</a> variants (including <a href="/wiki/MS-DOS" title="MS-DOS">MS-DOS</a>, <a href="/wiki/PC_DOS" class="mw-redirect" title="PC DOS">PC DOS</a>, <a href="/wiki/Windows_95" title="Windows 95">Windows 95</a>, <a href="/wiki/Windows_98" title="Windows 98">Windows 98</a>, <a href="/wiki/Windows_98_SE" class="mw-redirect" title="Windows 98 SE">Windows 98 SE</a>, and <a href="/wiki/Windows_Me" class="mw-redirect" title="Windows Me">Windows Me</a>) do not have permissions, only <a href="/wiki/File_attribute" title="File attribute">file attributes</a>. There is a read-only attribute (R), which can be set or unset on a file by any user or program, and therefore does not prevent him/her/it from changing/deleting the file. There is no permission in these systems which would prevent a user from reading a file.</p>
+<p>Other MS-DOS/PC&#160;DOS-compatible operating systems such as <a href="/wiki/DR_DOS" class="mw-redirect" title="DR DOS">DR DOS</a> 3.31 and higher, <a href="/wiki/PalmDOS" class="mw-redirect" title="PalmDOS">PalmDOS</a>, <a href="/wiki/Novell_DOS" class="mw-redirect" title="Novell DOS">Novell&#160;DOS</a> and <a href="/wiki/OpenDOS" class="mw-redirect" title="OpenDOS">OpenDOS</a>, <a href="/wiki/FlexOS" title="FlexOS">FlexOS</a>, <a href="/wiki/IBM_4680_OS" class="mw-redirect" title="IBM 4680 OS">4680&#160;OS</a>, <a href="/wiki/IBM_4690_OS" class="mw-redirect" title="IBM 4690 OS">4690&#160;OS</a>, <a href="/wiki/Concurrent_DOS" class="mw-redirect" title="Concurrent DOS">Concurrent&#160;DOS</a>, <a href="/wiki/Multiuser_DOS" title="Multiuser DOS">Multiuser&#160;DOS</a>, <a href="/wiki/Datapac_System_Manager" class="mw-redirect" title="Datapac System Manager">Datapac System Manager</a> and <a href="/wiki/IMS_REAL/32" class="mw-redirect" title="IMS REAL/32">IMS REAL/32</a> support read/write/<a href="/wiki/Executable" title="Executable">execute</a>/delete <a href="/wiki/FAT_access_rights" class="mw-redirect" title="FAT access rights">file/directory access permissions</a> on <a href="/wiki/File_Allocation_Table" title="File Allocation Table">FAT</a> volumes. With the exception of FlexOS, 4680&#160;OS, and 4690&#160;OS all these operating systems also support individual <a href="/wiki/FAT_file_password" class="mw-redirect" title="FAT file password">file</a>/<a href="/wiki/FAT_directory_password" class="mw-redirect" title="FAT directory password">directory passwords</a>. All operating systems except for DR&#160;DOS, PalmDOS, Novell&#160;DOS and OpenDOS also support three independent file/directory ownership classes world/group/owner, whereas the single-user operating systems DR DOS 6.0 and higher, PalmDOS, Novell&#160;DOS and OpenDOS only support them with an optional multi-user security module (<a href="/wiki/SECURITY.BIN" class="mw-redirect" title="SECURITY.BIN">SECURITY.BIN</a>) loaded.</p>
+<p><a href="/wiki/OpenVMS" title="OpenVMS">OpenVMS</a> (a.k.a. VMS), as well as <a href="/wiki/Windows_NT" title="Windows NT">Microsoft Windows NT</a> and its derivatives (including <a href="/wiki/Windows_2000" title="Windows 2000">Windows 2000</a> and <a href="/wiki/Windows_XP" title="Windows XP">Windows XP</a>), use access control lists (ACLs)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> to administer a more complex and varied set of permissions. <a href="/wiki/OpenVMS" title="OpenVMS">OpenVMS</a> also uses a permission scheme similar to that of Unix, but more complex. There are four categories (System, Owner, Group, and World) and four types of access permissions (Read, Write, Execute and Delete). The categories are not mutually disjoint: World includes Group which in turn includes Owner. The System category independently includes system users (similar to superusers in Unix).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p><a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a> operating systems' <a href="/wiki/Hierarchical_File_System" title="Hierarchical File System">HFS</a> do not support permissions, only file attributes: "Hidden" (does not show in directory listings); "Locked" (read-only); "Name locked" (cannot be renamed); and "Stationery" (<a href="/wiki/Copy-on-write" title="Copy-on-write">copy-on-write</a>).</p>
+<p><a href="/wiki/AmigaDOS" title="AmigaDOS">The AmigaOS Filesystem, AmigaDOS</a> supports a relatively advanced permissions system, for a single-user OS. In AmigaOS 1.x, files had Archive, Read, Write, Execute and Delete (collectively known as ARWED) permissions/flags. In AmigaOS 2.x and higher, additional Hold, Script, and Pure permissions/flags were added.</p>
+<p><a href="/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a> versions 10.3 ("Panther") and prior use POSIX-compliant permissions. Mac OS X, beginning with version 10.4 ("Tiger"), also support the use of NFSv4 ACLs. They still support "traditional Unix permissions" as used in previous versions of Mac OS X, and the <i>Apple Mac OS X Server version 10.4+ File Services Administration Manual</i> recommends using only traditional Unix permissions if possible. It also still supports the Mac OS Classic's "Protected" attribute.</p>
+<p><a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a> ACL support depends on the filesystem being used; older <a href="/wiki/Unix_File_System" title="Unix File System">UFS</a> filesystem supports POSIX.1e ACLs, while <a href="/wiki/ZFS" title="ZFS">ZFS</a> supports only NFSv4 ACLs.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p><a href="/wiki/Linux" title="Linux">Linux</a> supports POSIX.1e ACLs. There is experimental support for NFSv4 ACLs for <a href="/wiki/Ext3" title="Ext3">ext3</a> filesystem <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> and ext4 filesystem.</p>
+<p><a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a> supports POSIX.1e ACLs on UFS, and NFSv4 ACLs on UFS and ZFS.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<p><a href="/wiki/IBM_z/OS" class="mw-redirect" title="IBM z/OS">IBM z/OS</a> implements file security via RACF (Resource Access Control Facility)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Traditional_Unix_permissions">Traditional Unix permissions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=2" title="Edit section: Traditional Unix permissions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Permissions on <a href="/wiki/Unix-like" title="Unix-like">Unix-like</a> systems are managed in three distinct scopes or classes. These scopes are known as <i>user</i>, <i>group</i>, and <i>others</i>.</p>
+<p>When a file is created on a Unix-like system, its permissions are restricted by the <a href="/wiki/Umask" title="Umask">umask</a> of the process that created it.</p>
+<h3><span class="mw-headline" id="Classes">Classes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=3" title="Edit section: Classes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Computer_file" title="Computer file">Files</a> and <a href="/wiki/Directory_(file_systems)" class="mw-redirect" title="Directory (file systems)">directories</a> are owned by a user. The owner determines the file's <i>user class</i>. Distinct permissions apply to the owner.</p>
+<p>Files and directories are assigned a <a href="/wiki/Group_identifier" title="Group identifier">group</a>, which define the file's <i>group class.</i> Distinct permissions apply to members of the file's group. The owner may be a member of the file's group.</p>
+<p>Users who are not the owner, nor a member of the group, comprise a file's <i>others class</i>. Distinct permissions apply to others.</p>
+<p>The <i>effective permissions</i> are determined based on the first class the user falls within in the order of user, group then others. For example, the user who is the owner of the file will have the permissions given to the user class regardless of the permissions assigned to the group class or others class.</p>
+<h3><span class="mw-headline" id="Permissions">Permissions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=4" title="Edit section: Permissions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Modes_(Unix)" title="Modes (Unix)">Modes (Unix)</a></div>
+<p><a href="/wiki/Unix-like" title="Unix-like">Unix-like</a> systems implement three specific permissions that apply to each class:</p>
+<ul>
+<li>The <i>read</i> permission grants the ability to read a file. When set for a directory, this permission grants the ability to read the <b>names</b> of files in the directory, but not to find out any further information about them such as contents, file type, size, ownership, permissions.</li>
+<li>The <i>write</i> permission grants the ability to modify a file. When set for a directory, this permission grants the ability to modify entries in the directory. This includes creating files, deleting files, and renaming files.</li>
+<li>The <i>execute</i> permission grants the ability to execute a file. This permission must be set for executable programs, including shell scripts, in order to allow the operating system to run them. When set for a directory, this permission grants the ability to access file contents and meta-information if its name is known, but not list files inside the directory, unless <i>read</i> is set also.</li>
+</ul>
+<p>The effect of setting the permissions on a directory, rather than a file, is "one of the most frequently misunderstood file permission issues".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>When a permission is not set, the corresponding rights are denied. Unlike ACL-based systems, permissions on Unix-like systems are not inherited. Files created within a directory do not necessarily have the same permissions as that directory.</p>
+<h3><span class="mw-headline" id="Changing_permission_behavior_with_setuid.2C_setgid.2C_and_sticky_bits">Changing permission behavior with setuid, setgid, and sticky bits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=5" title="Edit section: Changing permission behavior with setuid, setgid, and sticky bits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Unix-like" title="Unix-like">Unix-like</a> systems typically employ three additional modes. These are actually attributes but are referred to as permissions or modes. These special modes are for a file or directory overall, not by a class, though in the symbolic notation (see below) the setuid bit is set in the triad for the user, the setgid bit is set in the triad for the group and the sticky bit is set in the triad for others.</p>
+<ul>
+<li>The <i><a href="/wiki/Setuid" title="Setuid">set user ID</a></i>, <i>setuid</i>, or SUID mode. When a file with setuid is executed, the resulting process will assume the effective <a href="/wiki/User_identifier_(Unix)" class="mw-redirect" title="User identifier (Unix)">user ID</a> given to the owner class. This enables users to be treated temporarily as root (or another user).</li>
+<li>The <i><a href="/wiki/Setgid" class="mw-redirect" title="Setgid">set group ID</a></i>, <i>setgid</i>, or SGID permission. When a file with <i>setgid</i> is executed, the resulting process will assume the <a href="/wiki/Group_identifier_(Unix)" class="mw-redirect" title="Group identifier (Unix)">group ID</a> given to the group class. When setgid is applied to a directory, new files and directories created under that directory will inherit their group from that directory. (Default behaviour is to use the primary group of the effective user when setting the group of new files and directories, except on BSD-derived systems which behave as though the setgid bit is always set on all directories (See <a href="/wiki/Setuid" title="Setuid">Setuid</a>).)</li>
+<li>The <i><a href="/wiki/Sticky_bit" title="Sticky bit">sticky</a></i> mode. (Also known as the <i>Text</i> mode.) The classical behaviour of the sticky bit on executable files has been to encourage the <a href="/wiki/Kernel_(computer_science)" class="mw-redirect" title="Kernel (computer science)">kernel</a> to retain the resulting process image in memory beyond termination; however such use of the sticky bit is now restricted to only a minority of unix-like operating systems (<a href="/wiki/HP-UX" title="HP-UX">HP-UX</a> and <a href="/wiki/UnixWare" title="UnixWare">UnixWare</a>). On a directory, the sticky permission prevents users from renaming, moving or deleting contained files owned by users other than themselves, even if they have write permission to the directory. Only the directory owner and superuser are exempt from this.</li>
+</ul>
+<p>These additional modes are also referred to as <i>setuid bit</i>, <i>setgid bit</i>, and <i>sticky bit</i>, due to the fact that they each occupy only one bit.</p>
+<h2><span class="mw-headline" id="Notation_of_traditional_Unix_permissions">Notation of traditional Unix permissions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=6" title="Edit section: Notation of traditional Unix permissions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Symbolic_notation">Symbolic notation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=7" title="Edit section: Symbolic notation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Unix permissions are represented either in symbolic notation or in octal notation.</p>
+<p>The most common form is <b>symbolic notation</b> as shown by <tt>ls -l</tt>.</p>
+<table class="wikitable" style="float: right; margin-right:0; margin-left: 1em">
+<tr>
+<th colspan="2" style="text-align: left">Three permission triads</th>
+</tr>
+<tr>
+<td style="text-align: center">first triad</td>
+<td>what the owner can do</td>
+</tr>
+<tr>
+<td style="text-align: center">second triad</td>
+<td>what the group members can do</td>
+</tr>
+<tr>
+<td style="text-align: center">third triad</td>
+<td>what other users can do</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: left">Each triad</th>
+</tr>
+<tr>
+<td style="text-align: center">first character</td>
+<td><tt>r</tt>: readable</td>
+</tr>
+<tr>
+<td style="text-align: center">second character</td>
+<td><tt>w</tt>: writable</td>
+</tr>
+<tr>
+<td style="text-align: center">third character</td>
+<td><tt>x</tt>: executable<br />
+<tt>s</tt> or <tt>t</tt>: <a href="/wiki/Setuid" title="Setuid">setuid</a>/<a href="/wiki/Setgid" class="mw-redirect" title="Setgid">setgid</a> or <a href="/wiki/Sticky_bit" title="Sticky bit">sticky</a> (also executable)<br />
+<tt>S</tt> or <tt>T</tt>: setuid/setgid or sticky (not executable)</td>
+</tr>
+</table>
+<p>The first character of the <tt>ls</tt> display indicates the <a href="/wiki/Unix_file_types" title="Unix file types">file type</a> and is not related to permissions. The remaining nine characters are in three sets, each representing a class of permissions as three characters. The first set represents the <i>user</i> class. The second set represents the <i>group</i> class. The third set represents the <i>others</i> class.</p>
+<p>Each of the three characters represent the read, write, and execute permissions:</p>
+<ul>
+<li><tt>r</tt> if reading is permitted, <tt>-</tt> if it is not.</li>
+<li><tt>w</tt> if writing is permitted, <tt>-</tt> if it is not.</li>
+<li><tt>x</tt> if execution is permitted, <tt>-</tt> if it is not.</li>
+</ul>
+<p>The following are some examples of symbolic notation:</p>
+<ul>
+<li><code>-rwxr-xr-x</code>: a regular file whose user class has full permissions and whose group and others classes have only the read and execute permissions.</li>
+<li><code>crw-rw-r--</code>: a character special file whose user and group classes have the read and write permissions and whose others class has only the read permission.</li>
+<li><code>dr-x------</code>: a directory whose user class has read and execute permissions and whose group and others classes have no permissions.</li>
+</ul>
+<p>In some permission systems additional symbols in the <tt>ls -l</tt> display represent additional permission features:</p>
+<ul>
+<li>+ (plus) suffix indicates an access control list that can control additional permissions.</li>
+<li>. (dot) suffix indicates an <a href="/wiki/SELinux" class="mw-redirect" title="SELinux">SELinux</a> context is present. Details may be listed with the command <i>ls -Z</i>.</li>
+<li>@ suffix indicates <a href="/wiki/Extended_file_attributes" title="Extended file attributes">extended file attributes</a> are present.</li>
+</ul>
+<p>To represent the <i><a href="/wiki/Setuid" title="Setuid">setuid</a></i>, <i><a href="/wiki/Setgid" class="mw-redirect" title="Setgid">setgid</a></i> and <i><a href="/wiki/Sticky_bit" title="Sticky bit">sticky or text</a></i> attributes, the executable character ('x' or '-') is modified. Though these attributes affect the overall file, not only users in one class, the setuid attribute modifies the executable character in the triad for the user, the setgid attribute modifies the executable character in the triad for the group and the sticky or text attribute modifies the executable character in the triad for others. For the setuid or setgid attributes, in the first or second triad, the 'x' becomes 's' and the '-' becomes 'S'. For the sticky or text attribute, in the third triad, the 'x' becomes 't' and the '-' becomes 'T'. Here is an example:</p>
+<ul>
+<li><code>-rwsr-Sr-t</code>: a file whose user class has read, write and execute permissions; whose group class has read permission; whose others class has read and execute permissions; and which has <i><a href="/wiki/Setuid" title="Setuid">setuid</a></i>, <i><a href="/wiki/Setgid" class="mw-redirect" title="Setgid">setgid</a></i> and <i><a href="/wiki/Sticky_bit" title="Sticky bit">sticky</a></i> attributes set.</li>
+</ul>
+<h3><span class="mw-headline" id="Numeric_notation">Numeric notation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=8" title="Edit section: Numeric notation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another method for representing Unix permissions is an <a href="/wiki/Octal" title="Octal">octal</a> (base-8) notation as shown by <tt>stat -c&#160;%a</tt>. This notation consists of at least three digits. Each of the three rightmost digits represents a different component of the permissions: owner, group, and others. (If a fourth digit is present, the leftmost (high-order) digit addresses three additional attributes, the <i><a href="/wiki/Setuid" title="Setuid">setuid bit</a></i>, the <i><a href="/wiki/Setgid" class="mw-redirect" title="Setgid">setgid bit</a></i> and the <i><a href="/wiki/Sticky_bit" title="Sticky bit">sticky bit</a></i>.)</p>
+<p>Each of these digits is the sum of its component bits in the <a href="/wiki/Binary_numeral_system" class="mw-redirect" title="Binary numeral system">binary numeral system</a>. As a result, specific bits add to the sum as it is represented by a numeral:</p>
+<ul>
+<li>The read bit adds 4 to its total (in binary 100),</li>
+<li>The write bit adds 2 to its total (in binary 010), and</li>
+<li>The execute bit adds 1 to its total (in binary 001).</li>
+</ul>
+<p>These values never produce ambiguous combinations; each sum represents a specific set of permissions. More technically, this is an octal representation of a <a href="/wiki/Bit_field" title="Bit field">bit field</a> â each bit references a separate permission, and grouping 3 bits at a time in octal corresponds to grouping these permissions by user, group, and others.</p>
+<p>These are the examples from the <a href="#Symbolic_notation">symbolic notation</a> section given in octal notation:</p>
+<table class="wikitable" style="text-align: center;">
+<tr>
+<th>Symbolic Notation</th>
+<th>Numeric Notation</th>
+<th>English</th>
+</tr>
+<tr>
+<td style="text-align: center;"><code>----------</code></td>
+<td>0000</td>
+<td style="text-align: left; padding-left: 5%;">no permissions</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>-rwx------</code></td>
+<td>0700</td>
+<td style="text-align: left; padding-left: 5%;">read, write, &amp; execute only for owner</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>-rwxrwx---</code></td>
+<td>0770</td>
+<td style="text-align: left; padding-left: 5%;">read, write, &amp; execute for owner and group</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>-rwxrwxrwx</code></td>
+<td>0777</td>
+<td style="text-align: left; padding-left: 5%;">read, write, &amp; execute for owner, group and others</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>---x--x--x</code></td>
+<td>0111</td>
+<td style="text-align: left; padding-left: 5%;">execute</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>--w--w--w-</code></td>
+<td>0222</td>
+<td style="text-align: left; padding-left: 5%;">write</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>--wx-wx-wx</code></td>
+<td>0333</td>
+<td style="text-align: left; padding-left: 5%;">write &amp; execute</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>-r--r--r--</code></td>
+<td>0444</td>
+<td style="text-align: left; padding-left: 5%;">read</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>-r-xr-xr-x</code></td>
+<td>0555</td>
+<td style="text-align: left; padding-left: 5%;">read &amp; execute</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>-rw-rw-rw-</code></td>
+<td>0666</td>
+<td style="text-align: left; padding-left: 5%;">read &amp; write</td>
+</tr>
+<tr>
+<td style="text-align: center;"><code>-rwxr-----</code></td>
+<td>0740</td>
+<td style="text-align: left; padding-left: 5%;">owner can read, write, &amp; execute; group can only read; others have no permissions</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="User_private_group">User private group</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=9" title="Edit section: User private group">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some systems diverge from the traditional POSIX-model of users and groups, by creating a new group&#160;â a "user private group"&#160;â for each user. Assuming each user is the only member of its user private group, this scheme allows an <a href="/wiki/Umask" title="Umask">umask</a> of 002 to be used without allowing other users to write to newly created files in normal directories because such files are assigned to the creating user's private group. However, when sharing files is desirable, the administrator can create a group containing the desired users, create a group-writable directory assigned to the new group, and, most importantly, make the directory setgid. Making it setgid will cause files created in it to be assigned to the same group as the directory and the 002 umask (enabled by using user private groups) will ensure that other members of the group will be able to write to those files. <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Chattr" title="Chattr">chattr</a> or chflags which set attributes or flags including "immutable" flags which lock files, overriding and restricting their permissions</li>
+<li><a href="/wiki/Chmod" title="Chmod">chmod</a>, the command used to set permissions on Unix-like <a href="/wiki/Systems_of_social_stratification" title="Systems of social stratification">systems</a></li>
+<li><a href="/wiki/Group_identifier_(Unix)" class="mw-redirect" title="Group identifier (Unix)">Group identifier (Unix)</a></li>
+<li><a href="/wiki/Chattr#lsattr_description" title="Chattr">lsattr</a></li>
+<li><a href="/wiki/POSIX" title="POSIX">POSIX</a></li>
+<li><a href="/wiki/Umask" title="Umask">umask</a></li>
+<li><a href="/wiki/User_identifier_(Unix)" class="mw-redirect" title="User identifier (Unix)">User identifier (Unix)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://technet.microsoft.com/en-us/library/bb727008.aspx">"File and Folder Permissions"</a>. Microsoft.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+system+permissions&amp;rft.btitle=File+and+Folder+Permissions&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftechnet.microsoft.com%2Fen-us%2Flibrary%2Fbb727008.aspx&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://h71000.www7.hp.com/doc/731final/6489/6489pro_025.html#int_prot_code">"OpenVMS documentation"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+system+permissions&amp;rft.btitle=OpenVMS+documentation&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fh71000.www7.hp.com%2Fdoc%2F731final%2F6489%2F6489pro_025.html%23int_prot_code&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://docs.oracle.com/cd/E19253-01/819-5461/819-5461.pdf">http://docs.oracle.com/cd/E19253-01/819-5461/819-5461.pdf</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.suse.de/~agruen/nfs4acl/">http://www.suse.de/~agruen/nfs4acl/</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wiki.freebsd.org/NFSv4_ACLs">"NFSv4_ACLs - FreeBSD Wiki"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+system+permissions&amp;rft.btitle=NFSv4_ACLs+-+FreeBSD+Wiki&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwiki.freebsd.org%2FNFSv4_ACLs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.freenas.org/images/resources/freenas9.1.1/freenas9.1.1_guide.pdf">http://www.freenas.org/images/resources/freenas9.1.1/freenas9.1.1_guide.pdf</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://publib.boulder.ibm.com/infocenter/zos/v1r12/index.jsp?topic=%2Fcom.ibm.zos.r12.e0ze100%2Fracf.htm">"IBM Knowledge Center"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+system+permissions&amp;rft.btitle=IBM+Knowledge+Center&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpublib.boulder.ibm.com%2Finfocenter%2Fzos%2Fv1r12%2Findex.jsp%3Ftopic%3D%252Fcom.ibm.zos.r12.e0ze100%252Fracf.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Hatch, Brian. <a rel="nofollow" class="external text" href="http://www.hackinglinuxexposed.com/articles/20030424.html">"Linux File Permission Confusion pt 2"</a>, "Hacking Linux Exposed", April 24, 2003, accessed July 6, 2011.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Epstein, Brian. <a rel="nofollow" class="external text" href="https://security.ias.edu/how-and-why-user-private-groups-unix">"The How and Why of User Private Groups in Unix"</a>. <i><a rel="nofollow" class="external free" href="https://security.ias.edu/">https://security.ias.edu/</a></i>. Institute for Advanced Study Network Security<span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+system+permissions&amp;rft.atitle=The+How+and+Why+of+User+Private+Groups+in+Unix&amp;rft.aufirst=Brian&amp;rft.aulast=Epstein&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fsecurity.ias.edu%2Fhow-and-why-user-private-groups-unix&amp;rft.jtitle=https%3A%2F%2Fsecurity.ias.edu%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">HradÃ­lek, JaromÃ­r. <a rel="nofollow" class="external text" href="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/s1-users-tools.html#s2-users-tools-groups-directories">"Red Hat Enterprise Linux 7 System Administrator's Guide, 3.3.3 Creating Group Directories"</a>. <i><a rel="nofollow" class="external free" href="https://access.redhat.com/">https://access.redhat.com/</a></i>. Red Hat.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile+system+permissions&amp;rft.atitle=Red+Hat+Enterprise+Linux+7+System+Administrator%27s+Guide%2C+3.3.3++Creating+Group+Directories&amp;rft.aufirst=Jarom%C3r&amp;rft.aulast=Hrad%C3lek&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Faccess.redhat.com%2Fdocumentation%2Fen-US%2FRed_Hat_Enterprise_Linux%2F7%2Fhtml%2FSystem_Administrators_Guide%2Fs1-users-tools.html%23s2-users-tools-groups-directories&amp;rft.jtitle=https%3A%2F%2Faccess.redhat.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File_system_permissions&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://dsl.org/cookbook/cookbook_9.html">The Linux Cookbook: Groups and How to Work in Them</a> by Michael Stutz 2004</li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1347955-0!*!0!!en!*!* and timestamp 20161003105924 and revision id 741194861
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=File_system_permissions&amp;oldid=741194861">https://en.wikipedia.org/w/index.php?title=File_system_permissions&amp;oldid=741194861</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_file_systems" title="Category:Computer file systems">Computer file systems</a></li><li><a href="/wiki/Category:Computer_security_procedures" title="Category:Computer security procedures">Computer security procedures</a></li><li><a href="/wiki/Category:Unix_file_system_technology" title="Category:Unix file system technology">Unix file system technology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File+system+permissions" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File+system+permissions" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/File_system_permissions"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:File_system_permissions"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/File_system_permissions" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=File_system_permissions&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=File_system_permissions&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content â the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/File_system_permissions" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/File_system_permissions" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=File_system_permissions&amp;oldid=741194861" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=File_system_permissions&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1172314" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=File_system_permissions&amp;id=741194861" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=File+system+permissions">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=File+system+permissions&amp;returnto=File+system+permissions&amp;oldid=741194861&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=File_system_permissions&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D8%A7%D8%B1%D9%8A%D8%AD_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA" title="ØªØµØ§Ø±ÙØ­ ÙØ¸Ø§Ù Ø§ÙÙÙÙØ§Øª â Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">Ø§ÙØ¹Ø±Ø¨ÙØ©</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Opr%C3%A1vn%C4%9Bn%C3%AD_v_syst%C3%A9mu_soubor%C5%AF" title="OprÃ¡vnÄnÃ­ v systÃ©mu souborÅ¯ â Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">ÄeÅ¡tina</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Dateiberechtigung" title="Dateiberechtigung â German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%86%CE%B4%CE%B5%CE%B9%CE%B5%CF%82_%CF%83%CF%85%CF%83%CF%84%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82_%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CF%89%CE%BD" title="ÎÎ´ÎµÎ¹ÎµÏ ÏÏÏÏÎ®Î¼Î±ÏÎ¿Ï Î±ÏÏÎµÎ¯ÏÎ½ â Greek" lang="el" hreflang="el" class="interlanguage-link-target">ÎÎ»Î»Î·Î½Î¹ÎºÎ¬</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Permisos_de_acceso_a_archivos" title="Permisos de acceso a archivos â Spanish" lang="es" hreflang="es" class="interlanguage-link-target">EspaÃ±ol</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%AC%D9%88%D8%B2%D9%87%D8%A7%DB%8C_%D8%B3%DB%8C%D8%B3%D8%AA%D9%85_%D9%81%D8%A7%DB%8C%D9%84" title="ÙØ¬ÙØ²ÙØ§Û Ø³ÛØ³ØªÙ ÙØ§ÛÙ â Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">ÙØ§Ø±Ø³Û</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%BC_%EC%8B%9C%EC%8A%A4%ED%85%9C_%EA%B6%8C%ED%95%9C" title="íì¼ ìì¤í ê¶í â Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">íêµ­ì´</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Dopu%C5%A1tenja_datote%C4%8Dnog_sustava" title="DopuÅ¡tenja datoteÄnog sustava â Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Permessi_(Unix)" title="Permessi (Unix) â Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%91%E3%83%BC%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3" title="ãã¡ã¤ã«ãã¼ããã·ã§ã³ â Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">æ¥æ¬èª</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Prawa_dost%C4%99pu" title="Prawa dostÄpu â Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0" title="ÐÑÐ°Ð²Ð° Ð´Ð¾ÑÑÑÐ¿Ð° â Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Ð ÑÑÑÐºÐ¸Ð¹</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%83" title="ÐÑÐ°Ð²Ð¾ Ð´Ð¾ÑÑÑÐ¿Ñ â Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%9D%83%E9%99%90" title="æä»¶ç³»ç»æé â Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">ä¸­æ</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1172314#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 September 2016, at 00:28.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. WikipediaÂ® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=File_system_permissions&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.089",
+            "walltime": "0.107",
+            "ppvisitednodes": {
+                "value": 391,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 8687,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 0,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 4,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 0,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%   74.291      1 -total",
+                " 70.68%   52.511      1 Template:Reflist",
+                " 56.38%   41.886      6 Template:Cite_web",
+                " 26.55%   19.721      1 Template:Main"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.034",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 2420746,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1238",
+            "timestamp": "20161003105924",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1268"});});</script>
+	</body>
+</html>
+
